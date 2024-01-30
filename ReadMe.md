@@ -113,8 +113,8 @@ id: Spain
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Spain///
-markerFolder: ./Spain/
+geojsonFolder: .///
+markerFolder: ./
 ```
 
 [name-en::Spain] 
