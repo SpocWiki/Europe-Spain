@@ -2,14 +2,16 @@
 aliases:
   - Aragón
 ---
-# Aragon
+# [[Aragon]] 
+
+:(map) :luc_map:)
 
 ```leaflet
 id: Sweden
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Aragon/
+geojsonFolder: ./Aragon////
 markerFolder: ./Aragon/
 ```
 
