@@ -16,8 +16,10 @@ aliases:
 - 
 ---
 
-[geo-lon::-0.9] 
-[geo-lat::41.65] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.9] 
+[has_place_latitude::41.65] 
 [name::Saragossa] 
 State ::  
 Country :: [[Spain]]  

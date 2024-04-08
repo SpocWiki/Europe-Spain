@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-1.68] 
-[geo-lat::42.83] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-1.68] 
+[has_place_latitude::42.83] 
 [name::Pamplona] 
 State ::  
 Country :: [[Spain]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-2.52] 
-[geo-lat::41.82] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-2.52] 
+[has_place_latitude::41.82] 
 [name::Soria] 
 State ::  
 Country :: [[Spain]]  

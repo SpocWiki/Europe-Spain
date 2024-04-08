@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::2.02] 
-[geo-lat::41.57] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::2.02] 
+[has_place_latitude::41.57] 
 [name::Tarrasa] 
 State ::  
 Country :: [[Spain]]  

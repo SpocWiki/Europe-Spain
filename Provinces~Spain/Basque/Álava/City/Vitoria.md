@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-2.67] 
-[geo-lat::42.85] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-2.67] 
+[has_place_latitude::42.85] 
 [name::Vitoria] 
 State ::  
 Country :: [[Spain]]  

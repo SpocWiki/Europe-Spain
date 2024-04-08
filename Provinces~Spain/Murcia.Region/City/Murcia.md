@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-1.12] 
-[geo-lat::37.98] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-1.12] 
+[has_place_latitude::37.98] 
 [name::Murcia] 
 State ::  
 Country :: [[Spain]]  

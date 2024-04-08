@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-7.75] 
-[geo-lat::43.13] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-7.75] 
+[has_place_latitude::43.13] 
 [name::Parga] 
 State ::  
 Country :: [[Spain]]  

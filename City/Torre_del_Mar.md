@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-4.1] 
-[geo-lat::36.72] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-4.1] 
+[has_place_latitude::36.72] 
 [name::Torre del Mar] 
 State ::  
 Country :: [[Spain]]  

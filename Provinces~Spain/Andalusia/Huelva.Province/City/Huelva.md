@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-6.95] 
-[geo-lat::37.25] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-6.95] 
+[has_place_latitude::37.25] 
 [name::Huelva] 
 State ::  
 Country :: [[Spain]]  

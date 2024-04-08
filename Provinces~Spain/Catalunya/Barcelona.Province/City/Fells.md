@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::1.97] 
-[geo-lat::41.27] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::1.97] 
+[has_place_latitude::41.27] 
 [name::Fells] 
 State ::  
 Country :: [[Spain]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-3.18] 
-[geo-lat::36.75] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-3.18] 
+[has_place_latitude::36.75] 
 [name::Adra] 
 State ::  
 Country :: [[Spain]]  

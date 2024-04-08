@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-7.87] 
-[geo-lat::42.33] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-7.87] 
+[has_place_latitude::42.33] 
 [name::Ourense] 
 State ::  
 Country :: [[Spain]]  

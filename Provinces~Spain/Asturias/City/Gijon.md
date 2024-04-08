@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-5.68] 
-[geo-lat::43.55] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-5.68] 
+[has_place_latitude::43.55] 
 [name::Gijon] 
 State ::  
 Country :: [[Spain]]  

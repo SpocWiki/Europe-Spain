@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-5.75] 
-[geo-lat::39.03] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-5.75] 
+[has_place_latitude::39.03] 
 [name::Villanueva d. I. S.] 
 State ::  
 Country :: [[Spain]]  

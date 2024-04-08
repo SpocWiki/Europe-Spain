@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-5.78] 
-[geo-lat::37.47] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-5.78] 
+[has_place_latitude::37.47] 
 [name::Carmona] 
 State ::  
 Country :: [[Spain]]  

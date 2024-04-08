@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-6.2] 
-[geo-lat::36.47] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-6.2] 
+[has_place_latitude::36.47] 
 [name::Cadiz] 
 State ::  
 Country :: [[Spain]]  

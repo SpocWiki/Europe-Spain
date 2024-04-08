@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-3.05] 
-[geo-lat::43.33] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-3.05] 
+[has_place_latitude::43.33] 
 [name::Portugalete] 
 State ::  
 Country :: [[Spain]]  

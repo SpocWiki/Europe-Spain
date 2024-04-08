@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-6.97] 
-[geo-lat::38.87] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-6.97] 
+[has_place_latitude::38.87] 
 [name::Badajoz] 
 State ::  
 Country :: [[Spain]]  

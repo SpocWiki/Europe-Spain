@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-5.98] 
-[geo-lat::36.15] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-5.98] 
+[has_place_latitude::36.15] 
 [name::Trafalgar] 
 State ::  
 Country :: [[Spain]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-6.02] 
-[geo-lat::37.38] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-6.02] 
+[has_place_latitude::37.38] 
 [name::Sevilla] 
 State ::  
 Country :: [[Spain]]  

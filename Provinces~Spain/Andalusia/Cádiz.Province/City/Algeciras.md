@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-5.45] 
-[geo-lat::36.13] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-5.45] 
+[has_place_latitude::36.13] 
 [name::Algeciras] 
 State ::  
 Country :: [[Spain]]  

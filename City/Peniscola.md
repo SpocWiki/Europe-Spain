@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::0.47] 
-[geo-lat::40.38] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::0.47] 
+[has_place_latitude::40.38] 
 [name::Peniscola] 
 State ::  
 Country :: [[Spain]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::1.23] 
-[geo-lat::41.1] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::1.23] 
+[has_place_latitude::41.1] 
 [name::Tarragona] 
 State ::  
 Country :: [[Spain]]  

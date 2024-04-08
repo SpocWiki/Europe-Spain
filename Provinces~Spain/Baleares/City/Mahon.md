@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::4.25] 
-[geo-lat::39.9] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::4.25] 
+[has_place_latitude::39.9] 
 [name::Mahon] 
 State ::  
 Country :: [[Spain]]  

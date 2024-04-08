@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-18] 
-[geo-lat::27.75] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-18] 
+[has_place_latitude::27.75] 
 [name::Hierro] 
 State ::  
 Country :: [[Spain]]  

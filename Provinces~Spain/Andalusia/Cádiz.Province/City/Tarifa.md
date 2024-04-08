@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-5.58] 
-[geo-lat::36.02] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-5.58] 
+[has_place_latitude::36.02] 
 [name::Tarifa] 
 State ::  
 Country :: [[Spain]]  

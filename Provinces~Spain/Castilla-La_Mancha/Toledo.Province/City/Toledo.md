@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-4.02] 
-[geo-lat::39.87] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-4.02] 
+[has_place_latitude::39.87] 
 [name::Toledo] 
 State ::  
 Country :: [[Spain]]  

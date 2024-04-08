@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::2.65] 
-[geo-lat::39.57] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::2.65] 
+[has_place_latitude::39.57] 
 [name::Palma~Mallorca] 
 State ::  
 Country :: [[Spain]]  

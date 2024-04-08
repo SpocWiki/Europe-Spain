@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-0.05] 
-[geo-lat::39.98] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.05] 
+[has_place_latitude::39.98] 
 [name::Castellon de la Plana] 
 State ::  
 Country :: [[../../../../../Italy]]  

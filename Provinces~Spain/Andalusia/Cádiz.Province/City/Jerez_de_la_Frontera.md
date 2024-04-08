@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-6.13] 
-[geo-lat::36.68] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-6.13] 
+[has_place_latitude::36.68] 
 [name::Jerez de la Frontera] 
 State ::  
 Country :: [[Spain]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::2.97] 
-[geo-lat::42.27] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::2.97] 
+[has_place_latitude::42.27] 
 [name::Figueras] 
 State ::  
 Country :: [[Spain]]  
