@@ -184,7 +184,7 @@ Check out this Repository into this Subfolder:
 
 ### #has_/image_for_/coat_of_arms 
 
-#has_/image_for_/coat_of_arms :: ![[./Escudo_de_España_(mazonado).svg|150]] <img src="./Escudo_de_España_(mazonado).svg" width="150"/> 
+#has_/image_for_/coat_of_arms :: ![[./Escudo_de_España~mazonado.svg|150]] <img src="./Escudo_de_España~mazonado.svg" width="150"/> 
 
 #has_/sound_of_/anthem :: ![[Anthem-Spain-complete.mp3]]
 
