@@ -1,8 +1,8 @@
-# Extremadura
+# [[Extremadura]]
 
 
 ```leaflet
-id: Sweden
+id: Extremadura
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

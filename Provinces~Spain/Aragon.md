@@ -4,10 +4,9 @@ aliases:
 ---
 # [[Aragon]] 
 
-:(map) :luc_map:)
 
 ```leaflet
-id: Sweden
+id: Aragon
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

@@ -1,7 +1,11 @@
+---
+aliases:
+  - País_Vasco
+---
 # Basque
 
 ```leaflet
-id: Sweden
+id: Basque
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

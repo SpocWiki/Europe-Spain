@@ -6,7 +6,7 @@ aliases:
  
 
 ```leaflet
-id: Sweden
+id: Andalusia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
