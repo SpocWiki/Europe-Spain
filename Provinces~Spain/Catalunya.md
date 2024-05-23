@@ -22,103 +22,103 @@ coordinates of southernmost point: Point(0.5147 40.52306)
 coordinates of easternmost point: Point(3.33248 42.32003)
 coordinates of westernmost point: Point(0.15942 40.75047)
 described by source:
-  - "[[_Standards/db/The Nuttall Encyclopædia]]"
-  - "[[_Standards/db/Small Brockhaus and Efron Encyclopedic Dictionary]]"
-  - "[[_Standards/db/Armenian Soviet Encyclopedia, vol. 5]]"
-  - "[[_Standards/db/Brockhaus and Efron Encyclopedic Dictionary]]"
-  - "[[_Standards/db/Encyclopædia Britannica 11th edition]]"
-replaces: "[[_Standards/db/Captaincy General of Catalonia]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia]]"
+  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5]]"
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition]]"
+replaces: "[[_Standards/WikiData/WD~Captaincy General of Catalonia]]"
 number of seats in assembly: 135
-topic's main template: "[[_Standards/db/Template:Catalonia topics]]"
+topic's main template: "[[_Standards/WikiData/WD~Template:Catalonia topics]]"
 Stack Exchange tag: https://travel.stackexchange.com/tags/catalonia
-lowest point: "[[_Standards/db/Estany de Vilacolum]]"
-driving side: "[[_Standards/db/right]]"
+lowest point: "[[_Standards/WikiData/WD~Estany de Vilacolum]]"
+driving side: "[[_Standards/WikiData/WD~right]]"
 different from:
-  - "[[_Standards/db/Catalan Republic]]"
-  - "[[_Standards/db/Khatlon Province]]"
-  - "[[_Standards/db/Catalunya]]"
-  - "[[_Standards/db/Cataluña]]"
+  - "[[_Standards/WikiData/WD~Catalan Republic]]"
+  - "[[_Standards/WikiData/WD~Khatlon Province]]"
+  - "[[_Standards/WikiData/WD~Catalunya]]"
+  - "[[_Standards/WikiData/WD~Cataluña]]"
 area: 31895
 nominal GDP: 238308749
-history of topic: "[[_Standards/db/history of Catalonia]]"
+history of topic: "[[_Standards/WikiData/WD~history of Catalonia]]"
 life expectancy: 83.63
-geography of topic: "[[_Standards/db/geography of Catalonia]]"
+geography of topic: "[[_Standards/WikiData/WD~geography of Catalonia]]"
 has part(s) of the class:
-  - "[[_Standards/db/province of Spain]]"
-  - "[[_Standards/db/comarca of Catalonia]]"
-  - "[[_Standards/db/municipality of Catalonia]]"
+  - "[[_Standards/WikiData/WD~province of Spain]]"
+  - "[[_Standards/WikiData/WD~comarca of Catalonia]]"
+  - "[[_Standards/WikiData/WD~municipality of Catalonia]]"
 electrical plug type:
-  - "[[_Standards/db/Schuko]]"
-  - "[[_Standards/db/Europlug]]"
+  - "[[_Standards/WikiData/WD~Schuko]]"
+  - "[[_Standards/WikiData/WD~Europlug]]"
 VAT rate:
   - 4
   - 10
   - 21
 mains voltage: 230
 language used:
-  - "[[_Standards/db/Spanish]]"
-  - "[[_Standards/db/Catalan]]"
-  - "[[_Standards/db/Aranese]]"
-  - "[[_Standards/db/Catalan Sign Language]]"
+  - "[[_Standards/WikiData/WD~Spanish]]"
+  - "[[_Standards/WikiData/WD~Catalan]]"
+  - "[[_Standards/WikiData/WD~Aranese]]"
+  - "[[_Standards/WikiData/WD~Catalan Sign Language]]"
 age of majority: 18
 retirement age: 65
 speed limit:
   - 50
   - 90
   - 120
-head of government: "[[_Standards/db/Pere Aragonès]]"
-country: "[[_Standards/db/Spain]]"
+head of government: "[[_Standards/WikiData/WD~Pere Aragonès]]"
+country: "[[_Standards/WikiData/WD~Spain]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/NASA%20Satellite%20Catalonia.jpg
-continent: "[[_Standards/db/Europe]]"
+continent: "[[_Standards/WikiData/WD~Europe]]"
 instance of:
-  - "[[_Standards/db/country]]"
-  - "[[_Standards/db/autonomous community of Spain]]"
-  - "[[_Standards/db/historical nationality]]"
-capital: "[[_Standards/db/Barcelona]]"
+  - "[[_Standards/WikiData/WD~country]]"
+  - "[[_Standards/WikiData/WD~autonomous community of Spain]]"
+  - "[[_Standards/WikiData/WD~historical nationality]]"
+capital: "[[_Standards/WikiData/WD~Barcelona]]"
 official language:
-  - "[[_Standards/db/Spanish]]"
-  - "[[_Standards/db/Catalan]]"
-  - "[[_Standards/db/Occitan]]"
-currency: "[[_Standards/db/Euro]]"
+  - "[[_Standards/WikiData/WD~Spanish]]"
+  - "[[_Standards/WikiData/WD~Catalan]]"
+  - "[[_Standards/WikiData/WD~Occitan]]"
+currency: "[[_Standards/WikiData/WD~Euro]]"
 flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Catalonia.svg
 shares border with:
-  - "[[_Standards/db/Andorra]]"
-  - "[[_Standards/db/Aragon]]"
-  - "[[_Standards/db/Valencian Community]]"
-  - "[[_Standards/db/Encamp]]"
-  - "[[_Standards/db/La Massana]]"
-  - "[[_Standards/db/Sant Julià de Lòria]]"
-  - "[[_Standards/db/Escaldes-Engordany]]"
-  - "[[_Standards/db/Andorra la Vella]]"
-  - "[[_Standards/db/Occitania]]"
+  - "[[_Standards/WikiData/WD~Andorra]]"
+  - "[[_Standards/WikiData/WD~Aragon]]"
+  - "[[_Standards/WikiData/WD~Valencian Community]]"
+  - "[[_Standards/WikiData/WD~Encamp]]"
+  - "[[_Standards/WikiData/WD~La Massana]]"
+  - "[[_Standards/WikiData/WD~Sant Julià de Lòria]]"
+  - "[[_Standards/WikiData/WD~Escaldes-Engordany]]"
+  - "[[_Standards/WikiData/WD~Andorra la Vella]]"
+  - "[[_Standards/WikiData/WD~Occitania]]"
 compulsory education (minimum age): 6
 compulsory education (maximum age): 16
 geoshape: http://commons.wikimedia.org/data/main/Data:Spain/Catalonia.map
-Wikimedia outline: "[[_Standards/db/outline of Catalonia]]"
-railway traffic side: "[[_Standards/db/right]]"
+Wikimedia outline: "[[_Standards/WikiData/WD~outline of Catalonia]]"
+railway traffic side: "[[_Standards/WikiData/WD~right]]"
 significant event:
-  - "[[_Standards/db/War of the Catalans]]"
-  - "[[_Standards/db/Catalan independence process]]"
-  - "[[_Standards/db/Catalan declaration of independence]]"
-  - "[[_Standards/db/1992 Summer Olympics]]"
-  - "[[_Standards/db/Peninsular War]]"
-  - "[[_Standards/db/Catalonia Offensive]]"
-  - "[[_Standards/db/treaty of the Pyrenees]]"
-  - "[[_Standards/db/Siege of Barcelona]]"
-  - "[[_Standards/db/Renaixença]]"
-  - "[[_Standards/db/Constitution of Spain]]"
-  - "[[_Standards/db/Reapers' War]]"
-  - "[[_Standards/db/Nueva Planta decrees]]"
-public holiday: "[[_Standards/db/National Day of Catalonia]]"
+  - "[[_Standards/WikiData/WD~War of the Catalans]]"
+  - "[[_Standards/WikiData/WD~Catalan independence process]]"
+  - "[[_Standards/WikiData/WD~Catalan declaration of independence]]"
+  - "[[_Standards/WikiData/WD~1992 Summer Olympics]]"
+  - "[[_Standards/WikiData/WD~Peninsular War]]"
+  - "[[_Standards/WikiData/WD~Catalonia Offensive]]"
+  - "[[_Standards/WikiData/WD~treaty of the Pyrenees]]"
+  - "[[_Standards/WikiData/WD~Siege of Barcelona]]"
+  - "[[_Standards/WikiData/WD~Renaixença]]"
+  - "[[_Standards/WikiData/WD~Constitution of Spain]]"
+  - "[[_Standards/WikiData/WD~Reapers' War]]"
+  - "[[_Standards/WikiData/WD~Nueva Planta decrees]]"
+public holiday: "[[_Standards/WikiData/WD~National Day of Catalonia]]"
 official website: https://web.gencat.cat/ca/inici/
 page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Montserrat%20Mountains%20banner.jpg
 Human Development Index: 0.904
 population: 7747709
-topic's main Wikimedia portal: "[[_Standards/db/Portal:Catalonia]]"
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal:Catalonia]]"
 unemployment rate:
   - 11.7
   - 13.23
-office held by head of government: "[[_Standards/db/President of the Generalitat of Catalonia]]"
+office held by head of government: "[[_Standards/WikiData/WD~President of the Generalitat of Catalonia]]"
 external data available at URL: http://governobert.gencat.cat
 demonym:
   - català
@@ -162,45 +162,45 @@ hashtag:
   - Catalonia
   - Catalunya
 top-level Internet domain: "[[_Standards/db/.cat]]"
-anthem: "[[_Standards/db/Els Segadors]]"
-main regulatory text: "[[_Standards/db/Statute of Autonomy of Catalonia 2006]]"
+anthem: "[[_Standards/WikiData/WD~Els Segadors]]"
+main regulatory text: "[[_Standards/WikiData/WD~Statute of Autonomy of Catalonia 2006]]"
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20Catalonia.svg
-basic form of government: "[[_Standards/db/parliamentary system]]"
-located in the administrative territorial entity: "[[_Standards/db/Spain]]"
-named after: "[[_Standards/db/Catalan people]]"
+basic form of government: "[[_Standards/WikiData/WD~parliamentary system]]"
+located in the administrative territorial entity: "[[_Standards/WikiData/WD~Spain]]"
+named after: "[[_Standards/WikiData/WD~Catalan people]]"
 contains the administrative territorial entity:
-  - "[[_Standards/db/Province of Girona]]"
-  - "[[_Standards/db/Lleida Province]]"
-  - "[[_Standards/db/Barcelona Province]]"
-  - "[[_Standards/db/Tarragona Province]]"
-flag: "[[_Standards/db/flag of Catalonia]]"
-legislative body: "[[_Standards/db/Parliament of Catalonia]]"
-located in or next to body of water: "[[_Standards/db/Mediterranean Sea]]"
-executive body: "[[_Standards/db/Government of Catalonia]]"
-highest judicial authority: "[[_Standards/db/High Court of Justice of Catalonia]]"
-coat of arms: "[[_Standards/db/coat of arms of Catalonia]]"
+  - "[[_Standards/WikiData/WD~Province of Girona]]"
+  - "[[_Standards/WikiData/WD~Lleida Province]]"
+  - "[[_Standards/WikiData/WD~Barcelona Province]]"
+  - "[[_Standards/WikiData/WD~Tarragona Province]]"
+flag: "[[_Standards/WikiData/WD~flag of Catalonia]]"
+legislative body: "[[_Standards/WikiData/WD~Parliament of Catalonia]]"
+located in or next to body of water: "[[_Standards/WikiData/WD~Mediterranean Sea]]"
+executive body: "[[_Standards/WikiData/WD~Government of Catalonia]]"
+highest judicial authority: "[[_Standards/WikiData/WD~High Court of Justice of Catalonia]]"
+coat of arms: "[[_Standards/WikiData/WD~coat of arms of Catalonia]]"
 locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Localitzaci%C3%B3%20catalunya%20pa%C3%AFsos%20catalans.svg
 part of:
-  - "[[_Standards/db/Catalan Countries]]"
-  - "[[_Standards/db/Pyrenees–Mediterranean Euroregion]]"
+  - "[[_Standards/WikiData/WD~Catalan Countries]]"
+  - "[[_Standards/WikiData/WD~Pyrenees–Mediterranean Euroregion]]"
 patron saint:
-  - "[[_Standards/db/Saint George]]"
-  - "[[_Standards/db/Our mum of montserrat]]"
-located in time zone: "[[_Standards/db/UTC+01:00]]"
+  - "[[_Standards/WikiData/WD~Saint George]]"
+  - "[[_Standards/WikiData/WD~Our mum of montserrat]]"
+located in time zone: "[[_Standards/WikiData/WD~UTC+01:00]]"
 pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Fabricio%20Cardenas%20%28Culex%29-Catalogne.wav
 member of:
-  - "[[_Standards/db/REGLEG]]"
-  - "[[_Standards/db/Four Motors for Europe]]"
-  - "[[_Standards/db/Assembly of European Regions]]"
-  - "[[_Standards/db/Comunitat de Treball dels Pirineus]]"
-  - "[[_Standards/db/Conference of Peripheral Maritime Regions of Europe]]"
-  - "[[_Standards/db/Network of Regional Governments for Sustainable Development]]"
-archives at: "[[_Standards/db/National Archive of Catalonia]]"
-highest point: "[[_Standards/db/Pica d'Estats]]"
-located in/on physical feature: "[[_Standards/db/Iberian Peninsula]]"
+  - "[[_Standards/WikiData/WD~REGLEG]]"
+  - "[[_Standards/WikiData/WD~Four Motors for Europe]]"
+  - "[[_Standards/WikiData/WD~Assembly of European Regions]]"
+  - "[[_Standards/WikiData/WD~Comunitat de Treball dels Pirineus]]"
+  - "[[_Standards/WikiData/WD~Conference of Peripheral Maritime Regions of Europe]]"
+  - "[[_Standards/WikiData/WD~Network of Regional Governments for Sustainable Development]]"
+archives at: "[[_Standards/WikiData/WD~National Archive of Catalonia]]"
+highest point: "[[_Standards/WikiData/WD~Pica d'Estats]]"
+located in/on physical feature: "[[_Standards/WikiData/WD~Iberian Peninsula]]"
 social media followers: 21884
-economy of topic: "[[_Standards/db/economy of Catalonia]]"
-demographics of topic: "[[_Standards/db/demographics of Catalonia]]"
+economy of topic: "[[_Standards/WikiData/WD~economy of Catalonia]]"
+demographics of topic: "[[_Standards/WikiData/WD~demographics of Catalonia]]"
 subreddit: catalonia
 DPLA subject term:
   - "Catalonia (Spain : Region)"

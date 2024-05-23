@@ -4,71 +4,71 @@ aliases:
   - Galicia
   - Galiza
 hashtag: Galicia
-coat of arms: "[[_Standards/db/coat of arms of Galicia]]"
+coat of arms: "[[_Standards/WikiData/WD~coat of arms of Galicia]]"
 locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Localizaci%C3%B3n%20de%20Galicia.svg
 located in time zone:
-  - "[[_Standards/db/UTC+01:00]]"
-  - "[[_Standards/db/UTC+02:00]]"
+  - "[[_Standards/WikiData/WD~UTC+01:00]]"
+  - "[[_Standards/WikiData/WD~UTC+02:00]]"
 pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Galicia.wav
-highest point: "[[_Standards/db/Trevinca]]"
-public holiday: "[[_Standards/db/Día Nacional de Galicia]]"
+highest point: "[[_Standards/WikiData/WD~Trevinca]]"
+public holiday: "[[_Standards/WikiData/WD~Día Nacional de Galicia]]"
 page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Wikivoyage%20banner%20of%20Galicia.jpg
 population: 2695645
-topic's main Wikimedia portal: "[[_Standards/db/Portal:Galicia]]"
-office held by head of government: "[[_Standards/db/President of the Xunta of Galicia]]"
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal:Galicia]]"
+office held by head of government: "[[_Standards/WikiData/WD~President of the Xunta of Galicia]]"
 described by source:
-  - "[[_Standards/db/Brockhaus and Efron Encyclopedic Dictionary]]"
-  - "[[_Standards/db/Encyclopædia Britannica 11th edition]]"
-  - "[[_Standards/db/Jewish Encyclopedia of Brockhaus and Efron]]"
-  - "[[_Standards/db/Meyers Konversations-Lexikon, 4th edition (1885–1890)]]"
-  - "[[_Standards/db/Great Soviet Encyclopedia (1926–1947)]]"
-replaces: "[[_Standards/db/Q20021558]]"
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition]]"
+  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890)]]"
+  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947)]]"
+replaces: "[[_Standards/WikiData/WD~Q20021558]]"
 different from:
-  - "[[_Standards/db/Galicia]]"
-  - "[[_Standards/db/Gallizien]]"
+  - "[[_Standards/WikiData/WD~Galicia]]"
+  - "[[_Standards/WikiData/WD~Gallizien]]"
 area: 29574
-geography of topic: "[[_Standards/db/geography of Galicia]]"
-language used: "[[_Standards/db/Galician]]"
+geography of topic: "[[_Standards/WikiData/WD~geography of Galicia]]"
+language used: "[[_Standards/WikiData/WD~Galician]]"
 geoshape: http://commons.wikimedia.org/data/main/Data:Spain/Galicia.map
-economy of topic: "[[_Standards/db/economy of Galicia]]"
-demographics of topic: "[[_Standards/db/demographics of Galicia]]"
-head of government: "[[_Standards/db/Alfonso Rueda]]"
-country: "[[_Standards/db/Spain]]"
+economy of topic: "[[_Standards/WikiData/WD~economy of Galicia]]"
+demographics of topic: "[[_Standards/WikiData/WD~demographics of Galicia]]"
+head of government: "[[_Standards/WikiData/WD~Alfonso Rueda]]"
+country: "[[_Standards/WikiData/WD~Spain]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cabo%20Ortegal%20%28Spain%29.jpg
-continent: "[[_Standards/db/Europe]]"
+continent: "[[_Standards/WikiData/WD~Europe]]"
 instance of:
-  - "[[_Standards/db/country]]"
-  - "[[_Standards/db/nation]]"
-  - "[[_Standards/db/autonomous community of Spain]]"
-  - "[[_Standards/db/realm]]"
-  - "[[_Standards/db/historical nationality]]"
-  - "[[_Standards/db/cultural region]]"
-capital: "[[_Standards/db/Santiago de Compostela]]"
+  - "[[_Standards/WikiData/WD~country]]"
+  - "[[_Standards/WikiData/WD~nation]]"
+  - "[[_Standards/WikiData/WD~autonomous community of Spain]]"
+  - "[[_Standards/WikiData/WD~realm]]"
+  - "[[_Standards/WikiData/WD~historical nationality]]"
+  - "[[_Standards/WikiData/WD~cultural region]]"
+capital: "[[_Standards/WikiData/WD~Santiago de Compostela]]"
 official language:
-  - "[[_Standards/db/Spanish]]"
-  - "[[_Standards/db/Galician]]"
+  - "[[_Standards/WikiData/WD~Spanish]]"
+  - "[[_Standards/WikiData/WD~Galician]]"
 flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Galicia.svg
 shares border with:
-  - "[[_Standards/db/Asturias]]"
-  - "[[_Standards/db/Castile and León]]"
-  - "[[_Standards/db/Norte Region]]"
+  - "[[_Standards/WikiData/WD~Asturias]]"
+  - "[[_Standards/WikiData/WD~Castile and León]]"
+  - "[[_Standards/WikiData/WD~Norte Region]]"
 top-level Internet domain: "[[_Standards/db/.gal]]"
-anthem: "[[_Standards/db/Os Pinos]]"
+anthem: "[[_Standards/WikiData/WD~Os Pinos]]"
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Escudo%20de%20Galicia.svg
-located in the administrative territorial entity: "[[_Standards/db/Spain]]"
+located in the administrative territorial entity: "[[_Standards/WikiData/WD~Spain]]"
 contains the administrative territorial entity:
-  - "[[_Standards/db/A Coruña Province]]"
-  - "[[_Standards/db/Lugo Province]]"
-  - "[[_Standards/db/Ourense]]"
-  - "[[_Standards/db/Pontevedra Province]]"
-flag: "[[_Standards/db/flag of Galicia]]"
-twinned administrative body: "[[_Standards/db/Wakayama Prefecture]]"
-legislative body: "[[_Standards/db/Parliament of Galicia]]"
+  - "[[_Standards/WikiData/WD~A Coruña Province]]"
+  - "[[_Standards/WikiData/WD~Lugo Province]]"
+  - "[[_Standards/WikiData/WD~Ourense]]"
+  - "[[_Standards/WikiData/WD~Pontevedra Province]]"
+flag: "[[_Standards/WikiData/WD~flag of Galicia]]"
+twinned administrative body: "[[_Standards/WikiData/WD~Wakayama Prefecture]]"
+legislative body: "[[_Standards/WikiData/WD~Parliament of Galicia]]"
 located in or next to body of water:
-  - "[[_Standards/db/Atlantic Ocean]]"
-  - "[[_Standards/db/Cantabrian Sea]]"
-executive body: "[[_Standards/db/Xunta de Galicia]]"
-highest judicial authority: "[[_Standards/db/High Court of Justice of Galicia]]"
+  - "[[_Standards/WikiData/WD~Atlantic Ocean]]"
+  - "[[_Standards/WikiData/WD~Cantabrian Sea]]"
+executive body: "[[_Standards/WikiData/WD~Xunta de Galicia]]"
+highest judicial authority: "[[_Standards/WikiData/WD~High Court of Justice of Galicia]]"
 ISO 3166-2 code: ES-GA
 Commons category: Galicia (Spain)
 inception: 1981-04-28T00:00:00Z
