@@ -22,8 +22,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- ES
-- ESP
 - Spain
 - España
 - Espagne
