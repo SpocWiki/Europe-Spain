@@ -4,7 +4,7 @@ aliases:
   - Catalunya
   - Cataluña
   - Catalonha
-  - 
+  - Catalonia 
 ISO 3166-2 code: ES-CT
 Commons category: Catalonia
 inception: 0988-01-01T00:00:00Z

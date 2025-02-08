@@ -15,6 +15,8 @@ tags:
 aliases:
   - Baleares
   - Islas_Baleares
+  - Balearic Islands
+  - Balearen
 Languages:
   - de
 cssclasses:
