@@ -1,23 +1,23 @@
----
+﻿---
 location:
-  - 36.13
-  - -5.35
+- 36.13
+- -5.35
 type: geo-Region
 title: Gibraltar
-license: CC BY-SA 4.0
-source: https://datahub.io/core/country-codes
+license: "CC BY-SA 4.0"
+source: "https://datahub.io/core/country-codes"
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
 tags:
-  - geo/Country/Region
+- geo/Country/Region
 aliases:
-  - Gibraltar
+- Gibraltar
 Languages:
-  - de
+- de
 cssclasses:
-  - geo-Region
+- geo-Region
 publish: true
 linkTitle: 
 keywords: 
@@ -25,154 +25,154 @@ layout:
 publishDate: 
 expiryDate: 
 has_id_wikidata: Q1410
-legislative body: "[[_Standards/WikiData/WD~Parliament of Gibraltar,128852]]"
-located in or next to body of water:
-  - "[[_Standards/WikiData/WD~Alboran Sea,199408]]"
-  - "[[_Standards/WikiData/WD~Bay of Gibraltar,2142350]]"
-  - "[[_Standards/WikiData/WD~Mediterranean Sea,4918]]"
-named after: "[[_Standards/WikiData/WD~Tariq ibn Ziyad,230497]]"
-different from:
-  - "[[_Standards/WikiData/WD~Gibraltar,232325]]"
-  - "[[_Standards/WikiData/WD~Strait of Gibraltar,36124]]"
-coat of arms: "[[_Standards/WikiData/WD~coat of arms of Gibraltar,475471]]"
-office held by head of government: "[[_Standards/WikiData/WD~Chief Minister of Gibraltar,585760]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Meyer’s Universum, Dritter Band,127953085]]"
-located in/on physical feature: "[[_Standards/WikiData/WD~Rock of Gibraltar,690347]]"
-twinned administrative body:
-  - "[[_Standards/WikiData/WD~Ballymena,805451]]"
-  - "[[_Standards/WikiData/WD~Singapore,334]]"
-  - "[[_Standards/WikiData/WD~Funchal,25444]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament of Gibraltar,128852]]"
+located_in_or_next_to_body_of_water:
+- "[[_Standards/WikiData/WD~Alboran Sea,199408]]"
+- "[[_Standards/WikiData/WD~Bay of Gibraltar,2142350]]"
+- "[[_Standards/WikiData/WD~Mediterranean Sea,4918]]"
+named_after: "[[_Standards/WikiData/WD~Tariq ibn Ziyad,230497]]"
+different_from:
+- '[[_Standards/WikiData/WD~Gibraltar,232325]]'
+- "[[_Standards/WikiData/WD~Strait of Gibraltar,36124]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Gibraltar,475471]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Chief Minister of Gibraltar,585760]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyer’s Universum, Dritter Band,127953085]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Rock of Gibraltar,690347]]"
+twinned_administrative_body:
+- '[[_Standards/WikiData/WD~Ballymena,805451]]'
+- '[[_Standards/WikiData/WD~Singapore,334]]'
+- '[[_Standards/WikiData/WD~Funchal,25444]]'
 anthem:
-  - "[[_Standards/WikiData/WD~Gibraltar Anthem,816013]]"
-  - "[[_Standards/WikiData/WD~God Save the King,40807]]"
-instance of:
-  - "[[_Standards/WikiData/WD~United Nations list of non-self-governing territories,900119]]"
-  - "[[_Standards/WikiData/WD~border city,902814]]"
-  - "[[_Standards/WikiData/WD~tourist destination,1200957]]"
-  - "[[_Standards/WikiData/WD~port settlement,2264924]]"
-  - "[[_Standards/WikiData/WD~disputed territory,15239622]]"
-  - "[[_Standards/WikiData/WD~Mediterranean country,51576574]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
-  - "[[_Standards/WikiData/WD~British overseas territories,46395]]"
-electrical plug type:
-  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
-  - "[[_Standards/WikiData/WD~BS 1363,1528507]]"
+- "[[_Standards/WikiData/WD~Gibraltar Anthem,816013]]"
+- "[[_Standards/WikiData/WD~God Save the King,40807]]"
+instance_of:
+- "[[_Standards/WikiData/WD~United Nations list of non-self-governing territories,900119]]"
+- "[[_Standards/WikiData/WD~border city,902814]]"
+- "[[_Standards/WikiData/WD~tourist destination,1200957]]"
+- "[[_Standards/WikiData/WD~port settlement,2264924]]"
+- "[[_Standards/WikiData/WD~disputed territory,15239622]]"
+- "[[_Standards/WikiData/WD~Mediterranean country,51576574]]"
+- '[[_Standards/WikiData/WD~city,515]]'
+- "[[_Standards/WikiData/WD~British overseas territories,46395]]"
+electrical_plug_type:
+- '[[_Standards/WikiData/WD~Europlug,1378312]]'
+- "[[_Standards/WikiData/WD~BS 1363,1528507]]"
 follows: "[[_Standards/WikiData/WD~Kingdom of Seville,1796239]]"
-award received: "[[_Standards/WikiData/WD~city status in the United Kingdom,1867820]]"
-head of government: "[[_Standards/WikiData/WD~Fabian Picardo,2356379]]"
-economy of topic: "[[_Standards/WikiData/WD~economy of Gibraltar,2737668]]"
-public holiday: "[[_Standards/WikiData/WD~Gibraltar National Day,2914772]]"
-demographics of topic: "[[_Standards/WikiData/WD~demographics of Gibraltar,3043938]]"
-history of topic: "[[_Standards/WikiData/WD~history of Gibraltar,3053198]]"
-capital of:
-  - "[[_Standards/WikiData/WD~Kingdom of Gibraltar,3773496]]"
-  - "[[_Standards/WikiData/WD~Gibraltar,1410]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of Gibraltar,7112273]]"
-opposite of: "[[_Standards/WikiData/WD~Te Ārai,7690759]]"
-office held by head of state: "[[_Standards/WikiData/WD~monarch of the United Kingdom,9134365]]"
-geography of topic: "[[_Standards/WikiData/WD~geography of Gibraltar,9267037]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Gibraltar,13375905]]"
-driving side: "[[_Standards/WikiData/WD~right,14565199]]"
-BHCL UUID: 4ff3e2c0-8744-4738-b539-27cfe2fb2f2b
-ISNI: "0000000121659435"
-Wolfram Language entity code: Entity["HistoricalCountry", "Gibraltar"]
-MeSH tree code: Z01.542.335
-inception: 1704-01-01T00:00:00Z
-shares border with:
-  - "[[_Standards/WikiData/WD~European Union,458]]"
-  - "[[_Standards/WikiData/WD~Andalusia,5783]]"
-  - "[[_Standards/WikiData/WD~Spain,29]]"
-language used:
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-capital: "[[_Standards/WikiData/WD~Gibraltar,1410]]"
-official language: "[[_Standards/WikiData/WD~English,1860]]"
-member of: "[[_Standards/WikiData/WD~Interpol,8475]]"
-located in time zone: "[[_Standards/WikiData/WD~Central European Time,25989]]"
-territory claimed by:
-  - "[[_Standards/WikiData/WD~Spain,29]]"
-  - "[[_Standards/WikiData/WD~United Kingdom,145]]"
-separated from: "[[_Standards/WikiData/WD~Spain,29]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
+award_received: "[[_Standards/WikiData/WD~city status in the United Kingdom,1867820]]"
+head_of_government: "[[_Standards/WikiData/WD~Fabian Picardo,2356379]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy of Gibraltar,2737668]]"
+public_holiday: "[[_Standards/WikiData/WD~Gibraltar National Day,2914772]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Gibraltar,3043938]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of Gibraltar,3053198]]"
+capital_of:
+- "[[_Standards/WikiData/WD~Kingdom of Gibraltar,3773496]]"
+- '[[_Standards/WikiData/WD~Gibraltar,1410]]'
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Gibraltar,7112273]]"
+opposite_of: "[[_Standards/WikiData/WD~Te Ārai,7690759]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~monarch of the United Kingdom,9134365]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography of Gibraltar,9267037]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Gibraltar,13375905]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+BHCL_UUID: 4ff3e2c0-8744-4738-b539-27cfe2fb2f2b
+ISNI: 0000000121659435
+Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"Gibraltar\"]"
+MeSH_tree_code: Z01.542.335
+inception: "1704-01-01T00:00:00Z"
+shares_border_with:
+- "[[_Standards/WikiData/WD~European Union,458]]"
+- '[[_Standards/WikiData/WD~Andalusia,5783]]'
+- '[[_Standards/WikiData/WD~Spain,29]]'
+language_used:
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+capital: '[[_Standards/WikiData/WD~Gibraltar,1410]]'
+official_language: '[[_Standards/WikiData/WD~English,1860]]'
+member_of: '[[_Standards/WikiData/WD~Interpol,8475]]'
+located_in_time_zone: "[[_Standards/WikiData/WD~Central European Time,25989]]"
+territory_claimed_by:
+- '[[_Standards/WikiData/WD~Spain,29]]'
+- "[[_Standards/WikiData/WD~United Kingdom,145]]"
+separated_from: '[[_Standards/WikiData/WD~Spain,29]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
 country: "[[_Standards/WikiData/WD~United Kingdom,145]]"
 flag: "[[_Standards/WikiData/WD~flag of Gibraltar,33037]]"
-elevation above sea level: 11
-marriageable age: 18
-Libris-URI: 42gjh3qn21ntvx9
-Krugosvet article: Earth_sciences/geografiya/GIBRALTAR.html
-Colon Classification: SG--5418
-motto text:
-  - Знак на Гибралтарската скала
-  - Bathodyn Craig Gibraltar
-  - Badge of the Rock of Gibraltar
-  - Montis Insignia Calpe
+elevation_above_sea_level: 11
+marriageable_age: 18
+Libris_URI: 42gjh3qn21ntvx9
+Krugosvet_article: Earth_sciences/geografiya/GIBRALTAR.html
+Colon_Classification: SG--5418
+motto_text:
+- "Знак на Гибралтарската скала"
+- "Bathodyn Craig Gibraltar"
+- "Badge of the Rock of Gibraltar"
+- "Montis Insignia Calpe"
 demonym:
-  - gibraltarenc
-  - gibraltarenca
-  - Gibraltarian
-  - Ĝibraltarano
-  - Gibraltareña
-  - Gibraltareño
-  - gibraltarien
-  - Gibraltarien
-  - Gibraltarienne
-  - gibilterrina
-  - gibilterrine
-  - gibilterrini
-  - gibilterrino
-  - Gibraltino
-  - 直布罗陀人
-  - 直布羅陀人
-  - Llanitos
-short name: 🇬🇮
-age of majority: 18
-mains voltage: 240
-top-level Internet domain: "[[_Standards/WikiData/WD~.gi,42415]]"
-head of state: "[[_Standards/WikiData/WD~Charles III,43274]]"
-located in the administrative territorial entity: "[[_Standards/WikiData/WD~British overseas territories,46395]]"
-ISO 3166-1 numeric code: "292"
-M49 code: "292"
-ISO 3166-1 alpha-2 code: GI
-FIPS 10-4 (countries and regions): GI
-WIPO ST.3: GI
+- gibraltarenc
+- gibraltarenca
+- Gibraltarian
+- Ĝibraltarano
+- Gibraltareña
+- Gibraltareño
+- gibraltarien
+- Gibraltarien
+- Gibraltarienne
+- gibilterrina
+- gibilterrine
+- gibilterrini
+- gibilterrino
+- Gibraltino
+- 直布罗陀人
+- 直布羅陀人
+- Llanitos
+short_name: "\U0001F1EC\U0001F1EE"
+age_of_majority: 18
+mains_voltage: 240
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.gi,42415]]'
+head_of_state: "[[_Standards/WikiData/WD~Charles III,43274]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~British overseas territories,46395]]"
+ISO_3166_1_numeric_code: 292
+M49_code: 292
+ISO_3166_1_alpha_2_code: GI
+FIPS_10_4_countries_and_regions_: GI
+WIPO_ST_3: GI
 area: 6.843
-maritime identification digits: "236"
-IAB code: "1302"
+maritime_identification_digits: 236
+IAB_code: 1302
 population: 34003
-INSEE countries and foreign territories code: "99133"
-UN/LOCODE: GIGIB
-PM20 geo code: A24
-native label:
-  - Gibraltar
-  - Gibraltar
-official name:
-  - Gibraltar
-  - Gibraltar
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Gibraltar.svg
-ISO 3166-1 alpha-3 code: GIB
-Unicode character: 🇬🇮
-GitHub topic: gibraltar
-U.S. National Archives Identifier: "10044767"
-coordinate location: Point(-5.35 36.14)
-coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Gibraltar1.svg
-Commons category: Gibraltar
+INSEE_countries_and_foreign_territories_code: 99133
+UN_LOCODE: GIGIB
+PM20_geo_code: A24
+native_label:
+- Gibraltar
+- Gibraltar
+official_name:
+- Gibraltar
+- Gibraltar
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Gibraltar.svg"
+ISO_3166_1_alpha_3_code: GIB
+Unicode_character: "\U0001F1EC\U0001F1EE"
+GitHub_topic: gibraltar
+U_S_National_Archives_Identifier: 10044767
+coordinate_location: "Point(-5.35 36.14)"
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Gibraltar1.svg"
+Commons_category: Gibraltar
 hashtag: Gibraltar
-Commons gallery: Gibraltar
+Commons_gallery: Gibraltar
 subreddit: Gibraltar
-geoshape: http://commons.wikimedia.org/data/main/Data:Gibraltar.map
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Gibraltar%20aerial%20view%20looking%20northwest.jpg
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Gibraltar%20banner%20Barbary%20macaque.jpg
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Gibraltar%20location%20in%20Europe.svg
-official website: http://www.gibraltar.gov.gi
-country calling code: "+350"
-Dewey Decimal Classification: 2--4689
+geoshape: "http://commons.wikimedia.org/data/main/Data:Gibraltar.map"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Gibraltar%20aerial%20view%20looking%20northwest.jpg"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Gibraltar%20banner%20Barbary%20macaque.jpg"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Gibraltar%20location%20in%20Europe.svg"
+official_website: "http://www.gibraltar.gov.gi"
+country_calling_code: +350
+Dewey_Decimal_Classification: 2--4689
 ---
 
 # [[Gibraltar]] 

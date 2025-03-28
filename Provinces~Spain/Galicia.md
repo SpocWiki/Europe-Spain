@@ -1,101 +1,99 @@
----
+﻿---
 has_id_wikidata: Q3908
 aliases:
-  - Galicia
-  - Galiza
+- Galicia
+- Galiza
 hashtag: Galicia
-coat of arms: "[[_Standards/WikiData/WD~coat of arms of Galicia]]"
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Localizaci%C3%B3n%20de%20Galicia.svg
-located in time zone:
-  - "[[_Standards/WikiData/WD~UTC+01:00]]"
-  - "[[_Standards/WikiData/WD~UTC+02:00]]"
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Galicia.wav
-highest point: "[[_Standards/WikiData/WD~Trevinca]]"
-public holiday: "[[_Standards/WikiData/WD~Día Nacional de Galicia]]"
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Wikivoyage%20banner%20of%20Galicia.jpg
+coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Galicia]]"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Localizaci%C3%B3n%20de%20Galicia.svg"
+located_in_time_zone:
+- "[[_Standards/WikiData/WD~UTC+01:00]]"
+- "[[_Standards/WikiData/WD~UTC+02:00]]"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Galicia.wav"
+highest_point: '[[_Standards/WikiData/WD~Trevinca]]'
+public_holiday: "[[_Standards/WikiData/WD~Día Nacional de Galicia]]"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Wikivoyage%20banner%20of%20Galicia.jpg"
 population: 2695645
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal:Galicia]]"
-office held by head of government: "[[_Standards/WikiData/WD~President of the Xunta of Galicia]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890)]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947)]]"
-replaces: "[[_Standards/WikiData/WD~Q20021558]]"
-different from:
-  - "[[_Standards/WikiData/WD~Galicia]]"
-  - "[[_Standards/WikiData/WD~Gallizien]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal:Galicia]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~President of the Xunta of Galicia]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890)]]"
+- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947)]]"
+replaces: '[[_Standards/WikiData/WD~Q20021558]]'
+different_from:
+- '[[_Standards/WikiData/WD~Galicia]]'
+- '[[_Standards/WikiData/WD~Gallizien]]'
 area: 29574
-geography of topic: "[[_Standards/WikiData/WD~geography of Galicia]]"
-language used: "[[_Standards/WikiData/WD~Galician]]"
-geoshape: http://commons.wikimedia.org/data/main/Data:Spain/Galicia.map
-economy of topic: "[[_Standards/WikiData/WD~economy of Galicia]]"
-demographics of topic: "[[_Standards/WikiData/WD~demographics of Galicia]]"
-head of government: "[[_Standards/WikiData/WD~Alfonso Rueda]]"
-country: "[[_Standards/WikiData/WD~Spain]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Cabo%20Ortegal%20%28Spain%29.jpg
-continent: "[[_Standards/WikiData/WD~Europe]]"
-instance of:
-  - "[[_Standards/WikiData/WD~country]]"
-  - "[[_Standards/WikiData/WD~nation]]"
-  - "[[_Standards/WikiData/WD~autonomous community of Spain]]"
-  - "[[_Standards/WikiData/WD~realm]]"
-  - "[[_Standards/WikiData/WD~historical nationality]]"
-  - "[[_Standards/WikiData/WD~cultural region]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography of Galicia]]"
+language_used: '[[_Standards/WikiData/WD~Galician]]'
+geoshape: "http://commons.wikimedia.org/data/main/Data:Spain/Galicia.map"
+economy_of_topic: "[[_Standards/WikiData/WD~economy of Galicia]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Galicia]]"
+head_of_government: "[[_Standards/WikiData/WD~Alfonso Rueda]]"
+country: '[[_Standards/WikiData/WD~Spain]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Cabo%20Ortegal%20%28Spain%29.jpg"
+continent: '[[_Standards/WikiData/WD~Europe]]'
+instance_of:
+- '[[_Standards/WikiData/WD~country]]'
+- '[[_Standards/WikiData/WD~nation]]'
+- "[[_Standards/WikiData/WD~autonomous community of Spain]]"
+- '[[_Standards/WikiData/WD~realm]]'
+- "[[_Standards/WikiData/WD~historical nationality]]"
+- "[[_Standards/WikiData/WD~cultural region]]"
 capital: "[[_Standards/WikiData/WD~Santiago de Compostela]]"
-official language:
-  - "[[_Standards/WikiData/WD~Spanish]]"
-  - "[[_Standards/WikiData/WD~Galician]]"
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Galicia.svg
-shares border with:
-  - "[[_Standards/WikiData/WD~Asturias]]"
-  - "[[_Standards/WikiData/WD~Castile and León]]"
-  - "[[_Standards/WikiData/WD~Norte Region]]"
-top-level Internet domain: "[[_Standards/db/.gal]]"
+official_language:
+- '[[_Standards/WikiData/WD~Spanish]]'
+- '[[_Standards/WikiData/WD~Galician]]'
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Galicia.svg"
+shares_border_with:
+- '[[_Standards/WikiData/WD~Asturias]]'
+- "[[_Standards/WikiData/WD~Castile and León]]"
+- "[[_Standards/WikiData/WD~Norte Region]]"
+top_level_Internet_domain: '[[_Standards/db/.gal]]'
 anthem: "[[_Standards/WikiData/WD~Os Pinos]]"
-coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Escudo%20de%20Galicia.svg
-located in the administrative territorial entity: "[[_Standards/WikiData/WD~Spain]]"
-contains the administrative territorial entity:
-  - "[[_Standards/WikiData/WD~A Coruña Province]]"
-  - "[[_Standards/WikiData/WD~Lugo Province]]"
-  - "[[_Standards/WikiData/WD~Ourense]]"
-  - "[[_Standards/WikiData/WD~Pontevedra Province]]"
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Escudo%20de%20Galicia.svg"
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Spain]]'
+contains_the_administrative_territorial_entity:
+- "[[_Standards/WikiData/WD~A Coruña Province]]"
+- "[[_Standards/WikiData/WD~Lugo Province]]"
+- '[[_Standards/WikiData/WD~Ourense]]'
+- "[[_Standards/WikiData/WD~Pontevedra Province]]"
 flag: "[[_Standards/WikiData/WD~flag of Galicia]]"
-twinned administrative body: "[[_Standards/WikiData/WD~Wakayama Prefecture]]"
-legislative body: "[[_Standards/WikiData/WD~Parliament of Galicia]]"
-located in or next to body of water:
-  - "[[_Standards/WikiData/WD~Atlantic Ocean]]"
-  - "[[_Standards/WikiData/WD~Cantabrian Sea]]"
-executive body: "[[_Standards/WikiData/WD~Xunta de Galicia]]"
-highest judicial authority: "[[_Standards/WikiData/WD~High Court of Justice of Galicia]]"
-ISO 3166-2 code: ES-GA
-Commons category: Galicia (Spain)
-inception: 1981-04-28T00:00:00Z
-NUTS code: ES11
-coordinate location: Point(-7.9 42.8)
-FIPS 10-4 (countries and regions): SP58
-Commons gallery: Atlas of Galicia
-OmegaWiki Defined Meaning: "463139"
-official name:
-  - Galicia
-  - Galicia
+twinned_administrative_body: "[[_Standards/WikiData/WD~Wakayama Prefecture]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament of Galicia]]"
+located_in_or_next_to_body_of_water:
+- "[[_Standards/WikiData/WD~Atlantic Ocean]]"
+- "[[_Standards/WikiData/WD~Cantabrian Sea]]"
+executive_body: "[[_Standards/WikiData/WD~Xunta de Galicia]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~High Court of Justice of Galicia]]"
+ISO_3166_2_code: ES-GA
+Commons_category: "Galicia (Spain)"
+inception: "1981-04-28T00:00:00Z"
+NUTS_code: ES11
+coordinate_location: "Point(-7.9 42.8)"
+FIPS_10_4_countries_and_regions_: SP58
+Commons_gallery: "Atlas of Galicia"
+OmegaWiki_Defined_Meaning: 463139
+official_name:
+- Galicia
+- Galicia
 demonym:
-  - gallega
-  - Galician
-  - gallega
-  - gallego
-  - galega
-  - galego
-  - galega
-  - galèc
-  - galèga
-native label:
-  - Galicia
-  - Galicia
+- gallega
+- Galician
+- gallega
+- gallego
+- galega
+- galego
+- galega
+- galèc
+- galèga
+native_label:
+- Galicia
+- Galicia
 ---
-
-
 
 > **Galicia** ( gə-LISH(-ee)-ə; Galician: Galicia [ɡaˈliθjɐ] or Galiza [ɡaˈliθɐ]; Spanish: Galicia) 
 > is an autonomous community of Spain and historic nationality under Spanish law. 
