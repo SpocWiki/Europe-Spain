@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 36.13
 - -5.35
@@ -157,7 +157,7 @@ official_name:
 - Gibraltar
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Gibraltar.svg"
 ISO_3166_1_alpha_3_code: GIB
-Unicode_character: "\U0001F1EC\U0001F1EE"
+Unicode_character: 🇬🇮 
 GitHub_topic: gibraltar
 U_S_National_Archives_Identifier: 10044767
 coordinate_location: "Point(-5.35 36.14)"
