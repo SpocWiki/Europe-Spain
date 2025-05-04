@@ -1,4 +1,10 @@
-# [[Valencia.Region]]
+---
+aliases:
+  - Valencian Community
+  - Valencia Region
+  - Region Valencia
+---
+# [[Valencia,Region]]
 
 
 ```leaflet

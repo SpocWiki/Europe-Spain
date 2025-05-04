@@ -14,6 +14,9 @@ tags:
 - geo/Country/Region
 aliases:
 - Madrid.Region
+- Madrid Region
+- Region Madrid
+- Madrid
 
 Languages:
 - de

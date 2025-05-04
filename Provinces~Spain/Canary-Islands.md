@@ -1,6 +1,9 @@
 ---
 aliases:
   - Islas_Canarias
+  - Canary Islands
+  - Kanarischen Inseln
+  - 
 ---
 # [[Canary-Islands]]
 

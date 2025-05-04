@@ -15,6 +15,7 @@ tags:
 aliases:
   - Navarra
   - Comunidad Foralde Navarra
+  - Navarre
 Languages:
   - de
 cssclasses:

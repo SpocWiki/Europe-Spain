@@ -1,3 +1,7 @@
+---
+aliases:
+  - Castilla-La Mancha
+---
 
 ```leaflet
 id: Norway

@@ -1,8 +1,10 @@
 ---
 aliases:
   - País_Vasco
+  - Basque Country
+  - Baskenland
 ---
-# Basque
+# [[Basque_Country]] 
 
 ```leaflet
 id: Basque

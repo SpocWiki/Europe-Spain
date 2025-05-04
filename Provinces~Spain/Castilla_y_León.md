@@ -1,3 +1,9 @@
+---
+aliases:
+  - Castile and León
+  - Castilla_y_León
+  - Castilla y León
+---
 
 ```leaflet
 id: Norway

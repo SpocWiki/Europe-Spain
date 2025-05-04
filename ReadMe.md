@@ -256,7 +256,7 @@ Sub-region_Name ::  [[Southern Europe]]
 [Area-Land::499440] 
 has_place_continent:: [[Europe]]  
 [VehicleCode::E] 
-Capital :: [[Madrid.Region]] 
+Capital :: [[Provinces~Spain/Madrid,Region]] 
 
 [Alcohol-l::11.6] 
 [Language-Id::492] 
