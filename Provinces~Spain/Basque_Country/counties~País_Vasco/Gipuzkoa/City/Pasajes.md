@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Pasajes|Pasajes]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Pasajes.public|Pasajes.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Pasajes.internal|Pasajes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Pasajes.protect|Pasajes.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Pasajes.private|Pasajes.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Pasajes.personal|Pasajes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Pasajes.secret|Pasajes.secret]] 
+
+### [Pasajes.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Gipuzkoa\CityPasajes.public.md) 
+
+### [Pasajes.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Gipuzkoa\CityPasajes.internal.md) 
+
+### [Pasajes.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Gipuzkoa\CityPasajes.protect.md) 
+
+### [Pasajes.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Gipuzkoa\CityPasajes.private.md) 
+
+### [Pasajes.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Gipuzkoa\CityPasajes.personal.md) 
+
+### [Pasajes.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Gipuzkoa\CityPasajes.secret.md)
+

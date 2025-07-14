@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Carmona|Carmona]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Carmona.public|Carmona.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Carmona.internal|Carmona.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Carmona.protect|Carmona.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Carmona.private|Carmona.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Carmona.personal|Carmona.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Carmona.secret|Carmona.secret]] 
+
+### [Carmona.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Sevilla.Province\CityCarmona.public.md) 
+
+### [Carmona.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Sevilla.Province\CityCarmona.internal.md) 
+
+### [Carmona.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Sevilla.Province\CityCarmona.protect.md) 
+
+### [Carmona.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Sevilla.Province\CityCarmona.private.md) 
+
+### [Carmona.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Sevilla.Province\CityCarmona.personal.md) 
+
+### [Carmona.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Sevilla.Province\CityCarmona.secret.md)
+

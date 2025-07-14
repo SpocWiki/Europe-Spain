@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Badajoz|Badajoz]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Badajoz.public|Badajoz.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Badajoz.internal|Badajoz.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Badajoz.protect|Badajoz.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Badajoz.private|Badajoz.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Badajoz.personal|Badajoz.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Badajoz.secret|Badajoz.secret]] 
+
+### [Badajoz.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Extremadura\Badajoz.Province\CityBadajoz.public.md) 
+
+### [Badajoz.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Extremadura\Badajoz.Province\CityBadajoz.internal.md) 
+
+### [Badajoz.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Extremadura\Badajoz.Province\CityBadajoz.protect.md) 
+
+### [Badajoz.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Extremadura\Badajoz.Province\CityBadajoz.private.md) 
+
+### [Badajoz.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Extremadura\Badajoz.Province\CityBadajoz.personal.md) 
+
+### [Badajoz.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Extremadura\Badajoz.Province\CityBadajoz.secret.md)
+

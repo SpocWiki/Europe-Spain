@@ -40,11 +40,16 @@ markerFolder: ./Zamora.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla_y_León/Zamora.Province|Zamora.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla_y_León/Zamora.Province.public|Zamora.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla_y_León/Zamora.Province.internal|Zamora.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla_y_León/Zamora.Province.protect|Zamora.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla_y_León/Zamora.Province.private|Zamora.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla_y_León/Zamora.Province.personal|Zamora.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla_y_León/Zamora.Province.secret|Zamora.Province.secret]] 
+
+### [Zamora.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_LeónZamora.Province.public.md) 
+
+### [Zamora.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_LeónZamora.Province.internal.md) 
+
+### [Zamora.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_LeónZamora.Province.protect.md) 
+
+### [Zamora.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_LeónZamora.Province.private.md) 
+
+### [Zamora.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_LeónZamora.Province.personal.md) 
+
+### [Zamora.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_LeónZamora.Province.secret.md)
 

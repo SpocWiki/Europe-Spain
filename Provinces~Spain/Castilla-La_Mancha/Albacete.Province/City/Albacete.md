@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Albacete|Albacete]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Albacete.public|Albacete.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Albacete.internal|Albacete.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Albacete.protect|Albacete.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Albacete.private|Albacete.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Albacete.personal|Albacete.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Albacete.secret|Albacete.secret]] 
+
+### [Albacete.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Albacete.Province\CityAlbacete.public.md) 
+
+### [Albacete.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Albacete.Province\CityAlbacete.internal.md) 
+
+### [Albacete.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Albacete.Province\CityAlbacete.protect.md) 
+
+### [Albacete.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Albacete.Province\CityAlbacete.private.md) 
+
+### [Albacete.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Albacete.Province\CityAlbacete.personal.md) 
+
+### [Albacete.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Albacete.Province\CityAlbacete.secret.md)
+

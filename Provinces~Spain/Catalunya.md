@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q5705
 aliases:
 - Catalunya
@@ -258,4 +258,21 @@ maxZoom: 18
 geojsonFolder: ./Catalunya/
 markerFolder: ./Catalunya/
 ```
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Catalunya.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainCatalunya.public.md) 
+
+### [Catalunya.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainCatalunya.internal.md) 
+
+### [Catalunya.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainCatalunya.protect.md) 
+
+### [Catalunya.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainCatalunya.private.md) 
+
+### [Catalunya.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainCatalunya.personal.md) 
+
+### [Catalunya.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainCatalunya.secret.md)
 

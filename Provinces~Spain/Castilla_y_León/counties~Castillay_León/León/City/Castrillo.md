@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Castrillo|Castrillo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Castrillo.public|Castrillo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Castrillo.internal|Castrillo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Castrillo.protect|Castrillo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Castrillo.private|Castrillo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Castrillo.personal|Castrillo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Castrillo.secret|Castrillo.secret]] 
+
+### [Castrillo.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\León\CityCastrillo.public.md) 
+
+### [Castrillo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\León\CityCastrillo.internal.md) 
+
+### [Castrillo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\León\CityCastrillo.protect.md) 
+
+### [Castrillo.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\León\CityCastrillo.private.md) 
+
+### [Castrillo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\León\CityCastrillo.personal.md) 
+
+### [Castrillo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\León\CityCastrillo.secret.md)
+

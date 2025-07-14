@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Burgos|Burgos]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Burgos.public|Burgos.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Burgos.internal|Burgos.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Burgos.protect|Burgos.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Burgos.private|Burgos.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Burgos.personal|Burgos.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Burgos.secret|Burgos.secret]] 
+
+### [Burgos.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Burgos.Province\cities~BurgosBurgos.public.md) 
+
+### [Burgos.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Burgos.Province\cities~BurgosBurgos.internal.md) 
+
+### [Burgos.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Burgos.Province\cities~BurgosBurgos.protect.md) 
+
+### [Burgos.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Burgos.Province\cities~BurgosBurgos.private.md) 
+
+### [Burgos.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Burgos.Province\cities~BurgosBurgos.personal.md) 
+
+### [Burgos.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Burgos.Province\cities~BurgosBurgos.secret.md)
+

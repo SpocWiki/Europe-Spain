@@ -40,11 +40,16 @@ markerFolder: ./Barcelona.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/Counties/Catalunya/Barcelona.Province|Barcelona.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/Counties/Catalunya/Barcelona.Province.public|Barcelona.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/Counties/Catalunya/Barcelona.Province.internal|Barcelona.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/Counties/Catalunya/Barcelona.Province.protect|Barcelona.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/Counties/Catalunya/Barcelona.Province.private|Barcelona.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/Counties/Catalunya/Barcelona.Province.personal|Barcelona.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/Counties/Catalunya/Barcelona.Province.secret|Barcelona.Province.secret]] 
+
+### [Barcelona.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaBarcelona.Province.public.md) 
+
+### [Barcelona.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaBarcelona.Province.internal.md) 
+
+### [Barcelona.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaBarcelona.Province.protect.md) 
+
+### [Barcelona.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaBarcelona.Province.private.md) 
+
+### [Barcelona.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaBarcelona.Province.personal.md) 
+
+### [Barcelona.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaBarcelona.Province.secret.md)
 

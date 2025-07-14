@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Torrevieja|Torrevieja]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Torrevieja.public|Torrevieja.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Torrevieja.internal|Torrevieja.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Torrevieja.protect|Torrevieja.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Torrevieja.private|Torrevieja.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Torrevieja.personal|Torrevieja.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Torrevieja.secret|Torrevieja.secret]] 
+
+### [Torrevieja.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\CityTorrevieja.public.md) 
+
+### [Torrevieja.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\CityTorrevieja.internal.md) 
+
+### [Torrevieja.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\CityTorrevieja.protect.md) 
+
+### [Torrevieja.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\CityTorrevieja.private.md) 
+
+### [Torrevieja.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\CityTorrevieja.personal.md) 
+
+### [Torrevieja.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\CityTorrevieja.secret.md)
+

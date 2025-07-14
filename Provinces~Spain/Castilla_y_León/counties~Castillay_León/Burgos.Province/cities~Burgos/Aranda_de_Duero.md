@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Aranda_de_Duero|Aranda_de_Duero]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Aranda_de_Duero.public|Aranda_de_Duero.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Aranda_de_Duero.internal|Aranda_de_Duero.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Aranda_de_Duero.protect|Aranda_de_Duero.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Aranda_de_Duero.private|Aranda_de_Duero.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Aranda_de_Duero.personal|Aranda_de_Duero.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Aranda_de_Duero.secret|Aranda_de_Duero.secret]] 
+
+### [Aranda_de_Duero.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Burgos.Province\cities~BurgosAranda_de_Duero.public.md) 
+
+### [Aranda_de_Duero.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Burgos.Province\cities~BurgosAranda_de_Duero.internal.md) 
+
+### [Aranda_de_Duero.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Burgos.Province\cities~BurgosAranda_de_Duero.protect.md) 
+
+### [Aranda_de_Duero.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Burgos.Province\cities~BurgosAranda_de_Duero.private.md) 
+
+### [Aranda_de_Duero.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Burgos.Province\cities~BurgosAranda_de_Duero.personal.md) 
+
+### [Aranda_de_Duero.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Burgos.Province\cities~BurgosAranda_de_Duero.secret.md)
+

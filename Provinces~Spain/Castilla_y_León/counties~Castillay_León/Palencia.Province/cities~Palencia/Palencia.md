@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Palencia|Palencia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Palencia.public|Palencia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Palencia.internal|Palencia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Palencia.protect|Palencia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Palencia.private|Palencia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Palencia.personal|Palencia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Palencia.secret|Palencia.secret]] 
+
+### [Palencia.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Palencia.Province\cities~PalenciaPalencia.public.md) 
+
+### [Palencia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Palencia.Province\cities~PalenciaPalencia.internal.md) 
+
+### [Palencia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Palencia.Province\cities~PalenciaPalencia.protect.md) 
+
+### [Palencia.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Palencia.Province\cities~PalenciaPalencia.private.md) 
+
+### [Palencia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Palencia.Province\cities~PalenciaPalencia.personal.md) 
+
+### [Palencia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Palencia.Province\cities~PalenciaPalencia.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Alcala_de_Henares|Alcala_de_Henares]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Alcala_de_Henares.public|Alcala_de_Henares.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Alcala_de_Henares.internal|Alcala_de_Henares.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Alcala_de_Henares.protect|Alcala_de_Henares.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Alcala_de_Henares.private|Alcala_de_Henares.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Alcala_de_Henares.personal|Alcala_de_Henares.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Alcala_de_Henares.secret|Alcala_de_Henares.secret]] 
+
+### [Alcala_de_Henares.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\CityAlcala_de_Henares.public.md) 
+
+### [Alcala_de_Henares.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\CityAlcala_de_Henares.internal.md) 
+
+### [Alcala_de_Henares.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\CityAlcala_de_Henares.protect.md) 
+
+### [Alcala_de_Henares.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\CityAlcala_de_Henares.private.md) 
+
+### [Alcala_de_Henares.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\CityAlcala_de_Henares.personal.md) 
+
+### [Alcala_de_Henares.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\CityAlcala_de_Henares.secret.md)
+

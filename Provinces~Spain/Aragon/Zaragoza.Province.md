@@ -40,11 +40,16 @@ markerFolder: ./Zaragoza.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/Counties/Aragon/Zaragoza.Province|Zaragoza.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/Counties/Aragon/Zaragoza.Province.public|Zaragoza.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/Counties/Aragon/Zaragoza.Province.internal|Zaragoza.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/Counties/Aragon/Zaragoza.Province.protect|Zaragoza.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/Counties/Aragon/Zaragoza.Province.private|Zaragoza.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/Counties/Aragon/Zaragoza.Province.personal|Zaragoza.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/Counties/Aragon/Zaragoza.Province.secret|Zaragoza.Province.secret]] 
+
+### [Zaragoza.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AragonZaragoza.Province.public.md) 
+
+### [Zaragoza.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AragonZaragoza.Province.internal.md) 
+
+### [Zaragoza.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AragonZaragoza.Province.protect.md) 
+
+### [Zaragoza.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AragonZaragoza.Province.private.md) 
+
+### [Zaragoza.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AragonZaragoza.Province.personal.md) 
+
+### [Zaragoza.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AragonZaragoza.Province.secret.md)
 

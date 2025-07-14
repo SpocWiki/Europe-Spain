@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Zamora|Zamora]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Zamora.public|Zamora.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Zamora.internal|Zamora.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Zamora.protect|Zamora.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Zamora.private|Zamora.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Zamora.personal|Zamora.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Zamora.secret|Zamora.secret]] 
+
+### [Zamora.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Zamora.Province\cities~ZamoraZamora.public.md) 
+
+### [Zamora.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Zamora.Province\cities~ZamoraZamora.internal.md) 
+
+### [Zamora.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Zamora.Province\cities~ZamoraZamora.protect.md) 
+
+### [Zamora.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Zamora.Province\cities~ZamoraZamora.private.md) 
+
+### [Zamora.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Zamora.Province\cities~ZamoraZamora.personal.md) 
+
+### [Zamora.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Zamora.Province\cities~ZamoraZamora.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Figueras|Figueras]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Figueras.public|Figueras.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Figueras.internal|Figueras.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Figueras.protect|Figueras.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Figueras.private|Figueras.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Figueras.personal|Figueras.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Figueras.secret|Figueras.secret]] 
+
+### [Figueras.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Gerona.Province\cities~GironaFigueras.public.md) 
+
+### [Figueras.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Gerona.Province\cities~GironaFigueras.internal.md) 
+
+### [Figueras.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Gerona.Province\cities~GironaFigueras.protect.md) 
+
+### [Figueras.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Gerona.Province\cities~GironaFigueras.private.md) 
+
+### [Figueras.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Gerona.Province\cities~GironaFigueras.personal.md) 
+
+### [Figueras.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Gerona.Province\cities~GironaFigueras.secret.md)
+

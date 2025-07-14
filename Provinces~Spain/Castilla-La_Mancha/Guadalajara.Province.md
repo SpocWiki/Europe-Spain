@@ -40,11 +40,16 @@ markerFolder: ./Guadalajara.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla-La_Mancha/Guadalajara.Province|Guadalajara.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla-La_Mancha/Guadalajara.Province.public|Guadalajara.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla-La_Mancha/Guadalajara.Province.internal|Guadalajara.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla-La_Mancha/Guadalajara.Province.protect|Guadalajara.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla-La_Mancha/Guadalajara.Province.private|Guadalajara.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla-La_Mancha/Guadalajara.Province.personal|Guadalajara.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla-La_Mancha/Guadalajara.Province.secret|Guadalajara.Province.secret]] 
+
+### [Guadalajara.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaGuadalajara.Province.public.md) 
+
+### [Guadalajara.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaGuadalajara.Province.internal.md) 
+
+### [Guadalajara.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaGuadalajara.Province.protect.md) 
+
+### [Guadalajara.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaGuadalajara.Province.private.md) 
+
+### [Guadalajara.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaGuadalajara.Province.personal.md) 
+
+### [Guadalajara.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaGuadalajara.Province.secret.md)
 

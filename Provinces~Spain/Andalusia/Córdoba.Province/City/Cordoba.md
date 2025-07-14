@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Cordoba|Cordoba]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Cordoba.public|Cordoba.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Cordoba.internal|Cordoba.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Cordoba.protect|Cordoba.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Cordoba.private|Cordoba.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Cordoba.personal|Cordoba.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Cordoba.secret|Cordoba.secret]] 
+
+### [Cordoba.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Córdoba.Province\CityCordoba.public.md) 
+
+### [Cordoba.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Córdoba.Province\CityCordoba.internal.md) 
+
+### [Cordoba.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Córdoba.Province\CityCordoba.protect.md) 
+
+### [Cordoba.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Córdoba.Province\CityCordoba.private.md) 
+
+### [Cordoba.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Córdoba.Province\CityCordoba.personal.md) 
+
+### [Cordoba.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Córdoba.Province\CityCordoba.secret.md)
+

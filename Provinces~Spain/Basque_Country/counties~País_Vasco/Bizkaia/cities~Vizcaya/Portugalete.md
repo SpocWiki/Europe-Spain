@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Portugalete|Portugalete]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Portugalete.public|Portugalete.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Portugalete.internal|Portugalete.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Portugalete.protect|Portugalete.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Portugalete.private|Portugalete.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Portugalete.personal|Portugalete.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Portugalete.secret|Portugalete.secret]] 
+
+### [Portugalete.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Bizkaia\cities~VizcayaPortugalete.public.md) 
+
+### [Portugalete.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Bizkaia\cities~VizcayaPortugalete.internal.md) 
+
+### [Portugalete.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Bizkaia\cities~VizcayaPortugalete.protect.md) 
+
+### [Portugalete.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Bizkaia\cities~VizcayaPortugalete.private.md) 
+
+### [Portugalete.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Bizkaia\cities~VizcayaPortugalete.personal.md) 
+
+### [Portugalete.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Bizkaia\cities~VizcayaPortugalete.secret.md)
+

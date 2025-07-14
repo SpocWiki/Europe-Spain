@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/San_Fernando|San_Fernando]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/San_Fernando.public|San_Fernando.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/San_Fernando.internal|San_Fernando.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/San_Fernando.protect|San_Fernando.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/San_Fernando.private|San_Fernando.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/San_Fernando.personal|San_Fernando.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/San_Fernando.secret|San_Fernando.secret]] 
+
+### [San_Fernando.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CitySan_Fernando.public.md) 
+
+### [San_Fernando.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CitySan_Fernando.internal.md) 
+
+### [San_Fernando.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CitySan_Fernando.protect.md) 
+
+### [San_Fernando.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CitySan_Fernando.private.md) 
+
+### [San_Fernando.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CitySan_Fernando.personal.md) 
+
+### [San_Fernando.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CitySan_Fernando.secret.md)
+

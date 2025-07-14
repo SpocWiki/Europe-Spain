@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Segovia|Segovia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Segovia.public|Segovia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Segovia.internal|Segovia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Segovia.protect|Segovia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Segovia.private|Segovia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Segovia.personal|Segovia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Segovia.secret|Segovia.secret]] 
+
+### [Segovia.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Segovia.Province\cities~SegoviaSegovia.public.md) 
+
+### [Segovia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Segovia.Province\cities~SegoviaSegovia.internal.md) 
+
+### [Segovia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Segovia.Province\cities~SegoviaSegovia.protect.md) 
+
+### [Segovia.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Segovia.Province\cities~SegoviaSegovia.private.md) 
+
+### [Segovia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Segovia.Province\cities~SegoviaSegovia.personal.md) 
+
+### [Segovia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Segovia.Province\cities~SegoviaSegovia.secret.md)
+

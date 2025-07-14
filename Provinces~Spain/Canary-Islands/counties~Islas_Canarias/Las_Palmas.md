@@ -40,11 +40,16 @@ markerFolder: ./Las_Palmas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/Counties/Canary~Islands/Las_Palmas|Las_Palmas]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/Counties/Canary~Islands/Las_Palmas.public|Las_Palmas.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/Counties/Canary~Islands/Las_Palmas.internal|Las_Palmas.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/Counties/Canary~Islands/Las_Palmas.protect|Las_Palmas.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/Counties/Canary~Islands/Las_Palmas.private|Las_Palmas.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/Counties/Canary~Islands/Las_Palmas.personal|Las_Palmas.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/Counties/Canary~Islands/Las_Palmas.secret|Las_Palmas.secret]] 
+
+### [Las_Palmas.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Canary-Islands\counties~Islas_CanariasLas_Palmas.public.md) 
+
+### [Las_Palmas.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Canary-Islands\counties~Islas_CanariasLas_Palmas.internal.md) 
+
+### [Las_Palmas.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Canary-Islands\counties~Islas_CanariasLas_Palmas.protect.md) 
+
+### [Las_Palmas.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Canary-Islands\counties~Islas_CanariasLas_Palmas.private.md) 
+
+### [Las_Palmas.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Canary-Islands\counties~Islas_CanariasLas_Palmas.personal.md) 
+
+### [Las_Palmas.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Canary-Islands\counties~Islas_CanariasLas_Palmas.secret.md)
 

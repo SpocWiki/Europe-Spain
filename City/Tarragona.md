@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Tarragona|Tarragona]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Tarragona.public|Tarragona.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Tarragona.internal|Tarragona.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Tarragona.protect|Tarragona.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Tarragona.private|Tarragona.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Tarragona.personal|Tarragona.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Tarragona.secret|Tarragona.secret]] 
+
+### [Tarragona.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\CityTarragona.public.md) 
+
+### [Tarragona.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\CityTarragona.internal.md) 
+
+### [Tarragona.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\CityTarragona.protect.md) 
+
+### [Tarragona.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\CityTarragona.private.md) 
+
+### [Tarragona.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\CityTarragona.personal.md) 
+
+### [Tarragona.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\CityTarragona.secret.md)
+

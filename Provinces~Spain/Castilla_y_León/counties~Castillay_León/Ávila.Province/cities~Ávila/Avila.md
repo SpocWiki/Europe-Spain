@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Avila|Avila]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Avila.public|Avila.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Avila.internal|Avila.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Avila.protect|Avila.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Avila.private|Avila.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Avila.personal|Avila.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Avila.secret|Avila.secret]] 
+
+### [Avila.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Ávila.Province\cities~ÁvilaAvila.public.md) 
+
+### [Avila.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Ávila.Province\cities~ÁvilaAvila.internal.md) 
+
+### [Avila.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Ávila.Province\cities~ÁvilaAvila.protect.md) 
+
+### [Avila.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Ávila.Province\cities~ÁvilaAvila.private.md) 
+
+### [Avila.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Ávila.Province\cities~ÁvilaAvila.personal.md) 
+
+### [Avila.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Ávila.Province\cities~ÁvilaAvila.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Soria|Soria]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Soria.public|Soria.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Soria.internal|Soria.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Soria.protect|Soria.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Soria.private|Soria.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Soria.personal|Soria.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Soria.secret|Soria.secret]] 
+
+### [Soria.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Soria.Province\cities~SoriaSoria.public.md) 
+
+### [Soria.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Soria.Province\cities~SoriaSoria.internal.md) 
+
+### [Soria.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Soria.Province\cities~SoriaSoria.protect.md) 
+
+### [Soria.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Soria.Province\cities~SoriaSoria.private.md) 
+
+### [Soria.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Soria.Province\cities~SoriaSoria.personal.md) 
+
+### [Soria.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Soria.Province\cities~SoriaSoria.secret.md)
+

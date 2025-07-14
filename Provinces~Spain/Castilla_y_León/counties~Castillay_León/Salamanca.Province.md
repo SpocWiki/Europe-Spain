@@ -40,11 +40,16 @@ markerFolder: ./Salamanca.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla_y_León/Salamanca.Province|Salamanca.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla_y_León/Salamanca.Province.public|Salamanca.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla_y_León/Salamanca.Province.internal|Salamanca.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla_y_León/Salamanca.Province.protect|Salamanca.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla_y_León/Salamanca.Province.private|Salamanca.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla_y_León/Salamanca.Province.personal|Salamanca.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla_y_León/Salamanca.Province.secret|Salamanca.Province.secret]] 
+
+### [Salamanca.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_LeónSalamanca.Province.public.md) 
+
+### [Salamanca.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_LeónSalamanca.Province.internal.md) 
+
+### [Salamanca.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_LeónSalamanca.Province.protect.md) 
+
+### [Salamanca.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_LeónSalamanca.Province.private.md) 
+
+### [Salamanca.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_LeónSalamanca.Province.personal.md) 
+
+### [Salamanca.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_LeónSalamanca.Province.secret.md)
 

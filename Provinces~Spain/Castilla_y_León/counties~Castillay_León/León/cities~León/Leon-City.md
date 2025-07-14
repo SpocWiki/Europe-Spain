@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Leon|Leon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Leon.public|Leon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Leon.internal|Leon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Leon.protect|Leon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Leon.private|Leon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Leon.personal|Leon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Leon.secret|Leon.secret]] 
+
+### [Leon-City.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\León\cities~LeónLeon-City.public.md) 
+
+### [Leon-City.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\León\cities~LeónLeon-City.internal.md) 
+
+### [Leon-City.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\León\cities~LeónLeon-City.protect.md) 
+
+### [Leon-City.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\León\cities~LeónLeon-City.private.md) 
+
+### [Leon-City.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\León\cities~LeónLeon-City.personal.md) 
+
+### [Leon-City.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\León\cities~LeónLeon-City.secret.md)
+

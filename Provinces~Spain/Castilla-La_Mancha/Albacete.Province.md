@@ -40,11 +40,16 @@ markerFolder: ./Albacete.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla-La_Mancha/Albacete.Province|Albacete.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla-La_Mancha/Albacete.Province.public|Albacete.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla-La_Mancha/Albacete.Province.internal|Albacete.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla-La_Mancha/Albacete.Province.protect|Albacete.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla-La_Mancha/Albacete.Province.private|Albacete.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla-La_Mancha/Albacete.Province.personal|Albacete.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla-La_Mancha/Albacete.Province.secret|Albacete.Province.secret]] 
+
+### [Albacete.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaAlbacete.Province.public.md) 
+
+### [Albacete.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaAlbacete.Province.internal.md) 
+
+### [Albacete.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaAlbacete.Province.protect.md) 
+
+### [Albacete.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaAlbacete.Province.private.md) 
+
+### [Albacete.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaAlbacete.Province.personal.md) 
+
+### [Albacete.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaAlbacete.Province.secret.md)
 

@@ -512,10 +512,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Madrid|Madrid]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Madrid.public|Madrid.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Madrid.internal|Madrid.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Madrid.protect|Madrid.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Madrid.private|Madrid.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Madrid.personal|Madrid.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Madrid.secret|Madrid.secret]] 
+
+### [Madrid,City.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridMadrid,City.public.md) 
+
+### [Madrid,City.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridMadrid,City.internal.md) 
+
+### [Madrid,City.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridMadrid,City.protect.md) 
+
+### [Madrid,City.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridMadrid,City.private.md) 
+
+### [Madrid,City.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridMadrid,City.personal.md) 
+
+### [Madrid,City.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridMadrid,City.secret.md)
+

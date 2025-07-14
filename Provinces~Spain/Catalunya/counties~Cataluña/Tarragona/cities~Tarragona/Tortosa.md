@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Tortosa|Tortosa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Tortosa.public|Tortosa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Tortosa.internal|Tortosa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Tortosa.protect|Tortosa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Tortosa.private|Tortosa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Tortosa.personal|Tortosa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Tortosa.secret|Tortosa.secret]] 
+
+### [Tortosa.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Tarragona\cities~TarragonaTortosa.public.md) 
+
+### [Tortosa.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Tarragona\cities~TarragonaTortosa.internal.md) 
+
+### [Tortosa.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Tarragona\cities~TarragonaTortosa.protect.md) 
+
+### [Tortosa.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Tarragona\cities~TarragonaTortosa.private.md) 
+
+### [Tortosa.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Tarragona\cities~TarragonaTortosa.personal.md) 
+
+### [Tortosa.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Tarragona\cities~TarragonaTortosa.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Hierro|Hierro]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Hierro.public|Hierro.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Hierro.internal|Hierro.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Hierro.protect|Hierro.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Hierro.private|Hierro.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Hierro.personal|Hierro.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Hierro.secret|Hierro.secret]] 
+
+### [Hierro.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Canary-Islands\counties~Islas_Canarias\Santa_Cruz_de_Tenerife\CityHierro.public.md) 
+
+### [Hierro.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Canary-Islands\counties~Islas_Canarias\Santa_Cruz_de_Tenerife\CityHierro.internal.md) 
+
+### [Hierro.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Canary-Islands\counties~Islas_Canarias\Santa_Cruz_de_Tenerife\CityHierro.protect.md) 
+
+### [Hierro.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Canary-Islands\counties~Islas_Canarias\Santa_Cruz_de_Tenerife\CityHierro.private.md) 
+
+### [Hierro.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Canary-Islands\counties~Islas_Canarias\Santa_Cruz_de_Tenerife\CityHierro.personal.md) 
+
+### [Hierro.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Canary-Islands\counties~Islas_Canarias\Santa_Cruz_de_Tenerife\CityHierro.secret.md)
+

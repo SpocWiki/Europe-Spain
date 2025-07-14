@@ -40,11 +40,16 @@ markerFolder: ./Lugo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/Counties/Galicia/Lugo|Lugo]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/Counties/Galicia/Lugo.public|Lugo.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/Counties/Galicia/Lugo.internal|Lugo.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/Counties/Galicia/Lugo.protect|Lugo.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/Counties/Galicia/Lugo.private|Lugo.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/Counties/Galicia/Lugo.personal|Lugo.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/Counties/Galicia/Lugo.secret|Lugo.secret]] 
+
+### [Lugo.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\GaliciaLugo.public.md) 
+
+### [Lugo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\GaliciaLugo.internal.md) 
+
+### [Lugo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\GaliciaLugo.protect.md) 
+
+### [Lugo.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\GaliciaLugo.private.md) 
+
+### [Lugo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\GaliciaLugo.personal.md) 
+
+### [Lugo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\GaliciaLugo.secret.md)
 

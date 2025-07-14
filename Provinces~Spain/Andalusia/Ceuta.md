@@ -40,11 +40,16 @@ markerFolder: ./Ceuta/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/Counties/Andalusia/Ceuta|Ceuta]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/Counties/Andalusia/Ceuta.public|Ceuta.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/Counties/Andalusia/Ceuta.internal|Ceuta.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/Counties/Andalusia/Ceuta.protect|Ceuta.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/Counties/Andalusia/Ceuta.private|Ceuta.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/Counties/Andalusia/Ceuta.personal|Ceuta.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/Counties/Andalusia/Ceuta.secret|Ceuta.secret]] 
+
+### [Ceuta.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaCeuta.public.md) 
+
+### [Ceuta.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaCeuta.internal.md) 
+
+### [Ceuta.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaCeuta.protect.md) 
+
+### [Ceuta.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaCeuta.private.md) 
+
+### [Ceuta.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaCeuta.personal.md) 
+
+### [Ceuta.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaCeuta.secret.md)
 

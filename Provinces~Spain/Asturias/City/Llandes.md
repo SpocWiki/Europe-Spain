@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Llandes|Llandes]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Llandes.public|Llandes.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Llandes.internal|Llandes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Llandes.protect|Llandes.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Llandes.private|Llandes.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Llandes.personal|Llandes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Llandes.secret|Llandes.secret]] 
+
+### [Llandes.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Asturias\CityLlandes.public.md) 
+
+### [Llandes.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Asturias\CityLlandes.internal.md) 
+
+### [Llandes.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Asturias\CityLlandes.protect.md) 
+
+### [Llandes.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Asturias\CityLlandes.private.md) 
+
+### [Llandes.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Asturias\CityLlandes.personal.md) 
+
+### [Llandes.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Asturias\CityLlandes.secret.md)
+

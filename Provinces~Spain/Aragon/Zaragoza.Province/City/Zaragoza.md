@@ -38,10 +38,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Saragossa|Saragossa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Saragossa.public|Saragossa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Saragossa.internal|Saragossa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Saragossa.protect|Saragossa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Saragossa.private|Saragossa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Saragossa.personal|Saragossa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Saragossa.secret|Saragossa.secret]] 
+
+### [Zaragoza.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Aragon\Zaragoza.Province\CityZaragoza.public.md) 
+
+### [Zaragoza.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Aragon\Zaragoza.Province\CityZaragoza.internal.md) 
+
+### [Zaragoza.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Aragon\Zaragoza.Province\CityZaragoza.protect.md) 
+
+### [Zaragoza.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Aragon\Zaragoza.Province\CityZaragoza.private.md) 
+
+### [Zaragoza.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Aragon\Zaragoza.Province\CityZaragoza.personal.md) 
+
+### [Zaragoza.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Aragon\Zaragoza.Province\CityZaragoza.secret.md)
+

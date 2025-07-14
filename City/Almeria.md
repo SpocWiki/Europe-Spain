@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Almeria|Almeria]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Almeria.public|Almeria.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Almeria.internal|Almeria.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Almeria.protect|Almeria.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Almeria.private|Almeria.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Almeria.personal|Almeria.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Almeria.secret|Almeria.secret]] 
+
+### [Almeria.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\CityAlmeria.public.md) 
+
+### [Almeria.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\CityAlmeria.internal.md) 
+
+### [Almeria.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\CityAlmeria.protect.md) 
+
+### [Almeria.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\CityAlmeria.private.md) 
+
+### [Almeria.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\CityAlmeria.personal.md) 
+
+### [Almeria.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\CityAlmeria.secret.md)
+

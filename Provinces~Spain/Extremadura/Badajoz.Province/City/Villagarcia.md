@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Villagarcia|Villagarcia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Villagarcia.public|Villagarcia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Villagarcia.internal|Villagarcia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Villagarcia.protect|Villagarcia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Villagarcia.private|Villagarcia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Villagarcia.personal|Villagarcia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Villagarcia.secret|Villagarcia.secret]] 
+
+### [Villagarcia.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Extremadura\Badajoz.Province\CityVillagarcia.public.md) 
+
+### [Villagarcia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Extremadura\Badajoz.Province\CityVillagarcia.internal.md) 
+
+### [Villagarcia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Extremadura\Badajoz.Province\CityVillagarcia.protect.md) 
+
+### [Villagarcia.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Extremadura\Badajoz.Province\CityVillagarcia.private.md) 
+
+### [Villagarcia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Extremadura\Badajoz.Province\CityVillagarcia.personal.md) 
+
+### [Villagarcia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Extremadura\Badajoz.Province\CityVillagarcia.secret.md)
+

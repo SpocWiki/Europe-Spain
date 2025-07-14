@@ -198,12 +198,19 @@ markerFolder: ./Gibraltar/
 > Gibraltar's economy rests on financial services, e-gaming, tourism and the port. With one of the world's lowest unemployment rates, the largest part of the labour force are resident in Spain or non-Gibraltarians, especially in the private sector. Since Brexit, Gibraltar is not a member of the European Union but negotiations are under way to have it participate in the Schengen Agreement to facilitate border movements between Gibraltar and Spain. As of March 2023, talks seem deadlocked.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gibraltar)
+
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/Counties/Andalusia/Gibraltar|Gibraltar]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/Counties/Andalusia/Gibraltar.public|Gibraltar.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/Counties/Andalusia/Gibraltar.internal|Gibraltar.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/Counties/Andalusia/Gibraltar.protect|Gibraltar.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/Counties/Andalusia/Gibraltar.private|Gibraltar.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/Counties/Andalusia/Gibraltar.personal|Gibraltar.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/Counties/Andalusia/Gibraltar.secret|Gibraltar.secret]] 
+
+### [Gibraltar.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaGibraltar.public.md) 
+
+### [Gibraltar.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaGibraltar.internal.md) 
+
+### [Gibraltar.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaGibraltar.protect.md) 
+
+### [Gibraltar.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaGibraltar.private.md) 
+
+### [Gibraltar.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaGibraltar.personal.md) 
+
+### [Gibraltar.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaGibraltar.secret.md)
 

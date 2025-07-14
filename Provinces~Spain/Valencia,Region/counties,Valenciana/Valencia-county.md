@@ -40,11 +40,16 @@ markerFolder: ./Valencia.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/Counties/Valencia.Province/Valencia.Province|Valencia.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/Counties/Valencia.Province/Valencia.Province.public|Valencia.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/Counties/Valencia.Province/Valencia.Province.internal|Valencia.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/Counties/Valencia.Province/Valencia.Province.protect|Valencia.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/Counties/Valencia.Province/Valencia.Province.private|Valencia.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/Counties/Valencia.Province/Valencia.Province.personal|Valencia.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/Counties/Valencia.Province/Valencia.Province.secret|Valencia.Province.secret]] 
+
+### [Valencia-county.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,ValencianaValencia-county.public.md) 
+
+### [Valencia-county.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,ValencianaValencia-county.internal.md) 
+
+### [Valencia-county.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,ValencianaValencia-county.protect.md) 
+
+### [Valencia-county.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,ValencianaValencia-county.private.md) 
+
+### [Valencia-county.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,ValencianaValencia-county.personal.md) 
+
+### [Valencia-county.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,ValencianaValencia-county.secret.md)
 

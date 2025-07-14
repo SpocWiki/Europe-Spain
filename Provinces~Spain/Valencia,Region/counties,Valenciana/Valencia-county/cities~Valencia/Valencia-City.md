@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Valencia.City|Valencia.City]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Valencia.City.public|Valencia.City.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Valencia.City.internal|Valencia.City.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Valencia.City.protect|Valencia.City.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Valencia.City.private|Valencia.City.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Valencia.City.personal|Valencia.City.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Valencia.City.secret|Valencia.City.secret]] 
+
+### [Valencia-City.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,Valenciana\Valencia-county\cities~ValenciaValencia-City.public.md) 
+
+### [Valencia-City.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,Valenciana\Valencia-county\cities~ValenciaValencia-City.internal.md) 
+
+### [Valencia-City.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,Valenciana\Valencia-county\cities~ValenciaValencia-City.protect.md) 
+
+### [Valencia-City.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,Valenciana\Valencia-county\cities~ValenciaValencia-City.private.md) 
+
+### [Valencia-City.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,Valenciana\Valencia-county\cities~ValenciaValencia-City.personal.md) 
+
+### [Valencia-City.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,Valenciana\Valencia-county\cities~ValenciaValencia-City.secret.md)
+

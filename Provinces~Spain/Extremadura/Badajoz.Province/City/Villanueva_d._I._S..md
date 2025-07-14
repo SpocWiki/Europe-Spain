@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Villanueva_d._I._S.|Villanueva_d._I._S.]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Villanueva_d._I._S..public|Villanueva_d._I._S..public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Villanueva_d._I._S..internal|Villanueva_d._I._S..internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Villanueva_d._I._S..protect|Villanueva_d._I._S..protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Villanueva_d._I._S..private|Villanueva_d._I._S..private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Villanueva_d._I._S..personal|Villanueva_d._I._S..personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Villanueva_d._I._S..secret|Villanueva_d._I._S..secret]] 
+
+### [Villanueva_d._I._S..public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Extremadura\Badajoz.Province\CityVillanueva_d._I._S..public.md) 
+
+### [Villanueva_d._I._S..internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Extremadura\Badajoz.Province\CityVillanueva_d._I._S..internal.md) 
+
+### [Villanueva_d._I._S..protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Extremadura\Badajoz.Province\CityVillanueva_d._I._S..protect.md) 
+
+### [Villanueva_d._I._S..private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Extremadura\Badajoz.Province\CityVillanueva_d._I._S..private.md) 
+
+### [Villanueva_d._I._S..personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Extremadura\Badajoz.Province\CityVillanueva_d._I._S..personal.md) 
+
+### [Villanueva_d._I._S..secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Extremadura\Badajoz.Province\CityVillanueva_d._I._S..secret.md)
+

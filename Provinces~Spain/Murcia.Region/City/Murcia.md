@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Murcia|Murcia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Murcia.public|Murcia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Murcia.internal|Murcia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Murcia.protect|Murcia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Murcia.private|Murcia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Murcia.personal|Murcia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Murcia.secret|Murcia.secret]] 
+
+### [Murcia.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Murcia.Region\CityMurcia.public.md) 
+
+### [Murcia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Murcia.Region\CityMurcia.internal.md) 
+
+### [Murcia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Murcia.Region\CityMurcia.protect.md) 
+
+### [Murcia.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Murcia.Region\CityMurcia.private.md) 
+
+### [Murcia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Murcia.Region\CityMurcia.personal.md) 
+
+### [Murcia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Murcia.Region\CityMurcia.secret.md)
+

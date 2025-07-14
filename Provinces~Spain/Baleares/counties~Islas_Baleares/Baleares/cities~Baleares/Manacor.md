@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Manacor|Manacor]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Manacor.public|Manacor.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Manacor.internal|Manacor.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Manacor.protect|Manacor.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Manacor.private|Manacor.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Manacor.personal|Manacor.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Manacor.secret|Manacor.secret]] 
+
+### [Manacor.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Baleares\counties~Islas_Baleares\Baleares\cities~BalearesManacor.public.md) 
+
+### [Manacor.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Baleares\counties~Islas_Baleares\Baleares\cities~BalearesManacor.internal.md) 
+
+### [Manacor.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Baleares\counties~Islas_Baleares\Baleares\cities~BalearesManacor.protect.md) 
+
+### [Manacor.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Baleares\counties~Islas_Baleares\Baleares\cities~BalearesManacor.private.md) 
+
+### [Manacor.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Baleares\counties~Islas_Baleares\Baleares\cities~BalearesManacor.personal.md) 
+
+### [Manacor.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Baleares\counties~Islas_Baleares\Baleares\cities~BalearesManacor.secret.md)
+

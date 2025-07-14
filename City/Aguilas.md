@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Aguilas|Aguilas]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Aguilas.public|Aguilas.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Aguilas.internal|Aguilas.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Aguilas.protect|Aguilas.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Aguilas.private|Aguilas.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Aguilas.personal|Aguilas.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Aguilas.secret|Aguilas.secret]] 
+
+### [Aguilas.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\CityAguilas.public.md) 
+
+### [Aguilas.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\CityAguilas.internal.md) 
+
+### [Aguilas.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\CityAguilas.protect.md) 
+
+### [Aguilas.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\CityAguilas.private.md) 
+
+### [Aguilas.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\CityAguilas.personal.md) 
+
+### [Aguilas.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\CityAguilas.secret.md)
+

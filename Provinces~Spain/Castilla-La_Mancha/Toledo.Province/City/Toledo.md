@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Toledo|Toledo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Toledo.public|Toledo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Toledo.internal|Toledo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Toledo.protect|Toledo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Toledo.private|Toledo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Toledo.personal|Toledo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Toledo.secret|Toledo.secret]] 
+
+### [Toledo.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Toledo.Province\CityToledo.public.md) 
+
+### [Toledo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Toledo.Province\CityToledo.internal.md) 
+
+### [Toledo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Toledo.Province\CityToledo.protect.md) 
+
+### [Toledo.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Toledo.Province\CityToledo.private.md) 
+
+### [Toledo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Toledo.Province\CityToledo.personal.md) 
+
+### [Toledo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Toledo.Province\CityToledo.secret.md)
+

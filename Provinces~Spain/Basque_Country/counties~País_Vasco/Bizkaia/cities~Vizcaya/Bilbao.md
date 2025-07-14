@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Bilbao|Bilbao]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Bilbao.public|Bilbao.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Bilbao.internal|Bilbao.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Bilbao.protect|Bilbao.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Bilbao.private|Bilbao.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Bilbao.personal|Bilbao.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Bilbao.secret|Bilbao.secret]] 
+
+### [Bilbao.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Bizkaia\cities~VizcayaBilbao.public.md) 
+
+### [Bilbao.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Bizkaia\cities~VizcayaBilbao.internal.md) 
+
+### [Bilbao.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Bizkaia\cities~VizcayaBilbao.protect.md) 
+
+### [Bilbao.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Bizkaia\cities~VizcayaBilbao.private.md) 
+
+### [Bilbao.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Bizkaia\cities~VizcayaBilbao.personal.md) 
+
+### [Bilbao.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Bizkaia\cities~VizcayaBilbao.secret.md)
+

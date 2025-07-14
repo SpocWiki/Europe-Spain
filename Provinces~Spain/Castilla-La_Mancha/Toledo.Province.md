@@ -40,11 +40,16 @@ markerFolder: ./Toledo.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla-La_Mancha/Toledo.Province|Toledo.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla-La_Mancha/Toledo.Province.public|Toledo.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla-La_Mancha/Toledo.Province.internal|Toledo.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla-La_Mancha/Toledo.Province.protect|Toledo.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla-La_Mancha/Toledo.Province.private|Toledo.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla-La_Mancha/Toledo.Province.personal|Toledo.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/Counties/Castilla-La_Mancha/Toledo.Province.secret|Toledo.Province.secret]] 
+
+### [Toledo.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaToledo.Province.public.md) 
+
+### [Toledo.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaToledo.Province.internal.md) 
+
+### [Toledo.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaToledo.Province.protect.md) 
+
+### [Toledo.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaToledo.Province.private.md) 
+
+### [Toledo.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaToledo.Province.personal.md) 
+
+### [Toledo.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaToledo.Province.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Tarragona/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/Counties/Catalunya/Tarragona|Tarragona]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/Counties/Catalunya/Tarragona.public|Tarragona.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/Counties/Catalunya/Tarragona.internal|Tarragona.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/Counties/Catalunya/Tarragona.protect|Tarragona.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/Counties/Catalunya/Tarragona.private|Tarragona.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/Counties/Catalunya/Tarragona.personal|Tarragona.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/Counties/Catalunya/Tarragona.secret|Tarragona.secret]] 
+
+### [Tarragona.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaTarragona.public.md) 
+
+### [Tarragona.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaTarragona.internal.md) 
+
+### [Tarragona.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaTarragona.protect.md) 
+
+### [Tarragona.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaTarragona.private.md) 
+
+### [Tarragona.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaTarragona.personal.md) 
+
+### [Tarragona.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaTarragona.secret.md)
 

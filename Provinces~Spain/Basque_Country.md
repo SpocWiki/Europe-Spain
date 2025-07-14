@@ -15,3 +15,20 @@ geojsonFolder: ./Basque/
 markerFolder: ./Basque/
 ```
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Basque_Country.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainBasque_Country.public.md) 
+
+### [Basque_Country.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainBasque_Country.internal.md) 
+
+### [Basque_Country.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainBasque_Country.protect.md) 
+
+### [Basque_Country.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainBasque_Country.private.md) 
+
+### [Basque_Country.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainBasque_Country.personal.md) 
+
+### [Basque_Country.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainBasque_Country.secret.md)
+

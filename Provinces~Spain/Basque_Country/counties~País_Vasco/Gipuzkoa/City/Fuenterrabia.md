@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Fuenterrabia|Fuenterrabia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Fuenterrabia.public|Fuenterrabia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Fuenterrabia.internal|Fuenterrabia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Fuenterrabia.protect|Fuenterrabia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Fuenterrabia.private|Fuenterrabia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Fuenterrabia.personal|Fuenterrabia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Fuenterrabia.secret|Fuenterrabia.secret]] 
+
+### [Fuenterrabia.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Gipuzkoa\CityFuenterrabia.public.md) 
+
+### [Fuenterrabia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Gipuzkoa\CityFuenterrabia.internal.md) 
+
+### [Fuenterrabia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Gipuzkoa\CityFuenterrabia.protect.md) 
+
+### [Fuenterrabia.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Gipuzkoa\CityFuenterrabia.private.md) 
+
+### [Fuenterrabia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Gipuzkoa\CityFuenterrabia.personal.md) 
+
+### [Fuenterrabia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Gipuzkoa\CityFuenterrabia.secret.md)
+

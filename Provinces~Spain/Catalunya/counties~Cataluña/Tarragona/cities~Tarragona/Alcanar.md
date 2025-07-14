@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Alcanar|Alcanar]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Alcanar.public|Alcanar.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Alcanar.internal|Alcanar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Alcanar.protect|Alcanar.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Alcanar.private|Alcanar.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Alcanar.personal|Alcanar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Alcanar.secret|Alcanar.secret]] 
+
+### [Alcanar.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Tarragona\cities~TarragonaAlcanar.public.md) 
+
+### [Alcanar.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Tarragona\cities~TarragonaAlcanar.internal.md) 
+
+### [Alcanar.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Tarragona\cities~TarragonaAlcanar.protect.md) 
+
+### [Alcanar.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Tarragona\cities~TarragonaAlcanar.private.md) 
+
+### [Alcanar.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Tarragona\cities~TarragonaAlcanar.personal.md) 
+
+### [Alcanar.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Tarragona\cities~TarragonaAlcanar.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Vitoria|Vitoria]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Vitoria.public|Vitoria.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Vitoria.internal|Vitoria.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Vitoria.protect|Vitoria.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Vitoria.private|Vitoria.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Vitoria.personal|Vitoria.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Vitoria.secret|Vitoria.secret]] 
+
+### [Vitoria.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Álava\CityVitoria.public.md) 
+
+### [Vitoria.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Álava\CityVitoria.internal.md) 
+
+### [Vitoria.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Álava\CityVitoria.protect.md) 
+
+### [Vitoria.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Álava\CityVitoria.private.md) 
+
+### [Vitoria.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Álava\CityVitoria.personal.md) 
+
+### [Vitoria.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Álava\CityVitoria.secret.md)
+

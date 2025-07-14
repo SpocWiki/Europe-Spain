@@ -266,13 +266,17 @@ Capital :: [[Provinces~Spain/Madrid,Region]]
 [has_place_latitude::40.0911] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain|Spain]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~South/Spain.public|Spain.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~South/Spain.internal|Spain.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~South/Spain.protect|Spain.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~South/Spain.private|Spain.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~South/Spain.personal|Spain.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~South/Spain.secret|Spain.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~South\SpainReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~South\SpainReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~South\SpainReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~South\SpainReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~South\SpainReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~South\SpainReadMe.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q3908
 aliases:
 - Galicia
@@ -116,4 +116,21 @@ native_label:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Galicia%20(Spain))
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Galicia.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainGalicia.public.md) 
+
+### [Galicia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainGalicia.internal.md) 
+
+### [Galicia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainGalicia.protect.md) 
+
+### [Galicia.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainGalicia.private.md) 
+
+### [Galicia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainGalicia.personal.md) 
+
+### [Galicia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainGalicia.secret.md)
 

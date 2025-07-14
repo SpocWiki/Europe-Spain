@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/San_Lorenzo|San_Lorenzo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/San_Lorenzo.public|San_Lorenzo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/San_Lorenzo.internal|San_Lorenzo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/San_Lorenzo.protect|San_Lorenzo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/San_Lorenzo.private|San_Lorenzo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/San_Lorenzo.personal|San_Lorenzo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/San_Lorenzo.secret|San_Lorenzo.secret]] 
+
+### [San_Lorenzo.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridSan_Lorenzo.public.md) 
+
+### [San_Lorenzo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridSan_Lorenzo.internal.md) 
+
+### [San_Lorenzo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridSan_Lorenzo.protect.md) 
+
+### [San_Lorenzo.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridSan_Lorenzo.private.md) 
+
+### [San_Lorenzo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridSan_Lorenzo.personal.md) 
+
+### [San_Lorenzo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridSan_Lorenzo.secret.md)
+

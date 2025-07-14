@@ -40,11 +40,16 @@ markerFolder: ./Gerona.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/Counties/Catalunya/Gerona.Province|Gerona.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/Counties/Catalunya/Gerona.Province.public|Gerona.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/Counties/Catalunya/Gerona.Province.internal|Gerona.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/Counties/Catalunya/Gerona.Province.protect|Gerona.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/Counties/Catalunya/Gerona.Province.private|Gerona.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/Counties/Catalunya/Gerona.Province.personal|Gerona.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/Counties/Catalunya/Gerona.Province.secret|Gerona.Province.secret]] 
+
+### [Gerona.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaGerona.Province.public.md) 
+
+### [Gerona.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaGerona.Province.internal.md) 
+
+### [Gerona.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaGerona.Province.protect.md) 
+
+### [Gerona.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaGerona.Province.private.md) 
+
+### [Gerona.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaGerona.Province.personal.md) 
+
+### [Gerona.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaGerona.Province.secret.md)
 

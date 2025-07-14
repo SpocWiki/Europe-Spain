@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Huelva|Huelva]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Huelva.public|Huelva.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Huelva.internal|Huelva.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Huelva.protect|Huelva.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Huelva.private|Huelva.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Huelva.personal|Huelva.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Huelva.secret|Huelva.secret]] 
+
+### [Huelva.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Huelva.Province\CityHuelva.public.md) 
+
+### [Huelva.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Huelva.Province\CityHuelva.internal.md) 
+
+### [Huelva.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Huelva.Province\CityHuelva.protect.md) 
+
+### [Huelva.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Huelva.Province\CityHuelva.private.md) 
+
+### [Huelva.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Huelva.Province\CityHuelva.personal.md) 
+
+### [Huelva.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Huelva.Province\CityHuelva.secret.md)
+

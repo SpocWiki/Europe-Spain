@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Finisterre|Finisterre]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Finisterre.public|Finisterre.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Finisterre.internal|Finisterre.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Finisterre.protect|Finisterre.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Finisterre.private|Finisterre.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Finisterre.personal|Finisterre.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Finisterre.secret|Finisterre.secret]] 
+
+### [Finisterre.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\CityFinisterre.public.md) 
+
+### [Finisterre.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\CityFinisterre.internal.md) 
+
+### [Finisterre.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\CityFinisterre.protect.md) 
+
+### [Finisterre.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\CityFinisterre.private.md) 
+
+### [Finisterre.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\CityFinisterre.personal.md) 
+
+### [Finisterre.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\CityFinisterre.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Badajoz.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/Counties/Extremadura/Badajoz.Province|Badajoz.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/Counties/Extremadura/Badajoz.Province.public|Badajoz.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/Counties/Extremadura/Badajoz.Province.internal|Badajoz.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/Counties/Extremadura/Badajoz.Province.protect|Badajoz.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/Counties/Extremadura/Badajoz.Province.private|Badajoz.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/Counties/Extremadura/Badajoz.Province.personal|Badajoz.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/Counties/Extremadura/Badajoz.Province.secret|Badajoz.Province.secret]] 
+
+### [Badajoz.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\ExtremaduraBadajoz.Province.public.md) 
+
+### [Badajoz.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\ExtremaduraBadajoz.Province.internal.md) 
+
+### [Badajoz.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\ExtremaduraBadajoz.Province.protect.md) 
+
+### [Badajoz.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\ExtremaduraBadajoz.Province.private.md) 
+
+### [Badajoz.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\ExtremaduraBadajoz.Province.personal.md) 
+
+### [Badajoz.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\ExtremaduraBadajoz.Province.secret.md)
 

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Palma~Mallorca|Palma~Mallorca]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Palma~Mallorca.public|Palma~Mallorca.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Palma~Mallorca.internal|Palma~Mallorca.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Palma~Mallorca.protect|Palma~Mallorca.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Palma~Mallorca.private|Palma~Mallorca.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Palma~Mallorca.personal|Palma~Mallorca.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Palma~Mallorca.secret|Palma~Mallorca.secret]] 
+
+### [Palma~Mallorca.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Baleares\counties~Islas_Baleares\Baleares\cities~BalearesPalma~Mallorca.public.md) 
+
+### [Palma~Mallorca.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Baleares\counties~Islas_Baleares\Baleares\cities~BalearesPalma~Mallorca.internal.md) 
+
+### [Palma~Mallorca.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Baleares\counties~Islas_Baleares\Baleares\cities~BalearesPalma~Mallorca.protect.md) 
+
+### [Palma~Mallorca.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Baleares\counties~Islas_Baleares\Baleares\cities~BalearesPalma~Mallorca.private.md) 
+
+### [Palma~Mallorca.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Baleares\counties~Islas_Baleares\Baleares\cities~BalearesPalma~Mallorca.personal.md) 
+
+### [Palma~Mallorca.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Baleares\counties~Islas_Baleares\Baleares\cities~BalearesPalma~Mallorca.secret.md)
+

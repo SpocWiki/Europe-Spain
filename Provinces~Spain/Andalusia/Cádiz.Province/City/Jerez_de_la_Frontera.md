@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Jerez_de_la_Frontera|Jerez_de_la_Frontera]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Jerez_de_la_Frontera.public|Jerez_de_la_Frontera.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Jerez_de_la_Frontera.internal|Jerez_de_la_Frontera.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Jerez_de_la_Frontera.protect|Jerez_de_la_Frontera.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Jerez_de_la_Frontera.private|Jerez_de_la_Frontera.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Jerez_de_la_Frontera.personal|Jerez_de_la_Frontera.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Jerez_de_la_Frontera.secret|Jerez_de_la_Frontera.secret]] 
+
+### [Jerez_de_la_Frontera.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CityJerez_de_la_Frontera.public.md) 
+
+### [Jerez_de_la_Frontera.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CityJerez_de_la_Frontera.internal.md) 
+
+### [Jerez_de_la_Frontera.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CityJerez_de_la_Frontera.protect.md) 
+
+### [Jerez_de_la_Frontera.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CityJerez_de_la_Frontera.private.md) 
+
+### [Jerez_de_la_Frontera.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CityJerez_de_la_Frontera.personal.md) 
+
+### [Jerez_de_la_Frontera.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CityJerez_de_la_Frontera.secret.md)
+

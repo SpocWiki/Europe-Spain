@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Guadalajara|Guadalajara]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Guadalajara.public|Guadalajara.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Guadalajara.internal|Guadalajara.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Guadalajara.protect|Guadalajara.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Guadalajara.private|Guadalajara.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Guadalajara.personal|Guadalajara.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Guadalajara.secret|Guadalajara.secret]] 
+
+### [Guadalajara.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Guadalajara.Province\CityGuadalajara.public.md) 
+
+### [Guadalajara.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Guadalajara.Province\CityGuadalajara.internal.md) 
+
+### [Guadalajara.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Guadalajara.Province\CityGuadalajara.protect.md) 
+
+### [Guadalajara.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Guadalajara.Province\CityGuadalajara.private.md) 
+
+### [Guadalajara.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Guadalajara.Province\CityGuadalajara.personal.md) 
+
+### [Guadalajara.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Guadalajara.Province\CityGuadalajara.secret.md)
+

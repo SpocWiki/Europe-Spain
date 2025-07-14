@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Escorial=San_Lorenzo|Escorial=San_Lorenzo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Escorial=San_Lorenzo.public|Escorial=San_Lorenzo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Escorial=San_Lorenzo.internal|Escorial=San_Lorenzo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Escorial=San_Lorenzo.protect|Escorial=San_Lorenzo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Escorial=San_Lorenzo.private|Escorial=San_Lorenzo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Escorial=San_Lorenzo.personal|Escorial=San_Lorenzo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Escorial=San_Lorenzo.secret|Escorial=San_Lorenzo.secret]] 
+
+### [Escorial=San_Lorenzo.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridEscorial=San_Lorenzo.public.md) 
+
+### [Escorial=San_Lorenzo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridEscorial=San_Lorenzo.internal.md) 
+
+### [Escorial=San_Lorenzo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridEscorial=San_Lorenzo.protect.md) 
+
+### [Escorial=San_Lorenzo.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridEscorial=San_Lorenzo.private.md) 
+
+### [Escorial=San_Lorenzo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridEscorial=San_Lorenzo.personal.md) 
+
+### [Escorial=San_Lorenzo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridEscorial=San_Lorenzo.secret.md)
+

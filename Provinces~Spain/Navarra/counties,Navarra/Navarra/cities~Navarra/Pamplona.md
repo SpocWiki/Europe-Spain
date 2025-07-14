@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Pamplona|Pamplona]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Pamplona.public|Pamplona.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Pamplona.internal|Pamplona.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Pamplona.protect|Pamplona.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Pamplona.private|Pamplona.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Pamplona.personal|Pamplona.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Pamplona.secret|Pamplona.secret]] 
+
+### [Pamplona.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Navarra\counties,Navarra\Navarra\cities~NavarraPamplona.public.md) 
+
+### [Pamplona.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Navarra\counties,Navarra\Navarra\cities~NavarraPamplona.internal.md) 
+
+### [Pamplona.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Navarra\counties,Navarra\Navarra\cities~NavarraPamplona.protect.md) 
+
+### [Pamplona.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Navarra\counties,Navarra\Navarra\cities~NavarraPamplona.private.md) 
+
+### [Pamplona.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Navarra\counties,Navarra\Navarra\cities~NavarraPamplona.personal.md) 
+
+### [Pamplona.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Navarra\counties,Navarra\Navarra\cities~NavarraPamplona.secret.md)
+

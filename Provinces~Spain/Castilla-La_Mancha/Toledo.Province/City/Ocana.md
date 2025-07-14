@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Ocana|Ocana]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Ocana.public|Ocana.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Ocana.internal|Ocana.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Ocana.protect|Ocana.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Ocana.private|Ocana.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Ocana.personal|Ocana.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Ocana.secret|Ocana.secret]] 
+
+### [Ocana.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Toledo.Province\CityOcana.public.md) 
+
+### [Ocana.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Toledo.Province\CityOcana.internal.md) 
+
+### [Ocana.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Toledo.Province\CityOcana.protect.md) 
+
+### [Ocana.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Toledo.Province\CityOcana.private.md) 
+
+### [Ocana.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Toledo.Province\CityOcana.personal.md) 
+
+### [Ocana.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Toledo.Province\CityOcana.secret.md)
+

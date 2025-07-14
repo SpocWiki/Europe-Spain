@@ -40,11 +40,16 @@ markerFolder: ./Lérida.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/Counties/Catalunya/Lérida.Province|Lérida.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/Counties/Catalunya/Lérida.Province.public|Lérida.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/Counties/Catalunya/Lérida.Province.internal|Lérida.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/Counties/Catalunya/Lérida.Province.protect|Lérida.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/Counties/Catalunya/Lérida.Province.private|Lérida.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/Counties/Catalunya/Lérida.Province.personal|Lérida.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/Counties/Catalunya/Lérida.Province.secret|Lérida.Province.secret]] 
+
+### [Lérida.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaLérida.Province.public.md) 
+
+### [Lérida.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaLérida.Province.internal.md) 
+
+### [Lérida.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaLérida.Province.protect.md) 
+
+### [Lérida.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaLérida.Province.private.md) 
+
+### [Lérida.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaLérida.Province.personal.md) 
+
+### [Lérida.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaLérida.Province.secret.md)
 

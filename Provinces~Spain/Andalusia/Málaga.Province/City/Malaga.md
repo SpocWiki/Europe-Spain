@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Malaga|Malaga]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Malaga.public|Malaga.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Malaga.internal|Malaga.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Malaga.protect|Malaga.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Malaga.private|Malaga.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Malaga.personal|Malaga.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Malaga.secret|Malaga.secret]] 
+
+### [Malaga.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Málaga.Province\CityMalaga.public.md) 
+
+### [Malaga.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Málaga.Province\CityMalaga.internal.md) 
+
+### [Malaga.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Málaga.Province\CityMalaga.protect.md) 
+
+### [Malaga.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Málaga.Province\CityMalaga.private.md) 
+
+### [Malaga.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Málaga.Province\CityMalaga.personal.md) 
+
+### [Malaga.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Málaga.Province\CityMalaga.secret.md)
+

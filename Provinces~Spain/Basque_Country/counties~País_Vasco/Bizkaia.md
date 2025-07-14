@@ -40,11 +40,16 @@ markerFolder: ./Bizkaia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/Counties/Basque/Bizkaia|Bizkaia]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/Counties/Basque/Bizkaia.public|Bizkaia.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/Counties/Basque/Bizkaia.internal|Bizkaia.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/Counties/Basque/Bizkaia.protect|Bizkaia.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/Counties/Basque/Bizkaia.private|Bizkaia.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/Counties/Basque/Bizkaia.personal|Bizkaia.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/Counties/Basque/Bizkaia.secret|Bizkaia.secret]] 
+
+### [Bizkaia.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_VascoBizkaia.public.md) 
+
+### [Bizkaia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_VascoBizkaia.internal.md) 
+
+### [Bizkaia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_VascoBizkaia.protect.md) 
+
+### [Bizkaia.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_VascoBizkaia.private.md) 
+
+### [Bizkaia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_VascoBizkaia.personal.md) 
+
+### [Bizkaia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_VascoBizkaia.secret.md)
 

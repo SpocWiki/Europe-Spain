@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Salamanca|Salamanca]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Salamanca.public|Salamanca.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Salamanca.internal|Salamanca.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Salamanca.protect|Salamanca.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Salamanca.private|Salamanca.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Salamanca.personal|Salamanca.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Salamanca.secret|Salamanca.secret]] 
+
+### [Salamanca.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Salamanca.Province\cities~SalamancaSalamanca.public.md) 
+
+### [Salamanca.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Salamanca.Province\cities~SalamancaSalamanca.internal.md) 
+
+### [Salamanca.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Salamanca.Province\cities~SalamancaSalamanca.protect.md) 
+
+### [Salamanca.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Salamanca.Province\cities~SalamancaSalamanca.private.md) 
+
+### [Salamanca.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Salamanca.Province\cities~SalamancaSalamanca.personal.md) 
+
+### [Salamanca.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Salamanca.Province\cities~SalamancaSalamanca.secret.md)
+

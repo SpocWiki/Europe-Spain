@@ -40,11 +40,16 @@ markerFolder: ./Castellón/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/Counties/Valencia/Castellón|Castellón]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/Counties/Valencia/Castellón.public|Castellón.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/Counties/Valencia/Castellón.internal|Castellón.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/Counties/Valencia/Castellón.protect|Castellón.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/Counties/Valencia/Castellón.private|Castellón.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/Counties/Valencia/Castellón.personal|Castellón.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/Counties/Valencia/Castellón.secret|Castellón.secret]] 
+
+### [Castellón.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,ValencianaCastellón.public.md) 
+
+### [Castellón.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,ValencianaCastellón.internal.md) 
+
+### [Castellón.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,ValencianaCastellón.protect.md) 
+
+### [Castellón.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,ValencianaCastellón.private.md) 
+
+### [Castellón.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,ValencianaCastellón.personal.md) 
+
+### [Castellón.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,ValencianaCastellón.secret.md)
 

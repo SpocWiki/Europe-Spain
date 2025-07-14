@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Tordesillas|Tordesillas]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Tordesillas.public|Tordesillas.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Tordesillas.internal|Tordesillas.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Tordesillas.protect|Tordesillas.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Tordesillas.private|Tordesillas.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Tordesillas.personal|Tordesillas.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Tordesillas.secret|Tordesillas.secret]] 
+
+### [Tordesillas.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Valladolid.Province\cities~ValladolidTordesillas.public.md) 
+
+### [Tordesillas.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Valladolid.Province\cities~ValladolidTordesillas.internal.md) 
+
+### [Tordesillas.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Valladolid.Province\cities~ValladolidTordesillas.protect.md) 
+
+### [Tordesillas.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Valladolid.Province\cities~ValladolidTordesillas.private.md) 
+
+### [Tordesillas.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Valladolid.Province\cities~ValladolidTordesillas.personal.md) 
+
+### [Tordesillas.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Valladolid.Province\cities~ValladolidTordesillas.secret.md)
+

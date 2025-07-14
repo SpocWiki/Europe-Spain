@@ -40,11 +40,16 @@ markerFolder: ./Gipuzkoa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/Counties/Basque/Gipuzkoa|Gipuzkoa]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/Counties/Basque/Gipuzkoa.public|Gipuzkoa.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/Counties/Basque/Gipuzkoa.internal|Gipuzkoa.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/Counties/Basque/Gipuzkoa.protect|Gipuzkoa.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/Counties/Basque/Gipuzkoa.private|Gipuzkoa.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/Counties/Basque/Gipuzkoa.personal|Gipuzkoa.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/Counties/Basque/Gipuzkoa.secret|Gipuzkoa.secret]] 
+
+### [Gipuzkoa.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_VascoGipuzkoa.public.md) 
+
+### [Gipuzkoa.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_VascoGipuzkoa.internal.md) 
+
+### [Gipuzkoa.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_VascoGipuzkoa.protect.md) 
+
+### [Gipuzkoa.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_VascoGipuzkoa.private.md) 
+
+### [Gipuzkoa.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_VascoGipuzkoa.personal.md) 
+
+### [Gipuzkoa.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_VascoGipuzkoa.secret.md)
 

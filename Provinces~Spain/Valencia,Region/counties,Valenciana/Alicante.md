@@ -40,11 +40,16 @@ markerFolder: ./Alicante/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/Counties/Valencia/Alicante|Alicante]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/Counties/Valencia/Alicante.public|Alicante.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/Counties/Valencia/Alicante.internal|Alicante.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/Counties/Valencia/Alicante.protect|Alicante.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/Counties/Valencia/Alicante.private|Alicante.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/Counties/Valencia/Alicante.personal|Alicante.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/Counties/Valencia/Alicante.secret|Alicante.secret]] 
+
+### [Alicante.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,ValencianaAlicante.public.md) 
+
+### [Alicante.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,ValencianaAlicante.internal.md) 
+
+### [Alicante.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,ValencianaAlicante.protect.md) 
+
+### [Alicante.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,ValencianaAlicante.private.md) 
+
+### [Alicante.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,ValencianaAlicante.personal.md) 
+
+### [Alicante.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,ValencianaAlicante.secret.md)
 

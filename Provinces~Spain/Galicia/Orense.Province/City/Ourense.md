@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Ourense|Ourense]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Ourense.public|Ourense.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Ourense.internal|Ourense.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Ourense.protect|Ourense.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Ourense.private|Ourense.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Ourense.personal|Ourense.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Ourense.secret|Ourense.secret]] 
+
+### [Ourense.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\Orense.Province\CityOurense.public.md) 
+
+### [Ourense.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\Orense.Province\CityOurense.internal.md) 
+
+### [Ourense.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\Orense.Province\CityOurense.protect.md) 
+
+### [Ourense.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\Orense.Province\CityOurense.private.md) 
+
+### [Ourense.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\Orense.Province\CityOurense.personal.md) 
+
+### [Ourense.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\Orense.Province\CityOurense.secret.md)
+

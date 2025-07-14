@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Ferrol|Ferrol]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Ferrol.public|Ferrol.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Ferrol.internal|Ferrol.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Ferrol.protect|Ferrol.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Ferrol.private|Ferrol.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Ferrol.personal|Ferrol.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Ferrol.secret|Ferrol.secret]] 
+
+### [Ferrol.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\CityFerrol.public.md) 
+
+### [Ferrol.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\CityFerrol.internal.md) 
+
+### [Ferrol.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\CityFerrol.protect.md) 
+
+### [Ferrol.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\CityFerrol.private.md) 
+
+### [Ferrol.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\CityFerrol.personal.md) 
+
+### [Ferrol.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\CityFerrol.secret.md)
+

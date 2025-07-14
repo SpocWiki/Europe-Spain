@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Valladolid|Valladolid]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Valladolid.public|Valladolid.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Valladolid.internal|Valladolid.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Valladolid.protect|Valladolid.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Valladolid.private|Valladolid.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Valladolid.personal|Valladolid.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Valladolid.secret|Valladolid.secret]] 
+
+### [Valladolid.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Valladolid.Province\cities~ValladolidValladolid.public.md) 
+
+### [Valladolid.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Valladolid.Province\cities~ValladolidValladolid.internal.md) 
+
+### [Valladolid.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Valladolid.Province\cities~ValladolidValladolid.protect.md) 
+
+### [Valladolid.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Valladolid.Province\cities~ValladolidValladolid.private.md) 
+
+### [Valladolid.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Valladolid.Province\cities~ValladolidValladolid.personal.md) 
+
+### [Valladolid.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Valladolid.Province\cities~ValladolidValladolid.secret.md)
+

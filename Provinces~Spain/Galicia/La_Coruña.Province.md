@@ -40,11 +40,16 @@ markerFolder: ./La_Coruña.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/Counties/Galicia/La_Coruña.Province|La_Coruña.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/Counties/Galicia/La_Coruña.Province.public|La_Coruña.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/Counties/Galicia/La_Coruña.Province.internal|La_Coruña.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/Counties/Galicia/La_Coruña.Province.protect|La_Coruña.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/Counties/Galicia/La_Coruña.Province.private|La_Coruña.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/Counties/Galicia/La_Coruña.Province.personal|La_Coruña.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/Counties/Galicia/La_Coruña.Province.secret|La_Coruña.Province.secret]] 
+
+### [La_Coruña.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\GaliciaLa_Coruña.Province.public.md) 
+
+### [La_Coruña.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\GaliciaLa_Coruña.Province.internal.md) 
+
+### [La_Coruña.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\GaliciaLa_Coruña.Province.protect.md) 
+
+### [La_Coruña.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\GaliciaLa_Coruña.Province.private.md) 
+
+### [La_Coruña.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\GaliciaLa_Coruña.Province.personal.md) 
+
+### [La_Coruña.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\GaliciaLa_Coruña.Province.secret.md)
 

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Lerida|Lerida]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Lerida.public|Lerida.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Lerida.internal|Lerida.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Lerida.protect|Lerida.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Lerida.private|Lerida.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Lerida.personal|Lerida.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Lerida.secret|Lerida.secret]] 
+
+### [Lerida.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Lérida.Province\cities~LleidaLerida.public.md) 
+
+### [Lerida.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Lérida.Province\cities~LleidaLerida.internal.md) 
+
+### [Lerida.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Lérida.Province\cities~LleidaLerida.protect.md) 
+
+### [Lerida.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Lérida.Province\cities~LleidaLerida.private.md) 
+
+### [Lerida.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Lérida.Province\cities~LleidaLerida.personal.md) 
+
+### [Lerida.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Lérida.Province\cities~LleidaLerida.secret.md)
+

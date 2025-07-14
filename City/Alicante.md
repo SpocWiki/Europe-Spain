@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Alicante|Alicante]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Alicante.public|Alicante.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Alicante.internal|Alicante.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Alicante.protect|Alicante.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Alicante.private|Alicante.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Alicante.personal|Alicante.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Alicante.secret|Alicante.secret]] 
+
+### [Alicante.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\CityAlicante.public.md) 
+
+### [Alicante.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\CityAlicante.internal.md) 
+
+### [Alicante.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\CityAlicante.protect.md) 
+
+### [Alicante.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\CityAlicante.private.md) 
+
+### [Alicante.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\CityAlicante.personal.md) 
+
+### [Alicante.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\CityAlicante.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Oropesa|Oropesa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Oropesa.public|Oropesa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Oropesa.internal|Oropesa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Oropesa.protect|Oropesa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Oropesa.private|Oropesa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Oropesa.personal|Oropesa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Oropesa.secret|Oropesa.secret]] 
+
+### [Oropesa.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\CityOropesa.public.md) 
+
+### [Oropesa.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\CityOropesa.internal.md) 
+
+### [Oropesa.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\CityOropesa.protect.md) 
+
+### [Oropesa.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\CityOropesa.private.md) 
+
+### [Oropesa.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\CityOropesa.personal.md) 
+
+### [Oropesa.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\CityOropesa.secret.md)
+

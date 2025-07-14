@@ -40,11 +40,16 @@ markerFolder: ./Asturias/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/Counties/Asturias|Asturias]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/Counties/Asturias.public|Asturias.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/Counties/Asturias.internal|Asturias.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/Counties/Asturias.protect|Asturias.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/Counties/Asturias.private|Asturias.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/Counties/Asturias.personal|Asturias.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/Counties/Asturias.secret|Asturias.secret]] 
+
+### [Asturias.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainAsturias.public.md) 
+
+### [Asturias.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainAsturias.internal.md) 
+
+### [Asturias.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainAsturias.protect.md) 
+
+### [Asturias.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainAsturias.private.md) 
+
+### [Asturias.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainAsturias.personal.md) 
+
+### [Asturias.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainAsturias.secret.md)
 

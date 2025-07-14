@@ -37,10 +37,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Alcoy|Alcoy]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Alcoy.public|Alcoy.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Alcoy.internal|Alcoy.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Alcoy.protect|Alcoy.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Alcoy.private|Alcoy.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Alcoy.personal|Alcoy.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Alcoy.secret|Alcoy.secret]] 
+
+### [Alcoy.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,Valenciana\Alicante\cities~AlicanteAlcoy.public.md) 
+
+### [Alcoy.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,Valenciana\Alicante\cities~AlicanteAlcoy.internal.md) 
+
+### [Alcoy.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,Valenciana\Alicante\cities~AlicanteAlcoy.protect.md) 
+
+### [Alcoy.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,Valenciana\Alicante\cities~AlicanteAlcoy.private.md) 
+
+### [Alcoy.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,Valenciana\Alicante\cities~AlicanteAlcoy.personal.md) 
+
+### [Alcoy.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,Valenciana\Alicante\cities~AlicanteAlcoy.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Muros|Muros]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Muros.public|Muros.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Muros.internal|Muros.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Muros.protect|Muros.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Muros.private|Muros.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Muros.personal|Muros.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Muros.secret|Muros.secret]] 
+
+### [Muros.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\CityMuros.public.md) 
+
+### [Muros.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\CityMuros.internal.md) 
+
+### [Muros.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\CityMuros.protect.md) 
+
+### [Muros.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\CityMuros.private.md) 
+
+### [Muros.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\CityMuros.personal.md) 
+
+### [Muros.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\CityMuros.secret.md)
+

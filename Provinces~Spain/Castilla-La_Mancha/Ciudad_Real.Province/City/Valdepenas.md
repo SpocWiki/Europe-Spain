@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Valdepenas|Valdepenas]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Valdepenas.public|Valdepenas.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Valdepenas.internal|Valdepenas.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Valdepenas.protect|Valdepenas.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Valdepenas.private|Valdepenas.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Valdepenas.personal|Valdepenas.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Valdepenas.secret|Valdepenas.secret]] 
+
+### [Valdepenas.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Ciudad_Real.Province\CityValdepenas.public.md) 
+
+### [Valdepenas.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Ciudad_Real.Province\CityValdepenas.internal.md) 
+
+### [Valdepenas.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Ciudad_Real.Province\CityValdepenas.protect.md) 
+
+### [Valdepenas.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Ciudad_Real.Province\CityValdepenas.private.md) 
+
+### [Valdepenas.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Ciudad_Real.Province\CityValdepenas.personal.md) 
+
+### [Valdepenas.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Ciudad_Real.Province\CityValdepenas.secret.md)
+

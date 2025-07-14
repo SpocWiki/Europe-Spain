@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/San_Sebastian|San_Sebastian]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/San_Sebastian.public|San_Sebastian.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/San_Sebastian.internal|San_Sebastian.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/San_Sebastian.protect|San_Sebastian.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/San_Sebastian.private|San_Sebastian.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/San_Sebastian.personal|San_Sebastian.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/San_Sebastian.secret|San_Sebastian.secret]] 
+
+### [San_Sebastian.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Gipuzkoa\CitySan_Sebastian.public.md) 
+
+### [San_Sebastian.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Gipuzkoa\CitySan_Sebastian.internal.md) 
+
+### [San_Sebastian.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Gipuzkoa\CitySan_Sebastian.protect.md) 
+
+### [San_Sebastian.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Gipuzkoa\CitySan_Sebastian.private.md) 
+
+### [San_Sebastian.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Gipuzkoa\CitySan_Sebastian.personal.md) 
+
+### [San_Sebastian.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Gipuzkoa\CitySan_Sebastian.secret.md)
+
