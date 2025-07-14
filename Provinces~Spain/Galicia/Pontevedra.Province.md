@@ -41,15 +41,17 @@ markerFolder: ./Pontevedra.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Pontevedra.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\GaliciaPontevedra.Province.public.md) 
+### [Pontevedra.Province](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province.md) 
 
-### [Pontevedra.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\GaliciaPontevedra.Province.internal.md) 
+### [Pontevedra.Province.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province.public.md) 
 
-### [Pontevedra.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\GaliciaPontevedra.Province.protect.md) 
+### [Pontevedra.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province.internal.md) 
 
-### [Pontevedra.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\GaliciaPontevedra.Province.private.md) 
+### [Pontevedra.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province.protect.md) 
 
-### [Pontevedra.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\GaliciaPontevedra.Province.personal.md) 
+### [Pontevedra.Province.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province.private.md) 
 
-### [Pontevedra.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\GaliciaPontevedra.Province.secret.md)
+### [Pontevedra.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province.personal.md) 
+
+### [Pontevedra.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province.secret.md)
 

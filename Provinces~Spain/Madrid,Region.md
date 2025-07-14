@@ -44,15 +44,17 @@ markerFolder: ./Madrid.Region/
 
 ## Confidential Links & Embeds: 
 
-### [Madrid,Region.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainMadrid,Region.public.md) 
+### [Madrid,Region](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region.md) 
 
-### [Madrid,Region.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainMadrid,Region.internal.md) 
+### [Madrid,Region.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region.public.md) 
 
-### [Madrid,Region.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainMadrid,Region.protect.md) 
+### [Madrid,Region.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region.internal.md) 
 
-### [Madrid,Region.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainMadrid,Region.private.md) 
+### [Madrid,Region.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region.protect.md) 
 
-### [Madrid,Region.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainMadrid,Region.personal.md) 
+### [Madrid,Region.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region.private.md) 
 
-### [Madrid,Region.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainMadrid,Region.secret.md)
+### [Madrid,Region.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region.personal.md) 
+
+### [Madrid,Region.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region.secret.md)
 

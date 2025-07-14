@@ -38,15 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alcoy.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,Valenciana\Alicante\cities~AlicanteAlcoy.public.md) 
+### [Alcoy](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Alicante/cities~Alicante/Alcoy.md) 
 
-### [Alcoy.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,Valenciana\Alicante\cities~AlicanteAlcoy.internal.md) 
+### [Alcoy.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Alicante/cities~Alicante/Alcoy.public.md) 
 
-### [Alcoy.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,Valenciana\Alicante\cities~AlicanteAlcoy.protect.md) 
+### [Alcoy.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Alicante/cities~Alicante/Alcoy.internal.md) 
 
-### [Alcoy.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,Valenciana\Alicante\cities~AlicanteAlcoy.private.md) 
+### [Alcoy.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Alicante/cities~Alicante/Alcoy.protect.md) 
 
-### [Alcoy.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,Valenciana\Alicante\cities~AlicanteAlcoy.personal.md) 
+### [Alcoy.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Alicante/cities~Alicante/Alcoy.private.md) 
 
-### [Alcoy.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,Valenciana\Alicante\cities~AlicanteAlcoy.secret.md)
+### [Alcoy.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Alicante/cities~Alicante/Alcoy.personal.md) 
+
+### [Alcoy.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Alicante/cities~Alicante/Alcoy.secret.md)
 

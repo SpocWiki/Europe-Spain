@@ -41,15 +41,17 @@ markerFolder: ./Las_Palmas/
 
 ## Confidential Links & Embeds: 
 
-### [Las_Palmas.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Canary-Islands\counties~Islas_CanariasLas_Palmas.public.md) 
+### [Las_Palmas](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Las_Palmas.md) 
 
-### [Las_Palmas.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Canary-Islands\counties~Islas_CanariasLas_Palmas.internal.md) 
+### [Las_Palmas.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Las_Palmas.public.md) 
 
-### [Las_Palmas.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Canary-Islands\counties~Islas_CanariasLas_Palmas.protect.md) 
+### [Las_Palmas.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Las_Palmas.internal.md) 
 
-### [Las_Palmas.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Canary-Islands\counties~Islas_CanariasLas_Palmas.private.md) 
+### [Las_Palmas.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Las_Palmas.protect.md) 
 
-### [Las_Palmas.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Canary-Islands\counties~Islas_CanariasLas_Palmas.personal.md) 
+### [Las_Palmas.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Las_Palmas.private.md) 
 
-### [Las_Palmas.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Canary-Islands\counties~Islas_CanariasLas_Palmas.secret.md)
+### [Las_Palmas.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Las_Palmas.personal.md) 
+
+### [Las_Palmas.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Las_Palmas.secret.md)
 

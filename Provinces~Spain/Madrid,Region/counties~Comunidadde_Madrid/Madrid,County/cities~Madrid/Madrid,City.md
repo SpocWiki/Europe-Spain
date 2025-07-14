@@ -513,15 +513,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Madrid,City.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridMadrid,City.public.md) 
+### [Madrid,City](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/Madrid,City.md) 
 
-### [Madrid,City.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridMadrid,City.internal.md) 
+### [Madrid,City.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/Madrid,City.public.md) 
 
-### [Madrid,City.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridMadrid,City.protect.md) 
+### [Madrid,City.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/Madrid,City.internal.md) 
 
-### [Madrid,City.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridMadrid,City.private.md) 
+### [Madrid,City.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/Madrid,City.protect.md) 
 
-### [Madrid,City.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridMadrid,City.personal.md) 
+### [Madrid,City.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/Madrid,City.private.md) 
 
-### [Madrid,City.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridMadrid,City.secret.md)
+### [Madrid,City.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/Madrid,City.personal.md) 
+
+### [Madrid,City.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/Madrid,City.secret.md)
 

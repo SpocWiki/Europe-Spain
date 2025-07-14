@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tarrasa.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Barcelona.Province\cities~BarcelonaTarrasa.public.md) 
+### [Tarrasa](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Tarrasa.md) 
 
-### [Tarrasa.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Barcelona.Province\cities~BarcelonaTarrasa.internal.md) 
+### [Tarrasa.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Tarrasa.public.md) 
 
-### [Tarrasa.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Barcelona.Province\cities~BarcelonaTarrasa.protect.md) 
+### [Tarrasa.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Tarrasa.internal.md) 
 
-### [Tarrasa.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Barcelona.Province\cities~BarcelonaTarrasa.private.md) 
+### [Tarrasa.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Tarrasa.protect.md) 
 
-### [Tarrasa.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Barcelona.Province\cities~BarcelonaTarrasa.personal.md) 
+### [Tarrasa.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Tarrasa.private.md) 
 
-### [Tarrasa.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Barcelona.Province\cities~BarcelonaTarrasa.secret.md)
+### [Tarrasa.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Tarrasa.personal.md) 
+
+### [Tarrasa.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Tarrasa.secret.md)
 

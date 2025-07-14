@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hierro.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Canary-Islands\counties~Islas_Canarias\Santa_Cruz_de_Tenerife\CityHierro.public.md) 
+### [Hierro](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Santa_Cruz_de_Tenerife/City/Hierro.md) 
 
-### [Hierro.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Canary-Islands\counties~Islas_Canarias\Santa_Cruz_de_Tenerife\CityHierro.internal.md) 
+### [Hierro.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Santa_Cruz_de_Tenerife/City/Hierro.public.md) 
 
-### [Hierro.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Canary-Islands\counties~Islas_Canarias\Santa_Cruz_de_Tenerife\CityHierro.protect.md) 
+### [Hierro.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Santa_Cruz_de_Tenerife/City/Hierro.internal.md) 
 
-### [Hierro.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Canary-Islands\counties~Islas_Canarias\Santa_Cruz_de_Tenerife\CityHierro.private.md) 
+### [Hierro.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Santa_Cruz_de_Tenerife/City/Hierro.protect.md) 
 
-### [Hierro.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Canary-Islands\counties~Islas_Canarias\Santa_Cruz_de_Tenerife\CityHierro.personal.md) 
+### [Hierro.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Santa_Cruz_de_Tenerife/City/Hierro.private.md) 
 
-### [Hierro.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Canary-Islands\counties~Islas_Canarias\Santa_Cruz_de_Tenerife\CityHierro.secret.md)
+### [Hierro.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Santa_Cruz_de_Tenerife/City/Hierro.personal.md) 
+
+### [Hierro.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Santa_Cruz_de_Tenerife/City/Hierro.secret.md)
 

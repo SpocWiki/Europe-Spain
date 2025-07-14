@@ -41,15 +41,17 @@ markerFolder: ./Valladolid.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Valladolid.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_LeónValladolid.Province.public.md) 
+### [Valladolid.Province](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Valladolid.Province.md) 
 
-### [Valladolid.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_LeónValladolid.Province.internal.md) 
+### [Valladolid.Province.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Valladolid.Province.public.md) 
 
-### [Valladolid.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_LeónValladolid.Province.protect.md) 
+### [Valladolid.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Valladolid.Province.internal.md) 
 
-### [Valladolid.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_LeónValladolid.Province.private.md) 
+### [Valladolid.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Valladolid.Province.protect.md) 
 
-### [Valladolid.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_LeónValladolid.Province.personal.md) 
+### [Valladolid.Province.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Valladolid.Province.private.md) 
 
-### [Valladolid.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_LeónValladolid.Province.secret.md)
+### [Valladolid.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Valladolid.Province.personal.md) 
+
+### [Valladolid.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Valladolid.Province.secret.md)
 

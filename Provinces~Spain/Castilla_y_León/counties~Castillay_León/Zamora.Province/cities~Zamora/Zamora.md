@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zamora.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Zamora.Province\cities~ZamoraZamora.public.md) 
+### [Zamora](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Zamora.Province/cities~Zamora/Zamora.md) 
 
-### [Zamora.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Zamora.Province\cities~ZamoraZamora.internal.md) 
+### [Zamora.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Zamora.Province/cities~Zamora/Zamora.public.md) 
 
-### [Zamora.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Zamora.Province\cities~ZamoraZamora.protect.md) 
+### [Zamora.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Zamora.Province/cities~Zamora/Zamora.internal.md) 
 
-### [Zamora.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Zamora.Province\cities~ZamoraZamora.private.md) 
+### [Zamora.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Zamora.Province/cities~Zamora/Zamora.protect.md) 
 
-### [Zamora.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Zamora.Province\cities~ZamoraZamora.personal.md) 
+### [Zamora.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Zamora.Province/cities~Zamora/Zamora.private.md) 
 
-### [Zamora.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Zamora.Province\cities~ZamoraZamora.secret.md)
+### [Zamora.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Zamora.Province/cities~Zamora/Zamora.personal.md) 
+
+### [Zamora.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Zamora.Province/cities~Zamora/Zamora.secret.md)
 

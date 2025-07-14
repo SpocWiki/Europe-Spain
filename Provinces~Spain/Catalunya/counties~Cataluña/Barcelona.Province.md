@@ -41,15 +41,17 @@ markerFolder: ./Barcelona.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Barcelona.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaBarcelona.Province.public.md) 
+### [Barcelona.Province](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province.md) 
 
-### [Barcelona.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaBarcelona.Province.internal.md) 
+### [Barcelona.Province.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province.public.md) 
 
-### [Barcelona.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaBarcelona.Province.protect.md) 
+### [Barcelona.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province.internal.md) 
 
-### [Barcelona.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaBarcelona.Province.private.md) 
+### [Barcelona.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province.protect.md) 
 
-### [Barcelona.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaBarcelona.Province.personal.md) 
+### [Barcelona.Province.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province.private.md) 
 
-### [Barcelona.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaBarcelona.Province.secret.md)
+### [Barcelona.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province.personal.md) 
+
+### [Barcelona.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province.secret.md)
 

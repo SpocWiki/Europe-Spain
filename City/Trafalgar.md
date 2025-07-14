@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Trafalgar.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\CityTrafalgar.public.md) 
+### [Trafalgar](/_Standards/Earth/Continent/Europe/Europe~South/Spain/City/Trafalgar.md) 
 
-### [Trafalgar.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\CityTrafalgar.internal.md) 
+### [Trafalgar.public](/_public/Earth/Continent/Europe/Europe~South/Spain/City/Trafalgar.public.md) 
 
-### [Trafalgar.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\CityTrafalgar.protect.md) 
+### [Trafalgar.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/City/Trafalgar.internal.md) 
 
-### [Trafalgar.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\CityTrafalgar.private.md) 
+### [Trafalgar.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/City/Trafalgar.protect.md) 
 
-### [Trafalgar.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\CityTrafalgar.personal.md) 
+### [Trafalgar.private](/_private/Earth/Continent/Europe/Europe~South/Spain/City/Trafalgar.private.md) 
 
-### [Trafalgar.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\CityTrafalgar.secret.md)
+### [Trafalgar.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/City/Trafalgar.personal.md) 
+
+### [Trafalgar.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/City/Trafalgar.secret.md)
 

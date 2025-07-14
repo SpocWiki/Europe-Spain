@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pasajes.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Gipuzkoa\CityPasajes.public.md) 
+### [Pasajes](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Gipuzkoa/City/Pasajes.md) 
 
-### [Pasajes.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Gipuzkoa\CityPasajes.internal.md) 
+### [Pasajes.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Gipuzkoa/City/Pasajes.public.md) 
 
-### [Pasajes.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Gipuzkoa\CityPasajes.protect.md) 
+### [Pasajes.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Gipuzkoa/City/Pasajes.internal.md) 
 
-### [Pasajes.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Gipuzkoa\CityPasajes.private.md) 
+### [Pasajes.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Gipuzkoa/City/Pasajes.protect.md) 
 
-### [Pasajes.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Gipuzkoa\CityPasajes.personal.md) 
+### [Pasajes.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Gipuzkoa/City/Pasajes.private.md) 
 
-### [Pasajes.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Gipuzkoa\CityPasajes.secret.md)
+### [Pasajes.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Gipuzkoa/City/Pasajes.personal.md) 
+
+### [Pasajes.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Gipuzkoa/City/Pasajes.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Málaga.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Málaga.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaMálaga.Province.public.md) 
+### [Málaga.Province](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Málaga.Province.md) 
 
-### [Málaga.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaMálaga.Province.internal.md) 
+### [Málaga.Province.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Málaga.Province.public.md) 
 
-### [Málaga.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaMálaga.Province.protect.md) 
+### [Málaga.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Málaga.Province.internal.md) 
 
-### [Málaga.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaMálaga.Province.private.md) 
+### [Málaga.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Málaga.Province.protect.md) 
 
-### [Málaga.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaMálaga.Province.personal.md) 
+### [Málaga.Province.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Málaga.Province.private.md) 
 
-### [Málaga.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaMálaga.Province.secret.md)
+### [Málaga.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Málaga.Province.personal.md) 
+
+### [Málaga.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Málaga.Province.secret.md)
 

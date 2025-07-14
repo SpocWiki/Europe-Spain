@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Parga.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\Lugo\CityParga.public.md) 
+### [Parga](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Lugo/City/Parga.md) 
 
-### [Parga.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\Lugo\CityParga.internal.md) 
+### [Parga.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Lugo/City/Parga.public.md) 
 
-### [Parga.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\Lugo\CityParga.protect.md) 
+### [Parga.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Lugo/City/Parga.internal.md) 
 
-### [Parga.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\Lugo\CityParga.private.md) 
+### [Parga.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Lugo/City/Parga.protect.md) 
 
-### [Parga.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\Lugo\CityParga.personal.md) 
+### [Parga.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Lugo/City/Parga.private.md) 
 
-### [Parga.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\Lugo\CityParga.secret.md)
+### [Parga.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Lugo/City/Parga.personal.md) 
+
+### [Parga.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Lugo/City/Parga.secret.md)
 

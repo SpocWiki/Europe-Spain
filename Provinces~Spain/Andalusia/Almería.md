@@ -41,15 +41,17 @@ markerFolder: ./Almería/
 
 ## Confidential Links & Embeds: 
 
-### [Almería.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaAlmería.public.md) 
+### [Almería](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Almería.md) 
 
-### [Almería.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaAlmería.internal.md) 
+### [Almería.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Almería.public.md) 
 
-### [Almería.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaAlmería.protect.md) 
+### [Almería.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Almería.internal.md) 
 
-### [Almería.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaAlmería.private.md) 
+### [Almería.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Almería.protect.md) 
 
-### [Almería.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaAlmería.personal.md) 
+### [Almería.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Almería.private.md) 
 
-### [Almería.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaAlmería.secret.md)
+### [Almería.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Almería.personal.md) 
+
+### [Almería.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Almería.secret.md)
 

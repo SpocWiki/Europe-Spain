@@ -38,15 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sevilla.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Sevilla.Province\CitySevilla.public.md) 
+### [Sevilla](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Sevilla.Province/City/Sevilla.md) 
 
-### [Sevilla.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Sevilla.Province\CitySevilla.internal.md) 
+### [Sevilla.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Sevilla.Province/City/Sevilla.public.md) 
 
-### [Sevilla.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Sevilla.Province\CitySevilla.protect.md) 
+### [Sevilla.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Sevilla.Province/City/Sevilla.internal.md) 
 
-### [Sevilla.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Sevilla.Province\CitySevilla.private.md) 
+### [Sevilla.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Sevilla.Province/City/Sevilla.protect.md) 
 
-### [Sevilla.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Sevilla.Province\CitySevilla.personal.md) 
+### [Sevilla.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Sevilla.Province/City/Sevilla.private.md) 
 
-### [Sevilla.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Sevilla.Province\CitySevilla.secret.md)
+### [Sevilla.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Sevilla.Province/City/Sevilla.personal.md) 
+
+### [Sevilla.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Sevilla.Province/City/Sevilla.secret.md)
 

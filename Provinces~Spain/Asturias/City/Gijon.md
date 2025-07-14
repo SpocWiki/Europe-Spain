@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gijon.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Asturias\CityGijon.public.md) 
+### [Gijon](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Gijon.md) 
 
-### [Gijon.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Asturias\CityGijon.internal.md) 
+### [Gijon.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Gijon.public.md) 
 
-### [Gijon.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Asturias\CityGijon.protect.md) 
+### [Gijon.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Gijon.internal.md) 
 
-### [Gijon.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Asturias\CityGijon.private.md) 
+### [Gijon.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Gijon.protect.md) 
 
-### [Gijon.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Asturias\CityGijon.personal.md) 
+### [Gijon.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Gijon.private.md) 
 
-### [Gijon.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Asturias\CityGijon.secret.md)
+### [Gijon.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Gijon.personal.md) 
+
+### [Gijon.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Gijon.secret.md)
 

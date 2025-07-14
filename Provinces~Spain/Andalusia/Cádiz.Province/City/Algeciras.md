@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Algeciras.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CityAlgeciras.public.md) 
+### [Algeciras](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/Algeciras.md) 
 
-### [Algeciras.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CityAlgeciras.internal.md) 
+### [Algeciras.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/Algeciras.public.md) 
 
-### [Algeciras.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CityAlgeciras.protect.md) 
+### [Algeciras.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/Algeciras.internal.md) 
 
-### [Algeciras.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CityAlgeciras.private.md) 
+### [Algeciras.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/Algeciras.protect.md) 
 
-### [Algeciras.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CityAlgeciras.personal.md) 
+### [Algeciras.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/Algeciras.private.md) 
 
-### [Algeciras.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CityAlgeciras.secret.md)
+### [Algeciras.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/Algeciras.personal.md) 
+
+### [Algeciras.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/Algeciras.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [San_Fernando.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CitySan_Fernando.public.md) 
+### [San_Fernando](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/San_Fernando.md) 
 
-### [San_Fernando.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CitySan_Fernando.internal.md) 
+### [San_Fernando.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/San_Fernando.public.md) 
 
-### [San_Fernando.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CitySan_Fernando.protect.md) 
+### [San_Fernando.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/San_Fernando.internal.md) 
 
-### [San_Fernando.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CitySan_Fernando.private.md) 
+### [San_Fernando.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/San_Fernando.protect.md) 
 
-### [San_Fernando.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CitySan_Fernando.personal.md) 
+### [San_Fernando.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/San_Fernando.private.md) 
 
-### [San_Fernando.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CitySan_Fernando.secret.md)
+### [San_Fernando.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/San_Fernando.personal.md) 
+
+### [San_Fernando.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/San_Fernando.secret.md)
 

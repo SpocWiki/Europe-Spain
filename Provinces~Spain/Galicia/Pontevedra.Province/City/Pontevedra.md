@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pontevedra.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\Pontevedra.Province\CityPontevedra.public.md) 
+### [Pontevedra](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Pontevedra.md) 
 
-### [Pontevedra.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\Pontevedra.Province\CityPontevedra.internal.md) 
+### [Pontevedra.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Pontevedra.public.md) 
 
-### [Pontevedra.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\Pontevedra.Province\CityPontevedra.protect.md) 
+### [Pontevedra.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Pontevedra.internal.md) 
 
-### [Pontevedra.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\Pontevedra.Province\CityPontevedra.private.md) 
+### [Pontevedra.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Pontevedra.protect.md) 
 
-### [Pontevedra.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\Pontevedra.Province\CityPontevedra.personal.md) 
+### [Pontevedra.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Pontevedra.private.md) 
 
-### [Pontevedra.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\Pontevedra.Province\CityPontevedra.secret.md)
+### [Pontevedra.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Pontevedra.personal.md) 
+
+### [Pontevedra.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Pontevedra.secret.md)
 

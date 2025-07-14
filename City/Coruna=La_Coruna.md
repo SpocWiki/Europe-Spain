@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Coruna=La_Coruna.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\CityCoruna=La_Coruna.public.md) 
+### [Coruna=La_Coruna](/_Standards/Earth/Continent/Europe/Europe~South/Spain/City/Coruna=La_Coruna.md) 
 
-### [Coruna=La_Coruna.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\CityCoruna=La_Coruna.internal.md) 
+### [Coruna=La_Coruna.public](/_public/Earth/Continent/Europe/Europe~South/Spain/City/Coruna=La_Coruna.public.md) 
 
-### [Coruna=La_Coruna.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\CityCoruna=La_Coruna.protect.md) 
+### [Coruna=La_Coruna.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/City/Coruna=La_Coruna.internal.md) 
 
-### [Coruna=La_Coruna.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\CityCoruna=La_Coruna.private.md) 
+### [Coruna=La_Coruna.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/City/Coruna=La_Coruna.protect.md) 
 
-### [Coruna=La_Coruna.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\CityCoruna=La_Coruna.personal.md) 
+### [Coruna=La_Coruna.private](/_private/Earth/Continent/Europe/Europe~South/Spain/City/Coruna=La_Coruna.private.md) 
 
-### [Coruna=La_Coruna.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\CityCoruna=La_Coruna.secret.md)
+### [Coruna=La_Coruna.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/City/Coruna=La_Coruna.personal.md) 
+
+### [Coruna=La_Coruna.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/City/Coruna=La_Coruna.secret.md)
 

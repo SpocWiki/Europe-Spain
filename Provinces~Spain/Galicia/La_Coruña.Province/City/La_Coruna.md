@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [La_Coruna.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\La_Coruña.Province\CityLa_Coruna.public.md) 
+### [La_Coruna](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/La_Coruna.md) 
 
-### [La_Coruna.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\La_Coruña.Province\CityLa_Coruna.internal.md) 
+### [La_Coruna.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/La_Coruna.public.md) 
 
-### [La_Coruna.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\La_Coruña.Province\CityLa_Coruna.protect.md) 
+### [La_Coruna.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/La_Coruna.internal.md) 
 
-### [La_Coruna.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\La_Coruña.Province\CityLa_Coruna.private.md) 
+### [La_Coruna.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/La_Coruna.protect.md) 
 
-### [La_Coruna.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\La_Coruña.Province\CityLa_Coruna.personal.md) 
+### [La_Coruna.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/La_Coruna.private.md) 
 
-### [La_Coruna.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\La_Coruña.Province\CityLa_Coruna.secret.md)
+### [La_Coruna.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/La_Coruna.personal.md) 
+
+### [La_Coruna.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/La_Coruna.secret.md)
 

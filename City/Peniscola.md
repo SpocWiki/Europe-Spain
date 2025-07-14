@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Peniscola.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\CityPeniscola.public.md) 
+### [Peniscola](/_Standards/Earth/Continent/Europe/Europe~South/Spain/City/Peniscola.md) 
 
-### [Peniscola.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\CityPeniscola.internal.md) 
+### [Peniscola.public](/_public/Earth/Continent/Europe/Europe~South/Spain/City/Peniscola.public.md) 
 
-### [Peniscola.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\CityPeniscola.protect.md) 
+### [Peniscola.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/City/Peniscola.internal.md) 
 
-### [Peniscola.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\CityPeniscola.private.md) 
+### [Peniscola.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/City/Peniscola.protect.md) 
 
-### [Peniscola.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\CityPeniscola.personal.md) 
+### [Peniscola.private](/_private/Earth/Continent/Europe/Europe~South/Spain/City/Peniscola.private.md) 
 
-### [Peniscola.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\CityPeniscola.secret.md)
+### [Peniscola.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/City/Peniscola.personal.md) 
+
+### [Peniscola.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/City/Peniscola.secret.md)
 

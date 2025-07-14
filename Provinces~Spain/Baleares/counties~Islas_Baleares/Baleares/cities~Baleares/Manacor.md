@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Manacor.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Baleares\counties~Islas_Baleares\Baleares\cities~BalearesManacor.public.md) 
+### [Manacor](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Manacor.md) 
 
-### [Manacor.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Baleares\counties~Islas_Baleares\Baleares\cities~BalearesManacor.internal.md) 
+### [Manacor.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Manacor.public.md) 
 
-### [Manacor.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Baleares\counties~Islas_Baleares\Baleares\cities~BalearesManacor.protect.md) 
+### [Manacor.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Manacor.internal.md) 
 
-### [Manacor.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Baleares\counties~Islas_Baleares\Baleares\cities~BalearesManacor.private.md) 
+### [Manacor.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Manacor.protect.md) 
 
-### [Manacor.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Baleares\counties~Islas_Baleares\Baleares\cities~BalearesManacor.personal.md) 
+### [Manacor.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Manacor.private.md) 
 
-### [Manacor.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Baleares\counties~Islas_Baleares\Baleares\cities~BalearesManacor.secret.md)
+### [Manacor.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Manacor.personal.md) 
+
+### [Manacor.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Manacor.secret.md)
 

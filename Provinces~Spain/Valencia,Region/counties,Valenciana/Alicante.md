@@ -41,15 +41,17 @@ markerFolder: ./Alicante/
 
 ## Confidential Links & Embeds: 
 
-### [Alicante.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,ValencianaAlicante.public.md) 
+### [Alicante](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Alicante.md) 
 
-### [Alicante.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,ValencianaAlicante.internal.md) 
+### [Alicante.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Alicante.public.md) 
 
-### [Alicante.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,ValencianaAlicante.protect.md) 
+### [Alicante.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Alicante.internal.md) 
 
-### [Alicante.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,ValencianaAlicante.private.md) 
+### [Alicante.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Alicante.protect.md) 
 
-### [Alicante.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,ValencianaAlicante.personal.md) 
+### [Alicante.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Alicante.private.md) 
 
-### [Alicante.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,ValencianaAlicante.secret.md)
+### [Alicante.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Alicante.personal.md) 
+
+### [Alicante.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Alicante.secret.md)
 

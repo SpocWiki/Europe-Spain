@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Palamos.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Gerona.Province\cities~GironaPalamos.public.md) 
+### [Palamos](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Palamos.md) 
 
-### [Palamos.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Gerona.Province\cities~GironaPalamos.internal.md) 
+### [Palamos.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Palamos.public.md) 
 
-### [Palamos.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Gerona.Province\cities~GironaPalamos.protect.md) 
+### [Palamos.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Palamos.internal.md) 
 
-### [Palamos.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Gerona.Province\cities~GironaPalamos.private.md) 
+### [Palamos.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Palamos.protect.md) 
 
-### [Palamos.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Gerona.Province\cities~GironaPalamos.personal.md) 
+### [Palamos.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Palamos.private.md) 
 
-### [Palamos.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Gerona.Province\cities~GironaPalamos.secret.md)
+### [Palamos.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Palamos.personal.md) 
+
+### [Palamos.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Palamos.secret.md)
 

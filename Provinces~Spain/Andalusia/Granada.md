@@ -41,15 +41,17 @@ markerFolder: ./Granada/
 
 ## Confidential Links & Embeds: 
 
-### [Granada.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaGranada.public.md) 
+### [Granada](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Granada.md) 
 
-### [Granada.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaGranada.internal.md) 
+### [Granada.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Granada.public.md) 
 
-### [Granada.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaGranada.protect.md) 
+### [Granada.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Granada.internal.md) 
 
-### [Granada.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaGranada.private.md) 
+### [Granada.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Granada.protect.md) 
 
-### [Granada.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaGranada.personal.md) 
+### [Granada.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Granada.private.md) 
 
-### [Granada.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaGranada.secret.md)
+### [Granada.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Granada.personal.md) 
+
+### [Granada.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Granada.secret.md)
 

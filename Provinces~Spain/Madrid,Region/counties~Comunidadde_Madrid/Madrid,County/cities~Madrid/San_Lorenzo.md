@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [San_Lorenzo.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridSan_Lorenzo.public.md) 
+### [San_Lorenzo](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/San_Lorenzo.md) 
 
-### [San_Lorenzo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridSan_Lorenzo.internal.md) 
+### [San_Lorenzo.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/San_Lorenzo.public.md) 
 
-### [San_Lorenzo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridSan_Lorenzo.protect.md) 
+### [San_Lorenzo.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/San_Lorenzo.internal.md) 
 
-### [San_Lorenzo.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridSan_Lorenzo.private.md) 
+### [San_Lorenzo.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/San_Lorenzo.protect.md) 
 
-### [San_Lorenzo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridSan_Lorenzo.personal.md) 
+### [San_Lorenzo.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/San_Lorenzo.private.md) 
 
-### [San_Lorenzo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridSan_Lorenzo.secret.md)
+### [San_Lorenzo.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/San_Lorenzo.personal.md) 
+
+### [San_Lorenzo.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/San_Lorenzo.secret.md)
 

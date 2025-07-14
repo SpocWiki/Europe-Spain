@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tarifa.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CityTarifa.public.md) 
+### [Tarifa](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/Tarifa.md) 
 
-### [Tarifa.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CityTarifa.internal.md) 
+### [Tarifa.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/Tarifa.public.md) 
 
-### [Tarifa.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CityTarifa.protect.md) 
+### [Tarifa.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/Tarifa.internal.md) 
 
-### [Tarifa.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CityTarifa.private.md) 
+### [Tarifa.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/Tarifa.protect.md) 
 
-### [Tarifa.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CityTarifa.personal.md) 
+### [Tarifa.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/Tarifa.private.md) 
 
-### [Tarifa.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CityTarifa.secret.md)
+### [Tarifa.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/Tarifa.personal.md) 
+
+### [Tarifa.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/Tarifa.secret.md)
 

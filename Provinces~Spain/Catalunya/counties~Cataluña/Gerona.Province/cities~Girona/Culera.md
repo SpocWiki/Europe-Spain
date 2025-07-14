@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Culera.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Gerona.Province\cities~GironaCulera.public.md) 
+### [Culera](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Culera.md) 
 
-### [Culera.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Gerona.Province\cities~GironaCulera.internal.md) 
+### [Culera.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Culera.public.md) 
 
-### [Culera.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Gerona.Province\cities~GironaCulera.protect.md) 
+### [Culera.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Culera.internal.md) 
 
-### [Culera.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Gerona.Province\cities~GironaCulera.private.md) 
+### [Culera.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Culera.protect.md) 
 
-### [Culera.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Gerona.Province\cities~GironaCulera.personal.md) 
+### [Culera.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Culera.private.md) 
 
-### [Culera.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Gerona.Province\cities~GironaCulera.secret.md)
+### [Culera.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Culera.personal.md) 
+
+### [Culera.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Culera.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Villanueva_d._I._S..public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Extremadura\Badajoz.Province\CityVillanueva_d._I._S..public.md) 
+### [Villanueva_d._I._S.](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Badajoz.Province/City/Villanueva_d._I._S..md) 
 
-### [Villanueva_d._I._S..internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Extremadura\Badajoz.Province\CityVillanueva_d._I._S..internal.md) 
+### [Villanueva_d._I._S..public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Badajoz.Province/City/Villanueva_d._I._S..public.md) 
 
-### [Villanueva_d._I._S..protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Extremadura\Badajoz.Province\CityVillanueva_d._I._S..protect.md) 
+### [Villanueva_d._I._S..internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Badajoz.Province/City/Villanueva_d._I._S..internal.md) 
 
-### [Villanueva_d._I._S..private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Extremadura\Badajoz.Province\CityVillanueva_d._I._S..private.md) 
+### [Villanueva_d._I._S..protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Badajoz.Province/City/Villanueva_d._I._S..protect.md) 
 
-### [Villanueva_d._I._S..personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Extremadura\Badajoz.Province\CityVillanueva_d._I._S..personal.md) 
+### [Villanueva_d._I._S..private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Badajoz.Province/City/Villanueva_d._I._S..private.md) 
 
-### [Villanueva_d._I._S..secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Extremadura\Badajoz.Province\CityVillanueva_d._I._S..secret.md)
+### [Villanueva_d._I._S..personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Badajoz.Province/City/Villanueva_d._I._S..personal.md) 
+
+### [Villanueva_d._I._S..secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Badajoz.Province/City/Villanueva_d._I._S..secret.md)
 

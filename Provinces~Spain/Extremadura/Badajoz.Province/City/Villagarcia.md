@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Villagarcia.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Extremadura\Badajoz.Province\CityVillagarcia.public.md) 
+### [Villagarcia](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Badajoz.Province/City/Villagarcia.md) 
 
-### [Villagarcia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Extremadura\Badajoz.Province\CityVillagarcia.internal.md) 
+### [Villagarcia.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Badajoz.Province/City/Villagarcia.public.md) 
 
-### [Villagarcia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Extremadura\Badajoz.Province\CityVillagarcia.protect.md) 
+### [Villagarcia.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Badajoz.Province/City/Villagarcia.internal.md) 
 
-### [Villagarcia.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Extremadura\Badajoz.Province\CityVillagarcia.private.md) 
+### [Villagarcia.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Badajoz.Province/City/Villagarcia.protect.md) 
 
-### [Villagarcia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Extremadura\Badajoz.Province\CityVillagarcia.personal.md) 
+### [Villagarcia.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Badajoz.Province/City/Villagarcia.private.md) 
 
-### [Villagarcia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Extremadura\Badajoz.Province\CityVillagarcia.secret.md)
+### [Villagarcia.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Badajoz.Province/City/Villagarcia.personal.md) 
+
+### [Villagarcia.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Badajoz.Province/City/Villagarcia.secret.md)
 

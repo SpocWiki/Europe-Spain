@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mejorada.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Toledo.Province\CityMejorada.public.md) 
+### [Mejorada](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Toledo.Province/City/Mejorada.md) 
 
-### [Mejorada.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Toledo.Province\CityMejorada.internal.md) 
+### [Mejorada.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Toledo.Province/City/Mejorada.public.md) 
 
-### [Mejorada.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Toledo.Province\CityMejorada.protect.md) 
+### [Mejorada.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Toledo.Province/City/Mejorada.internal.md) 
 
-### [Mejorada.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Toledo.Province\CityMejorada.private.md) 
+### [Mejorada.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Toledo.Province/City/Mejorada.protect.md) 
 
-### [Mejorada.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Toledo.Province\CityMejorada.personal.md) 
+### [Mejorada.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Toledo.Province/City/Mejorada.private.md) 
 
-### [Mejorada.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Toledo.Province\CityMejorada.secret.md)
+### [Mejorada.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Toledo.Province/City/Mejorada.personal.md) 
+
+### [Mejorada.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Toledo.Province/City/Mejorada.secret.md)
 

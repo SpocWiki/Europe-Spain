@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Castrillo.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\León\CityCastrillo.public.md) 
+### [Castrillo](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/León/City/Castrillo.md) 
 
-### [Castrillo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\León\CityCastrillo.internal.md) 
+### [Castrillo.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/León/City/Castrillo.public.md) 
 
-### [Castrillo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\León\CityCastrillo.protect.md) 
+### [Castrillo.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/León/City/Castrillo.internal.md) 
 
-### [Castrillo.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\León\CityCastrillo.private.md) 
+### [Castrillo.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/León/City/Castrillo.protect.md) 
 
-### [Castrillo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\León\CityCastrillo.personal.md) 
+### [Castrillo.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/León/City/Castrillo.private.md) 
 
-### [Castrillo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\León\CityCastrillo.secret.md)
+### [Castrillo.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/León/City/Castrillo.personal.md) 
+
+### [Castrillo.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/León/City/Castrillo.secret.md)
 

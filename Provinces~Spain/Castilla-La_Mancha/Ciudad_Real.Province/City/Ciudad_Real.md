@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ciudad_Real.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Ciudad_Real.Province\CityCiudad_Real.public.md) 
+### [Ciudad_Real](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Ciudad_Real.md) 
 
-### [Ciudad_Real.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Ciudad_Real.Province\CityCiudad_Real.internal.md) 
+### [Ciudad_Real.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Ciudad_Real.public.md) 
 
-### [Ciudad_Real.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Ciudad_Real.Province\CityCiudad_Real.protect.md) 
+### [Ciudad_Real.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Ciudad_Real.internal.md) 
 
-### [Ciudad_Real.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Ciudad_Real.Province\CityCiudad_Real.private.md) 
+### [Ciudad_Real.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Ciudad_Real.protect.md) 
 
-### [Ciudad_Real.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Ciudad_Real.Province\CityCiudad_Real.personal.md) 
+### [Ciudad_Real.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Ciudad_Real.private.md) 
 
-### [Ciudad_Real.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Ciudad_Real.Province\CityCiudad_Real.secret.md)
+### [Ciudad_Real.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Ciudad_Real.personal.md) 
+
+### [Ciudad_Real.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Ciudad_Real.secret.md)
 

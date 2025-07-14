@@ -15,19 +15,19 @@ markerFolder: ./Andalusia/
 ```
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Andalusia.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainAndalusia.public.md) 
+### [Andalusia](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia.md) 
 
-### [Andalusia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainAndalusia.internal.md) 
+### [Andalusia.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia.public.md) 
 
-### [Andalusia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainAndalusia.protect.md) 
+### [Andalusia.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia.internal.md) 
 
-### [Andalusia.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainAndalusia.private.md) 
+### [Andalusia.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia.protect.md) 
 
-### [Andalusia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainAndalusia.personal.md) 
+### [Andalusia.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia.private.md) 
 
-### [Andalusia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainAndalusia.secret.md)
+### [Andalusia.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia.personal.md) 
+
+### [Andalusia.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia.secret.md)
 

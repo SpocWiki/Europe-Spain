@@ -41,15 +41,17 @@ markerFolder: ./Albacete.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Albacete.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaAlbacete.Province.public.md) 
+### [Albacete.Province](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Albacete.Province.md) 
 
-### [Albacete.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaAlbacete.Province.internal.md) 
+### [Albacete.Province.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Albacete.Province.public.md) 
 
-### [Albacete.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaAlbacete.Province.protect.md) 
+### [Albacete.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Albacete.Province.internal.md) 
 
-### [Albacete.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaAlbacete.Province.private.md) 
+### [Albacete.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Albacete.Province.protect.md) 
 
-### [Albacete.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaAlbacete.Province.personal.md) 
+### [Albacete.Province.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Albacete.Province.private.md) 
 
-### [Albacete.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaAlbacete.Province.secret.md)
+### [Albacete.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Albacete.Province.personal.md) 
+
+### [Albacete.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Albacete.Province.secret.md)
 

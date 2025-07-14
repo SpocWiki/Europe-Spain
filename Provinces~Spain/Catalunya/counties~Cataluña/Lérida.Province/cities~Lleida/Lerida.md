@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lerida.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Lérida.Province\cities~LleidaLerida.public.md) 
+### [Lerida](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Lérida.Province/cities~Lleida/Lerida.md) 
 
-### [Lerida.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Lérida.Province\cities~LleidaLerida.internal.md) 
+### [Lerida.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Lérida.Province/cities~Lleida/Lerida.public.md) 
 
-### [Lerida.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Lérida.Province\cities~LleidaLerida.protect.md) 
+### [Lerida.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Lérida.Province/cities~Lleida/Lerida.internal.md) 
 
-### [Lerida.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Lérida.Province\cities~LleidaLerida.private.md) 
+### [Lerida.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Lérida.Province/cities~Lleida/Lerida.protect.md) 
 
-### [Lerida.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Lérida.Province\cities~LleidaLerida.personal.md) 
+### [Lerida.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Lérida.Province/cities~Lleida/Lerida.private.md) 
 
-### [Lerida.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Lérida.Province\cities~LleidaLerida.secret.md)
+### [Lerida.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Lérida.Province/cities~Lleida/Lerida.personal.md) 
+
+### [Lerida.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Lérida.Province/cities~Lleida/Lerida.secret.md)
 

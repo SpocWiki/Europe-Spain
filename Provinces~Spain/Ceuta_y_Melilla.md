@@ -10,15 +10,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Ceuta_y_Melilla.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainCeuta_y_Melilla.public.md) 
+### [Ceuta_y_Melilla](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Ceuta_y_Melilla.md) 
 
-### [Ceuta_y_Melilla.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainCeuta_y_Melilla.internal.md) 
+### [Ceuta_y_Melilla.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Ceuta_y_Melilla.public.md) 
 
-### [Ceuta_y_Melilla.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainCeuta_y_Melilla.protect.md) 
+### [Ceuta_y_Melilla.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Ceuta_y_Melilla.internal.md) 
 
-### [Ceuta_y_Melilla.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainCeuta_y_Melilla.private.md) 
+### [Ceuta_y_Melilla.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Ceuta_y_Melilla.protect.md) 
 
-### [Ceuta_y_Melilla.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainCeuta_y_Melilla.personal.md) 
+### [Ceuta_y_Melilla.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Ceuta_y_Melilla.private.md) 
 
-### [Ceuta_y_Melilla.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainCeuta_y_Melilla.secret.md)
+### [Ceuta_y_Melilla.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Ceuta_y_Melilla.personal.md) 
+
+### [Ceuta_y_Melilla.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Ceuta_y_Melilla.secret.md)
 

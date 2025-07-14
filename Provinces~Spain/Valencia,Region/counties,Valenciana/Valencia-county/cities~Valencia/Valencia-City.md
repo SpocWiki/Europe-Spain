@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Valencia-City.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,Valenciana\Valencia-county\cities~ValenciaValencia-City.public.md) 
+### [Valencia-City](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Valencia-county/cities~Valencia/Valencia-City.md) 
 
-### [Valencia-City.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,Valenciana\Valencia-county\cities~ValenciaValencia-City.internal.md) 
+### [Valencia-City.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Valencia-county/cities~Valencia/Valencia-City.public.md) 
 
-### [Valencia-City.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,Valenciana\Valencia-county\cities~ValenciaValencia-City.protect.md) 
+### [Valencia-City.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Valencia-county/cities~Valencia/Valencia-City.internal.md) 
 
-### [Valencia-City.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,Valenciana\Valencia-county\cities~ValenciaValencia-City.private.md) 
+### [Valencia-City.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Valencia-county/cities~Valencia/Valencia-City.protect.md) 
 
-### [Valencia-City.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,Valenciana\Valencia-county\cities~ValenciaValencia-City.personal.md) 
+### [Valencia-City.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Valencia-county/cities~Valencia/Valencia-City.private.md) 
 
-### [Valencia-City.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,Valenciana\Valencia-county\cities~ValenciaValencia-City.secret.md)
+### [Valencia-City.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Valencia-county/cities~Valencia/Valencia-City.personal.md) 
+
+### [Valencia-City.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Valencia-county/cities~Valencia/Valencia-City.secret.md)
 

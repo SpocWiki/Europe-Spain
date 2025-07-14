@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jerez_de_la_Frontera.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CityJerez_de_la_Frontera.public.md) 
+### [Jerez_de_la_Frontera](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/Jerez_de_la_Frontera.md) 
 
-### [Jerez_de_la_Frontera.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CityJerez_de_la_Frontera.internal.md) 
+### [Jerez_de_la_Frontera.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/Jerez_de_la_Frontera.public.md) 
 
-### [Jerez_de_la_Frontera.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CityJerez_de_la_Frontera.protect.md) 
+### [Jerez_de_la_Frontera.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/Jerez_de_la_Frontera.internal.md) 
 
-### [Jerez_de_la_Frontera.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CityJerez_de_la_Frontera.private.md) 
+### [Jerez_de_la_Frontera.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/Jerez_de_la_Frontera.protect.md) 
 
-### [Jerez_de_la_Frontera.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CityJerez_de_la_Frontera.personal.md) 
+### [Jerez_de_la_Frontera.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/Jerez_de_la_Frontera.private.md) 
 
-### [Jerez_de_la_Frontera.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CityJerez_de_la_Frontera.secret.md)
+### [Jerez_de_la_Frontera.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/Jerez_de_la_Frontera.personal.md) 
+
+### [Jerez_de_la_Frontera.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/Jerez_de_la_Frontera.secret.md)
 

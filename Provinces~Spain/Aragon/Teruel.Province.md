@@ -41,15 +41,17 @@ markerFolder: ./Teruel.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Teruel.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AragonTeruel.Province.public.md) 
+### [Teruel.Province](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Teruel.Province.md) 
 
-### [Teruel.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AragonTeruel.Province.internal.md) 
+### [Teruel.Province.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Teruel.Province.public.md) 
 
-### [Teruel.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AragonTeruel.Province.protect.md) 
+### [Teruel.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Teruel.Province.internal.md) 
 
-### [Teruel.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AragonTeruel.Province.private.md) 
+### [Teruel.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Teruel.Province.protect.md) 
 
-### [Teruel.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AragonTeruel.Province.personal.md) 
+### [Teruel.Province.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Teruel.Province.private.md) 
 
-### [Teruel.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AragonTeruel.Province.secret.md)
+### [Teruel.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Teruel.Province.personal.md) 
+
+### [Teruel.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Teruel.Province.secret.md)
 

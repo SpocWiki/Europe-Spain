@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Portugalete.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Bizkaia\cities~VizcayaPortugalete.public.md) 
+### [Portugalete](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Portugalete.md) 
 
-### [Portugalete.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Bizkaia\cities~VizcayaPortugalete.internal.md) 
+### [Portugalete.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Portugalete.public.md) 
 
-### [Portugalete.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Bizkaia\cities~VizcayaPortugalete.protect.md) 
+### [Portugalete.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Portugalete.internal.md) 
 
-### [Portugalete.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Bizkaia\cities~VizcayaPortugalete.private.md) 
+### [Portugalete.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Portugalete.protect.md) 
 
-### [Portugalete.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Bizkaia\cities~VizcayaPortugalete.personal.md) 
+### [Portugalete.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Portugalete.private.md) 
 
-### [Portugalete.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Bizkaia\cities~VizcayaPortugalete.secret.md)
+### [Portugalete.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Portugalete.personal.md) 
+
+### [Portugalete.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Portugalete.secret.md)
 

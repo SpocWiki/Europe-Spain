@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Avila.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Ávila.Province\cities~ÁvilaAvila.public.md) 
+### [Avila](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Ávila.Province/cities~Ávila/Avila.md) 
 
-### [Avila.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Ávila.Province\cities~ÁvilaAvila.internal.md) 
+### [Avila.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Ávila.Province/cities~Ávila/Avila.public.md) 
 
-### [Avila.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Ávila.Province\cities~ÁvilaAvila.protect.md) 
+### [Avila.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Ávila.Province/cities~Ávila/Avila.internal.md) 
 
-### [Avila.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Ávila.Province\cities~ÁvilaAvila.private.md) 
+### [Avila.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Ávila.Province/cities~Ávila/Avila.protect.md) 
 
-### [Avila.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Ávila.Province\cities~ÁvilaAvila.personal.md) 
+### [Avila.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Ávila.Province/cities~Ávila/Avila.private.md) 
 
-### [Avila.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Ávila.Province\cities~ÁvilaAvila.secret.md)
+### [Avila.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Ávila.Province/cities~Ávila/Avila.personal.md) 
+
+### [Avila.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Ávila.Province/cities~Ávila/Avila.secret.md)
 

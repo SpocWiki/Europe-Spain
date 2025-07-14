@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Valdepenas.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Ciudad_Real.Province\CityValdepenas.public.md) 
+### [Valdepenas](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Valdepenas.md) 
 
-### [Valdepenas.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Ciudad_Real.Province\CityValdepenas.internal.md) 
+### [Valdepenas.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Valdepenas.public.md) 
 
-### [Valdepenas.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Ciudad_Real.Province\CityValdepenas.protect.md) 
+### [Valdepenas.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Valdepenas.internal.md) 
 
-### [Valdepenas.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Ciudad_Real.Province\CityValdepenas.private.md) 
+### [Valdepenas.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Valdepenas.protect.md) 
 
-### [Valdepenas.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Ciudad_Real.Province\CityValdepenas.personal.md) 
+### [Valdepenas.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Valdepenas.private.md) 
 
-### [Valdepenas.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Ciudad_Real.Province\CityValdepenas.secret.md)
+### [Valdepenas.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Valdepenas.personal.md) 
+
+### [Valdepenas.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Valdepenas.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oviedo.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Asturias\CityOviedo.public.md) 
+### [Oviedo](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Oviedo.md) 
 
-### [Oviedo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Asturias\CityOviedo.internal.md) 
+### [Oviedo.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Oviedo.public.md) 
 
-### [Oviedo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Asturias\CityOviedo.protect.md) 
+### [Oviedo.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Oviedo.internal.md) 
 
-### [Oviedo.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Asturias\CityOviedo.private.md) 
+### [Oviedo.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Oviedo.protect.md) 
 
-### [Oviedo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Asturias\CityOviedo.personal.md) 
+### [Oviedo.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Oviedo.private.md) 
 
-### [Oviedo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Asturias\CityOviedo.secret.md)
+### [Oviedo.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Oviedo.personal.md) 
+
+### [Oviedo.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Oviedo.secret.md)
 

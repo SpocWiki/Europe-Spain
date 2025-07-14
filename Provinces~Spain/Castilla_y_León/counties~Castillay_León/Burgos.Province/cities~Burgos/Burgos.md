@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Burgos.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Burgos.Province\cities~BurgosBurgos.public.md) 
+### [Burgos](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Burgos.Province/cities~Burgos/Burgos.md) 
 
-### [Burgos.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Burgos.Province\cities~BurgosBurgos.internal.md) 
+### [Burgos.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Burgos.Province/cities~Burgos/Burgos.public.md) 
 
-### [Burgos.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Burgos.Province\cities~BurgosBurgos.protect.md) 
+### [Burgos.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Burgos.Province/cities~Burgos/Burgos.internal.md) 
 
-### [Burgos.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Burgos.Province\cities~BurgosBurgos.private.md) 
+### [Burgos.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Burgos.Province/cities~Burgos/Burgos.protect.md) 
 
-### [Burgos.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Burgos.Province\cities~BurgosBurgos.personal.md) 
+### [Burgos.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Burgos.Province/cities~Burgos/Burgos.private.md) 
 
-### [Burgos.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Burgos.Province\cities~BurgosBurgos.secret.md)
+### [Burgos.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Burgos.Province/cities~Burgos/Burgos.personal.md) 
+
+### [Burgos.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Burgos.Province/cities~Burgos/Burgos.secret.md)
 

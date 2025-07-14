@@ -41,15 +41,17 @@ markerFolder: ./Jaén/
 
 ## Confidential Links & Embeds: 
 
-### [Jaén.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaJaén.public.md) 
+### [Jaén](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Jaén.md) 
 
-### [Jaén.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaJaén.internal.md) 
+### [Jaén.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Jaén.public.md) 
 
-### [Jaén.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaJaén.protect.md) 
+### [Jaén.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Jaén.internal.md) 
 
-### [Jaén.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaJaén.private.md) 
+### [Jaén.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Jaén.protect.md) 
 
-### [Jaén.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaJaén.personal.md) 
+### [Jaén.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Jaén.private.md) 
 
-### [Jaén.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaJaén.secret.md)
+### [Jaén.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Jaén.personal.md) 
+
+### [Jaén.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Jaén.secret.md)
 

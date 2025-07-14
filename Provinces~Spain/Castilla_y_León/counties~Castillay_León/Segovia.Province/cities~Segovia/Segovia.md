@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Segovia.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Segovia.Province\cities~SegoviaSegovia.public.md) 
+### [Segovia](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Segovia.Province/cities~Segovia/Segovia.md) 
 
-### [Segovia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Segovia.Province\cities~SegoviaSegovia.internal.md) 
+### [Segovia.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Segovia.Province/cities~Segovia/Segovia.public.md) 
 
-### [Segovia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Segovia.Province\cities~SegoviaSegovia.protect.md) 
+### [Segovia.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Segovia.Province/cities~Segovia/Segovia.internal.md) 
 
-### [Segovia.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Segovia.Province\cities~SegoviaSegovia.private.md) 
+### [Segovia.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Segovia.Province/cities~Segovia/Segovia.protect.md) 
 
-### [Segovia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Segovia.Province\cities~SegoviaSegovia.personal.md) 
+### [Segovia.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Segovia.Province/cities~Segovia/Segovia.private.md) 
 
-### [Segovia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Segovia.Province\cities~SegoviaSegovia.secret.md)
+### [Segovia.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Segovia.Province/cities~Segovia/Segovia.personal.md) 
+
+### [Segovia.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Segovia.Province/cities~Segovia/Segovia.secret.md)
 

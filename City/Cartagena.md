@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cartagena.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\CityCartagena.public.md) 
+### [Cartagena](/_Standards/Earth/Continent/Europe/Europe~South/Spain/City/Cartagena.md) 
 
-### [Cartagena.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\CityCartagena.internal.md) 
+### [Cartagena.public](/_public/Earth/Continent/Europe/Europe~South/Spain/City/Cartagena.public.md) 
 
-### [Cartagena.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\CityCartagena.protect.md) 
+### [Cartagena.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/City/Cartagena.internal.md) 
 
-### [Cartagena.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\CityCartagena.private.md) 
+### [Cartagena.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/City/Cartagena.protect.md) 
 
-### [Cartagena.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\CityCartagena.personal.md) 
+### [Cartagena.private](/_private/Earth/Continent/Europe/Europe~South/Spain/City/Cartagena.private.md) 
 
-### [Cartagena.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\CityCartagena.secret.md)
+### [Cartagena.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/City/Cartagena.personal.md) 
+
+### [Cartagena.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/City/Cartagena.secret.md)
 

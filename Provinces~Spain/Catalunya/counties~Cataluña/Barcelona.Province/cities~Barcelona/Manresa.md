@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Manresa.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Barcelona.Province\cities~BarcelonaManresa.public.md) 
+### [Manresa](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Manresa.md) 
 
-### [Manresa.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Barcelona.Province\cities~BarcelonaManresa.internal.md) 
+### [Manresa.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Manresa.public.md) 
 
-### [Manresa.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Barcelona.Province\cities~BarcelonaManresa.protect.md) 
+### [Manresa.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Manresa.internal.md) 
 
-### [Manresa.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Barcelona.Province\cities~BarcelonaManresa.private.md) 
+### [Manresa.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Manresa.protect.md) 
 
-### [Manresa.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Barcelona.Province\cities~BarcelonaManresa.personal.md) 
+### [Manresa.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Manresa.private.md) 
 
-### [Manresa.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Barcelona.Province\cities~BarcelonaManresa.secret.md)
+### [Manresa.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Manresa.personal.md) 
+
+### [Manresa.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Manresa.secret.md)
 

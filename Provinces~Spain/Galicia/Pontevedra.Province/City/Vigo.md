@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vigo.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\Pontevedra.Province\CityVigo.public.md) 
+### [Vigo](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Vigo.md) 
 
-### [Vigo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\Pontevedra.Province\CityVigo.internal.md) 
+### [Vigo.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Vigo.public.md) 
 
-### [Vigo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\Pontevedra.Province\CityVigo.protect.md) 
+### [Vigo.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Vigo.internal.md) 
 
-### [Vigo.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\Pontevedra.Province\CityVigo.private.md) 
+### [Vigo.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Vigo.protect.md) 
 
-### [Vigo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\Pontevedra.Province\CityVigo.personal.md) 
+### [Vigo.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Vigo.private.md) 
 
-### [Vigo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\Pontevedra.Province\CityVigo.secret.md)
+### [Vigo.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Vigo.personal.md) 
+
+### [Vigo.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Vigo.secret.md)
 

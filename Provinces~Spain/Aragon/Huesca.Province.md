@@ -41,15 +41,17 @@ markerFolder: ./Huesca.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Huesca.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AragonHuesca.Province.public.md) 
+### [Huesca.Province](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Huesca.Province.md) 
 
-### [Huesca.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AragonHuesca.Province.internal.md) 
+### [Huesca.Province.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Huesca.Province.public.md) 
 
-### [Huesca.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AragonHuesca.Province.protect.md) 
+### [Huesca.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Huesca.Province.internal.md) 
 
-### [Huesca.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AragonHuesca.Province.private.md) 
+### [Huesca.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Huesca.Province.protect.md) 
 
-### [Huesca.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AragonHuesca.Province.personal.md) 
+### [Huesca.Province.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Huesca.Province.private.md) 
 
-### [Huesca.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AragonHuesca.Province.secret.md)
+### [Huesca.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Huesca.Province.personal.md) 
+
+### [Huesca.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Huesca.Province.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Palencia.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Palencia.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_LeónPalencia.Province.public.md) 
+### [Palencia.Province](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Palencia.Province.md) 
 
-### [Palencia.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_LeónPalencia.Province.internal.md) 
+### [Palencia.Province.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Palencia.Province.public.md) 
 
-### [Palencia.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_LeónPalencia.Province.protect.md) 
+### [Palencia.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Palencia.Province.internal.md) 
 
-### [Palencia.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_LeónPalencia.Province.private.md) 
+### [Palencia.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Palencia.Province.protect.md) 
 
-### [Palencia.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_LeónPalencia.Province.personal.md) 
+### [Palencia.Province.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Palencia.Province.private.md) 
 
-### [Palencia.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_LeónPalencia.Province.secret.md)
+### [Palencia.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Palencia.Province.personal.md) 
+
+### [Palencia.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Palencia.Province.secret.md)
 

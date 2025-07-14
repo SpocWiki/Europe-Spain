@@ -41,15 +41,17 @@ markerFolder: ./Córdoba.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Córdoba.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaCórdoba.Province.public.md) 
+### [Córdoba.Province](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Córdoba.Province.md) 
 
-### [Córdoba.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaCórdoba.Province.internal.md) 
+### [Córdoba.Province.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Córdoba.Province.public.md) 
 
-### [Córdoba.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaCórdoba.Province.protect.md) 
+### [Córdoba.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Córdoba.Province.internal.md) 
 
-### [Córdoba.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaCórdoba.Province.private.md) 
+### [Córdoba.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Córdoba.Province.protect.md) 
 
-### [Córdoba.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaCórdoba.Province.personal.md) 
+### [Córdoba.Province.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Córdoba.Province.private.md) 
 
-### [Córdoba.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaCórdoba.Province.secret.md)
+### [Córdoba.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Córdoba.Province.personal.md) 
+
+### [Córdoba.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Córdoba.Province.secret.md)
 

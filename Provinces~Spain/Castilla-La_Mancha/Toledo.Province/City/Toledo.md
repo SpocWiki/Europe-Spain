@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Toledo.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Toledo.Province\CityToledo.public.md) 
+### [Toledo](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Toledo.Province/City/Toledo.md) 
 
-### [Toledo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Toledo.Province\CityToledo.internal.md) 
+### [Toledo.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Toledo.Province/City/Toledo.public.md) 
 
-### [Toledo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Toledo.Province\CityToledo.protect.md) 
+### [Toledo.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Toledo.Province/City/Toledo.internal.md) 
 
-### [Toledo.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Toledo.Province\CityToledo.private.md) 
+### [Toledo.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Toledo.Province/City/Toledo.protect.md) 
 
-### [Toledo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Toledo.Province\CityToledo.personal.md) 
+### [Toledo.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Toledo.Province/City/Toledo.private.md) 
 
-### [Toledo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Toledo.Province\CityToledo.secret.md)
+### [Toledo.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Toledo.Province/City/Toledo.personal.md) 
+
+### [Toledo.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Toledo.Province/City/Toledo.secret.md)
 

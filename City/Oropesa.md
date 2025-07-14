@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oropesa.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\CityOropesa.public.md) 
+### [Oropesa](/_Standards/Earth/Continent/Europe/Europe~South/Spain/City/Oropesa.md) 
 
-### [Oropesa.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\CityOropesa.internal.md) 
+### [Oropesa.public](/_public/Earth/Continent/Europe/Europe~South/Spain/City/Oropesa.public.md) 
 
-### [Oropesa.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\CityOropesa.protect.md) 
+### [Oropesa.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/City/Oropesa.internal.md) 
 
-### [Oropesa.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\CityOropesa.private.md) 
+### [Oropesa.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/City/Oropesa.protect.md) 
 
-### [Oropesa.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\CityOropesa.personal.md) 
+### [Oropesa.private](/_private/Earth/Continent/Europe/Europe~South/Spain/City/Oropesa.private.md) 
 
-### [Oropesa.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\CityOropesa.secret.md)
+### [Oropesa.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/City/Oropesa.personal.md) 
+
+### [Oropesa.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/City/Oropesa.secret.md)
 

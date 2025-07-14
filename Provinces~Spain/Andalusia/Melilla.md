@@ -41,15 +41,17 @@ markerFolder: ./Melilla/
 
 ## Confidential Links & Embeds: 
 
-### [Melilla.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaMelilla.public.md) 
+### [Melilla](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Melilla.md) 
 
-### [Melilla.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaMelilla.internal.md) 
+### [Melilla.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Melilla.public.md) 
 
-### [Melilla.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaMelilla.protect.md) 
+### [Melilla.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Melilla.internal.md) 
 
-### [Melilla.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaMelilla.private.md) 
+### [Melilla.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Melilla.protect.md) 
 
-### [Melilla.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaMelilla.personal.md) 
+### [Melilla.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Melilla.private.md) 
 
-### [Melilla.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaMelilla.secret.md)
+### [Melilla.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Melilla.personal.md) 
+
+### [Melilla.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Melilla.secret.md)
 

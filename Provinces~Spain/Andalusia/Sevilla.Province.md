@@ -41,15 +41,17 @@ markerFolder: ./Sevilla.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Sevilla.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaSevilla.Province.public.md) 
+### [Sevilla.Province](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Sevilla.Province.md) 
 
-### [Sevilla.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaSevilla.Province.internal.md) 
+### [Sevilla.Province.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Sevilla.Province.public.md) 
 
-### [Sevilla.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaSevilla.Province.protect.md) 
+### [Sevilla.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Sevilla.Province.internal.md) 
 
-### [Sevilla.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaSevilla.Province.private.md) 
+### [Sevilla.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Sevilla.Province.protect.md) 
 
-### [Sevilla.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaSevilla.Province.personal.md) 
+### [Sevilla.Province.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Sevilla.Province.private.md) 
 
-### [Sevilla.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaSevilla.Province.secret.md)
+### [Sevilla.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Sevilla.Province.personal.md) 
+
+### [Sevilla.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Sevilla.Province.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Reus.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Tarragona\cities~TarragonaReus.public.md) 
+### [Reus](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Tarragona/cities~Tarragona/Reus.md) 
 
-### [Reus.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Tarragona\cities~TarragonaReus.internal.md) 
+### [Reus.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Tarragona/cities~Tarragona/Reus.public.md) 
 
-### [Reus.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Tarragona\cities~TarragonaReus.protect.md) 
+### [Reus.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Tarragona/cities~Tarragona/Reus.internal.md) 
 
-### [Reus.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Tarragona\cities~TarragonaReus.private.md) 
+### [Reus.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Tarragona/cities~Tarragona/Reus.protect.md) 
 
-### [Reus.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Tarragona\cities~TarragonaReus.personal.md) 
+### [Reus.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Tarragona/cities~Tarragona/Reus.private.md) 
 
-### [Reus.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Tarragona\cities~TarragonaReus.secret.md)
+### [Reus.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Tarragona/cities~Tarragona/Reus.personal.md) 
+
+### [Reus.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Tarragona/cities~Tarragona/Reus.secret.md)
 

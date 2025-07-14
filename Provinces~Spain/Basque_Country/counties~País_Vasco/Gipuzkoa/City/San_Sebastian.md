@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [San_Sebastian.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Gipuzkoa\CitySan_Sebastian.public.md) 
+### [San_Sebastian](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Gipuzkoa/City/San_Sebastian.md) 
 
-### [San_Sebastian.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Gipuzkoa\CitySan_Sebastian.internal.md) 
+### [San_Sebastian.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Gipuzkoa/City/San_Sebastian.public.md) 
 
-### [San_Sebastian.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Gipuzkoa\CitySan_Sebastian.protect.md) 
+### [San_Sebastian.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Gipuzkoa/City/San_Sebastian.internal.md) 
 
-### [San_Sebastian.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Gipuzkoa\CitySan_Sebastian.private.md) 
+### [San_Sebastian.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Gipuzkoa/City/San_Sebastian.protect.md) 
 
-### [San_Sebastian.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Gipuzkoa\CitySan_Sebastian.personal.md) 
+### [San_Sebastian.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Gipuzkoa/City/San_Sebastian.private.md) 
 
-### [San_Sebastian.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Gipuzkoa\CitySan_Sebastian.secret.md)
+### [San_Sebastian.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Gipuzkoa/City/San_Sebastian.personal.md) 
+
+### [San_Sebastian.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Gipuzkoa/City/San_Sebastian.secret.md)
 

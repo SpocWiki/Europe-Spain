@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Palos.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Sevilla.Province\CityPalos.public.md) 
+### [Palos](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Sevilla.Province/City/Palos.md) 
 
-### [Palos.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Sevilla.Province\CityPalos.internal.md) 
+### [Palos.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Sevilla.Province/City/Palos.public.md) 
 
-### [Palos.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Sevilla.Province\CityPalos.protect.md) 
+### [Palos.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Sevilla.Province/City/Palos.internal.md) 
 
-### [Palos.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Sevilla.Province\CityPalos.private.md) 
+### [Palos.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Sevilla.Province/City/Palos.protect.md) 
 
-### [Palos.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Sevilla.Province\CityPalos.personal.md) 
+### [Palos.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Sevilla.Province/City/Palos.private.md) 
 
-### [Palos.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Sevilla.Province\CityPalos.secret.md)
+### [Palos.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Sevilla.Province/City/Palos.personal.md) 
+
+### [Palos.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Sevilla.Province/City/Palos.secret.md)
 

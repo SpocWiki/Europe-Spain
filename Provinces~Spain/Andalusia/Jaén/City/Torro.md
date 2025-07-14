@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Torro.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Jaén\CityTorro.public.md) 
+### [Torro](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Jaén/City/Torro.md) 
 
-### [Torro.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Jaén\CityTorro.internal.md) 
+### [Torro.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Jaén/City/Torro.public.md) 
 
-### [Torro.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Jaén\CityTorro.protect.md) 
+### [Torro.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Jaén/City/Torro.internal.md) 
 
-### [Torro.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Jaén\CityTorro.private.md) 
+### [Torro.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Jaén/City/Torro.protect.md) 
 
-### [Torro.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Jaén\CityTorro.personal.md) 
+### [Torro.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Jaén/City/Torro.private.md) 
 
-### [Torro.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Jaén\CityTorro.secret.md)
+### [Torro.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Jaén/City/Torro.personal.md) 
+
+### [Torro.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Jaén/City/Torro.secret.md)
 

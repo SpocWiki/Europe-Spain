@@ -117,20 +117,19 @@ native_label:
 > [Wikipedia](https://en.wikipedia.org/wiki/Galicia%20(Spain))
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Galicia.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainGalicia.public.md) 
+### [Galicia](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia.md) 
 
-### [Galicia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainGalicia.internal.md) 
+### [Galicia.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia.public.md) 
 
-### [Galicia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainGalicia.protect.md) 
+### [Galicia.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia.internal.md) 
 
-### [Galicia.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainGalicia.private.md) 
+### [Galicia.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia.protect.md) 
 
-### [Galicia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainGalicia.personal.md) 
+### [Galicia.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia.private.md) 
 
-### [Galicia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainGalicia.secret.md)
+### [Galicia.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia.personal.md) 
+
+### [Galicia.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia.secret.md)
 

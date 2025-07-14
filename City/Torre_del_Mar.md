@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Torre_del_Mar.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\CityTorre_del_Mar.public.md) 
+### [Torre_del_Mar](/_Standards/Earth/Continent/Europe/Europe~South/Spain/City/Torre_del_Mar.md) 
 
-### [Torre_del_Mar.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\CityTorre_del_Mar.internal.md) 
+### [Torre_del_Mar.public](/_public/Earth/Continent/Europe/Europe~South/Spain/City/Torre_del_Mar.public.md) 
 
-### [Torre_del_Mar.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\CityTorre_del_Mar.protect.md) 
+### [Torre_del_Mar.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/City/Torre_del_Mar.internal.md) 
 
-### [Torre_del_Mar.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\CityTorre_del_Mar.private.md) 
+### [Torre_del_Mar.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/City/Torre_del_Mar.protect.md) 
 
-### [Torre_del_Mar.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\CityTorre_del_Mar.personal.md) 
+### [Torre_del_Mar.private](/_private/Earth/Continent/Europe/Europe~South/Spain/City/Torre_del_Mar.private.md) 
 
-### [Torre_del_Mar.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\CityTorre_del_Mar.secret.md)
+### [Torre_del_Mar.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/City/Torre_del_Mar.personal.md) 
+
+### [Torre_del_Mar.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/City/Torre_del_Mar.secret.md)
 

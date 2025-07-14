@@ -41,15 +41,17 @@ markerFolder: ./Castellón/
 
 ## Confidential Links & Embeds: 
 
-### [Castellón.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,ValencianaCastellón.public.md) 
+### [Castellón](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Castellón.md) 
 
-### [Castellón.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,ValencianaCastellón.internal.md) 
+### [Castellón.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Castellón.public.md) 
 
-### [Castellón.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,ValencianaCastellón.protect.md) 
+### [Castellón.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Castellón.internal.md) 
 
-### [Castellón.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,ValencianaCastellón.private.md) 
+### [Castellón.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Castellón.protect.md) 
 
-### [Castellón.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,ValencianaCastellón.personal.md) 
+### [Castellón.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Castellón.private.md) 
 
-### [Castellón.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Valencia,Region\counties,ValencianaCastellón.secret.md)
+### [Castellón.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Castellón.personal.md) 
+
+### [Castellón.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Castellón.secret.md)
 

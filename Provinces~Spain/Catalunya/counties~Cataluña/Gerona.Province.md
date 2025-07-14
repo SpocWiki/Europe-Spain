@@ -41,15 +41,17 @@ markerFolder: ./Gerona.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Gerona.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaGerona.Province.public.md) 
+### [Gerona.Province](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province.md) 
 
-### [Gerona.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaGerona.Province.internal.md) 
+### [Gerona.Province.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province.public.md) 
 
-### [Gerona.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaGerona.Province.protect.md) 
+### [Gerona.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province.internal.md) 
 
-### [Gerona.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaGerona.Province.private.md) 
+### [Gerona.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province.protect.md) 
 
-### [Gerona.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaGerona.Province.personal.md) 
+### [Gerona.Province.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province.private.md) 
 
-### [Gerona.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaGerona.Province.secret.md)
+### [Gerona.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province.personal.md) 
+
+### [Gerona.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province.secret.md)
 

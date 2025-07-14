@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Guetaria.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\CityGuetaria.public.md) 
+### [Guetaria](/_Standards/Earth/Continent/Europe/Europe~South/Spain/City/Guetaria.md) 
 
-### [Guetaria.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\CityGuetaria.internal.md) 
+### [Guetaria.public](/_public/Earth/Continent/Europe/Europe~South/Spain/City/Guetaria.public.md) 
 
-### [Guetaria.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\CityGuetaria.protect.md) 
+### [Guetaria.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/City/Guetaria.internal.md) 
 
-### [Guetaria.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\CityGuetaria.private.md) 
+### [Guetaria.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/City/Guetaria.protect.md) 
 
-### [Guetaria.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\CityGuetaria.personal.md) 
+### [Guetaria.private](/_private/Earth/Continent/Europe/Europe~South/Spain/City/Guetaria.private.md) 
 
-### [Guetaria.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\CityGuetaria.secret.md)
+### [Guetaria.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/City/Guetaria.personal.md) 
+
+### [Guetaria.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/City/Guetaria.secret.md)
 

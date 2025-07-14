@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Figueras.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Gerona.Province\cities~GironaFigueras.public.md) 
+### [Figueras](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Figueras.md) 
 
-### [Figueras.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Gerona.Province\cities~GironaFigueras.internal.md) 
+### [Figueras.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Figueras.public.md) 
 
-### [Figueras.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Gerona.Province\cities~GironaFigueras.protect.md) 
+### [Figueras.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Figueras.internal.md) 
 
-### [Figueras.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Gerona.Province\cities~GironaFigueras.private.md) 
+### [Figueras.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Figueras.protect.md) 
 
-### [Figueras.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Gerona.Province\cities~GironaFigueras.personal.md) 
+### [Figueras.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Figueras.private.md) 
 
-### [Figueras.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Gerona.Province\cities~GironaFigueras.secret.md)
+### [Figueras.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Figueras.personal.md) 
+
+### [Figueras.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Figueras.secret.md)
 

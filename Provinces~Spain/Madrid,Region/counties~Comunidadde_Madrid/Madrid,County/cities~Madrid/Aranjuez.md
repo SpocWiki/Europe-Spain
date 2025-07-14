@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Aranjuez.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridAranjuez.public.md) 
+### [Aranjuez](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/Aranjuez.md) 
 
-### [Aranjuez.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridAranjuez.internal.md) 
+### [Aranjuez.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/Aranjuez.public.md) 
 
-### [Aranjuez.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridAranjuez.protect.md) 
+### [Aranjuez.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/Aranjuez.internal.md) 
 
-### [Aranjuez.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridAranjuez.private.md) 
+### [Aranjuez.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/Aranjuez.protect.md) 
 
-### [Aranjuez.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridAranjuez.personal.md) 
+### [Aranjuez.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/Aranjuez.private.md) 
 
-### [Aranjuez.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Madrid,Region\counties~Comunidadde_Madrid\Madrid,County\cities~MadridAranjuez.secret.md)
+### [Aranjuez.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/Aranjuez.personal.md) 
+
+### [Aranjuez.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/Aranjuez.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fells.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Barcelona.Province\cities~BarcelonaFells.public.md) 
+### [Fells](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Fells.md) 
 
-### [Fells.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Barcelona.Province\cities~BarcelonaFells.internal.md) 
+### [Fells.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Fells.public.md) 
 
-### [Fells.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Barcelona.Province\cities~BarcelonaFells.protect.md) 
+### [Fells.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Fells.internal.md) 
 
-### [Fells.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Barcelona.Province\cities~BarcelonaFells.private.md) 
+### [Fells.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Fells.protect.md) 
 
-### [Fells.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Barcelona.Province\cities~BarcelonaFells.personal.md) 
+### [Fells.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Fells.private.md) 
 
-### [Fells.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Barcelona.Province\cities~BarcelonaFells.secret.md)
+### [Fells.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Fells.personal.md) 
+
+### [Fells.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Fells.secret.md)
 

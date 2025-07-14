@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Teruel.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Aragon\Teruel.Province\CityTeruel.public.md) 
+### [Teruel](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Teruel.Province/City/Teruel.md) 
 
-### [Teruel.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Aragon\Teruel.Province\CityTeruel.internal.md) 
+### [Teruel.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Teruel.Province/City/Teruel.public.md) 
 
-### [Teruel.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Aragon\Teruel.Province\CityTeruel.protect.md) 
+### [Teruel.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Teruel.Province/City/Teruel.internal.md) 
 
-### [Teruel.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Aragon\Teruel.Province\CityTeruel.private.md) 
+### [Teruel.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Teruel.Province/City/Teruel.protect.md) 
 
-### [Teruel.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Aragon\Teruel.Province\CityTeruel.personal.md) 
+### [Teruel.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Teruel.Province/City/Teruel.private.md) 
 
-### [Teruel.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Aragon\Teruel.Province\CityTeruel.secret.md)
+### [Teruel.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Teruel.Province/City/Teruel.personal.md) 
+
+### [Teruel.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Teruel.Province/City/Teruel.secret.md)
 

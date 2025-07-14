@@ -41,15 +41,17 @@ markerFolder: ./Tarragona/
 
 ## Confidential Links & Embeds: 
 
-### [Tarragona.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaTarragona.public.md) 
+### [Tarragona](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Tarragona.md) 
 
-### [Tarragona.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaTarragona.internal.md) 
+### [Tarragona.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Tarragona.public.md) 
 
-### [Tarragona.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaTarragona.protect.md) 
+### [Tarragona.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Tarragona.internal.md) 
 
-### [Tarragona.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaTarragona.private.md) 
+### [Tarragona.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Tarragona.protect.md) 
 
-### [Tarragona.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaTarragona.personal.md) 
+### [Tarragona.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Tarragona.private.md) 
 
-### [Tarragona.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaTarragona.secret.md)
+### [Tarragona.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Tarragona.personal.md) 
+
+### [Tarragona.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Tarragona.secret.md)
 

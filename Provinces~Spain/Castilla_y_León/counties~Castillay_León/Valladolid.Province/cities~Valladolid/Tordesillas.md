@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tordesillas.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Valladolid.Province\cities~ValladolidTordesillas.public.md) 
+### [Tordesillas](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Valladolid.Province/cities~Valladolid/Tordesillas.md) 
 
-### [Tordesillas.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Valladolid.Province\cities~ValladolidTordesillas.internal.md) 
+### [Tordesillas.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Valladolid.Province/cities~Valladolid/Tordesillas.public.md) 
 
-### [Tordesillas.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Valladolid.Province\cities~ValladolidTordesillas.protect.md) 
+### [Tordesillas.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Valladolid.Province/cities~Valladolid/Tordesillas.internal.md) 
 
-### [Tordesillas.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Valladolid.Province\cities~ValladolidTordesillas.private.md) 
+### [Tordesillas.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Valladolid.Province/cities~Valladolid/Tordesillas.protect.md) 
 
-### [Tordesillas.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Valladolid.Province\cities~ValladolidTordesillas.personal.md) 
+### [Tordesillas.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Valladolid.Province/cities~Valladolid/Tordesillas.private.md) 
 
-### [Tordesillas.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Valladolid.Province\cities~ValladolidTordesillas.secret.md)
+### [Tordesillas.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Valladolid.Province/cities~Valladolid/Tordesillas.personal.md) 
+
+### [Tordesillas.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Valladolid.Province/cities~Valladolid/Tordesillas.secret.md)
 

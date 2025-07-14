@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Soria.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Soria.Province\cities~SoriaSoria.public.md) 
+### [Soria](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Soria.Province/cities~Soria/Soria.md) 
 
-### [Soria.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Soria.Province\cities~SoriaSoria.internal.md) 
+### [Soria.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Soria.Province/cities~Soria/Soria.public.md) 
 
-### [Soria.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Soria.Province\cities~SoriaSoria.protect.md) 
+### [Soria.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Soria.Province/cities~Soria/Soria.internal.md) 
 
-### [Soria.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Soria.Province\cities~SoriaSoria.private.md) 
+### [Soria.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Soria.Province/cities~Soria/Soria.protect.md) 
 
-### [Soria.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Soria.Province\cities~SoriaSoria.personal.md) 
+### [Soria.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Soria.Province/cities~Soria/Soria.private.md) 
 
-### [Soria.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Soria.Province\cities~SoriaSoria.secret.md)
+### [Soria.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Soria.Province/cities~Soria/Soria.personal.md) 
+
+### [Soria.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Soria.Province/cities~Soria/Soria.secret.md)
 

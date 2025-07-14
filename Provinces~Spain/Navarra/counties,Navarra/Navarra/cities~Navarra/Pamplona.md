@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pamplona.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Navarra\counties,Navarra\Navarra\cities~NavarraPamplona.public.md) 
+### [Pamplona](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra/counties,Navarra/Navarra/cities~Navarra/Pamplona.md) 
 
-### [Pamplona.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Navarra\counties,Navarra\Navarra\cities~NavarraPamplona.internal.md) 
+### [Pamplona.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra/counties,Navarra/Navarra/cities~Navarra/Pamplona.public.md) 
 
-### [Pamplona.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Navarra\counties,Navarra\Navarra\cities~NavarraPamplona.protect.md) 
+### [Pamplona.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra/counties,Navarra/Navarra/cities~Navarra/Pamplona.internal.md) 
 
-### [Pamplona.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Navarra\counties,Navarra\Navarra\cities~NavarraPamplona.private.md) 
+### [Pamplona.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra/counties,Navarra/Navarra/cities~Navarra/Pamplona.protect.md) 
 
-### [Pamplona.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Navarra\counties,Navarra\Navarra\cities~NavarraPamplona.personal.md) 
+### [Pamplona.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra/counties,Navarra/Navarra/cities~Navarra/Pamplona.private.md) 
 
-### [Pamplona.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Navarra\counties,Navarra\Navarra\cities~NavarraPamplona.secret.md)
+### [Pamplona.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra/counties,Navarra/Navarra/cities~Navarra/Pamplona.personal.md) 
+
+### [Pamplona.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra/counties,Navarra/Navarra/cities~Navarra/Pamplona.secret.md)
 

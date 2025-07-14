@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Adra.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Granada\CityAdra.public.md) 
+### [Adra](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Granada/City/Adra.md) 
 
-### [Adra.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Granada\CityAdra.internal.md) 
+### [Adra.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Granada/City/Adra.public.md) 
 
-### [Adra.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Granada\CityAdra.protect.md) 
+### [Adra.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Granada/City/Adra.internal.md) 
 
-### [Adra.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Granada\CityAdra.private.md) 
+### [Adra.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Granada/City/Adra.protect.md) 
 
-### [Adra.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Granada\CityAdra.personal.md) 
+### [Adra.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Granada/City/Adra.private.md) 
 
-### [Adra.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Granada\CityAdra.secret.md)
+### [Adra.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Granada/City/Adra.personal.md) 
+
+### [Adra.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Granada/City/Adra.secret.md)
 

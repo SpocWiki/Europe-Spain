@@ -260,19 +260,19 @@ markerFolder: ./Catalunya/
 ```
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Catalunya.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainCatalunya.public.md) 
+### [Catalunya](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya.md) 
 
-### [Catalunya.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainCatalunya.internal.md) 
+### [Catalunya.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya.public.md) 
 
-### [Catalunya.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainCatalunya.protect.md) 
+### [Catalunya.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya.internal.md) 
 
-### [Catalunya.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainCatalunya.private.md) 
+### [Catalunya.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya.protect.md) 
 
-### [Catalunya.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainCatalunya.personal.md) 
+### [Catalunya.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya.private.md) 
 
-### [Catalunya.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~SpainCatalunya.secret.md)
+### [Catalunya.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya.personal.md) 
+
+### [Catalunya.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya.secret.md)
 

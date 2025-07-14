@@ -202,15 +202,17 @@ markerFolder: ./Gibraltar/
 
 ## Confidential Links & Embeds: 
 
-### [Gibraltar.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaGibraltar.public.md) 
+### [Gibraltar](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Gibraltar.md) 
 
-### [Gibraltar.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaGibraltar.internal.md) 
+### [Gibraltar.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Gibraltar.public.md) 
 
-### [Gibraltar.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaGibraltar.protect.md) 
+### [Gibraltar.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Gibraltar.internal.md) 
 
-### [Gibraltar.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaGibraltar.private.md) 
+### [Gibraltar.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Gibraltar.protect.md) 
 
-### [Gibraltar.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaGibraltar.personal.md) 
+### [Gibraltar.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Gibraltar.private.md) 
 
-### [Gibraltar.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaGibraltar.secret.md)
+### [Gibraltar.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Gibraltar.personal.md) 
+
+### [Gibraltar.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Gibraltar.secret.md)
 

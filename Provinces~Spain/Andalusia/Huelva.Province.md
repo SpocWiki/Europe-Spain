@@ -41,15 +41,17 @@ markerFolder: ./Huelva.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Huelva.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaHuelva.Province.public.md) 
+### [Huelva.Province](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Huelva.Province.md) 
 
-### [Huelva.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaHuelva.Province.internal.md) 
+### [Huelva.Province.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Huelva.Province.public.md) 
 
-### [Huelva.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaHuelva.Province.protect.md) 
+### [Huelva.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Huelva.Province.internal.md) 
 
-### [Huelva.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaHuelva.Province.private.md) 
+### [Huelva.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Huelva.Province.protect.md) 
 
-### [Huelva.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaHuelva.Province.personal.md) 
+### [Huelva.Province.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Huelva.Province.private.md) 
 
-### [Huelva.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\AndalusiaHuelva.Province.secret.md)
+### [Huelva.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Huelva.Province.personal.md) 
+
+### [Huelva.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Huelva.Province.secret.md)
 

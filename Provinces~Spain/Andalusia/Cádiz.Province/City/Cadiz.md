@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cadiz.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CityCadiz.public.md) 
+### [Cadiz](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/Cadiz.md) 
 
-### [Cadiz.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CityCadiz.internal.md) 
+### [Cadiz.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/Cadiz.public.md) 
 
-### [Cadiz.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CityCadiz.protect.md) 
+### [Cadiz.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/Cadiz.internal.md) 
 
-### [Cadiz.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CityCadiz.private.md) 
+### [Cadiz.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/Cadiz.protect.md) 
 
-### [Cadiz.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CityCadiz.personal.md) 
+### [Cadiz.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/Cadiz.private.md) 
 
-### [Cadiz.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Cádiz.Province\CityCadiz.secret.md)
+### [Cadiz.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/Cadiz.personal.md) 
+
+### [Cadiz.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Cádiz.Province/City/Cadiz.secret.md)
 

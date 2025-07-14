@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Valladolid.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Valladolid.Province\cities~ValladolidValladolid.public.md) 
+### [Valladolid](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Valladolid.Province/cities~Valladolid/Valladolid.md) 
 
-### [Valladolid.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Valladolid.Province\cities~ValladolidValladolid.internal.md) 
+### [Valladolid.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Valladolid.Province/cities~Valladolid/Valladolid.public.md) 
 
-### [Valladolid.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Valladolid.Province\cities~ValladolidValladolid.protect.md) 
+### [Valladolid.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Valladolid.Province/cities~Valladolid/Valladolid.internal.md) 
 
-### [Valladolid.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Valladolid.Province\cities~ValladolidValladolid.private.md) 
+### [Valladolid.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Valladolid.Province/cities~Valladolid/Valladolid.protect.md) 
 
-### [Valladolid.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Valladolid.Province\cities~ValladolidValladolid.personal.md) 
+### [Valladolid.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Valladolid.Province/cities~Valladolid/Valladolid.private.md) 
 
-### [Valladolid.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\Valladolid.Province\cities~ValladolidValladolid.secret.md)
+### [Valladolid.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Valladolid.Province/cities~Valladolid/Valladolid.personal.md) 
+
+### [Valladolid.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Valladolid.Province/cities~Valladolid/Valladolid.secret.md)
 

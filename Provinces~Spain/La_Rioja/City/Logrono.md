@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Logrono.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\La_Rioja\CityLogrono.public.md) 
+### [Logrono](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja/City/Logrono.md) 
 
-### [Logrono.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\La_Rioja\CityLogrono.internal.md) 
+### [Logrono.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja/City/Logrono.public.md) 
 
-### [Logrono.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\La_Rioja\CityLogrono.protect.md) 
+### [Logrono.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja/City/Logrono.internal.md) 
 
-### [Logrono.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\La_Rioja\CityLogrono.private.md) 
+### [Logrono.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja/City/Logrono.protect.md) 
 
-### [Logrono.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\La_Rioja\CityLogrono.personal.md) 
+### [Logrono.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja/City/Logrono.private.md) 
 
-### [Logrono.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\La_Rioja\CityLogrono.secret.md)
+### [Logrono.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja/City/Logrono.personal.md) 
+
+### [Logrono.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja/City/Logrono.secret.md)
 

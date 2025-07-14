@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Linares.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Jaén\CityLinares.public.md) 
+### [Linares](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Jaén/City/Linares.md) 
 
-### [Linares.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Jaén\CityLinares.internal.md) 
+### [Linares.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Jaén/City/Linares.public.md) 
 
-### [Linares.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Jaén\CityLinares.protect.md) 
+### [Linares.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Jaén/City/Linares.internal.md) 
 
-### [Linares.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Jaén\CityLinares.private.md) 
+### [Linares.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Jaén/City/Linares.protect.md) 
 
-### [Linares.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Jaén\CityLinares.personal.md) 
+### [Linares.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Jaén/City/Linares.private.md) 
 
-### [Linares.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Andalusia\Jaén\CityLinares.secret.md)
+### [Linares.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Jaén/City/Linares.personal.md) 
+
+### [Linares.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Jaén/City/Linares.secret.md)
 

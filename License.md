@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Europe\Europe~South\SpainLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Europe/Europe~South/Spain/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Europe\Europe~South\SpainLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Europe/Europe~South/Spain/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Europe\Europe~South\SpainLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Europe\Europe~South\SpainLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Europe\Europe~South\SpainLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Europe/Europe~South/Spain/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Europe\Europe~South\SpainLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/License.secret.md)
 

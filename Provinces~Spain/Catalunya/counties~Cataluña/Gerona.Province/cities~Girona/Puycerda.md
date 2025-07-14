@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Puycerda.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Gerona.Province\cities~GironaPuycerda.public.md) 
+### [Puycerda](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Puycerda.md) 
 
-### [Puycerda.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Gerona.Province\cities~GironaPuycerda.internal.md) 
+### [Puycerda.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Puycerda.public.md) 
 
-### [Puycerda.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Gerona.Province\cities~GironaPuycerda.protect.md) 
+### [Puycerda.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Puycerda.internal.md) 
 
-### [Puycerda.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Gerona.Province\cities~GironaPuycerda.private.md) 
+### [Puycerda.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Puycerda.protect.md) 
 
-### [Puycerda.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Gerona.Province\cities~GironaPuycerda.personal.md) 
+### [Puycerda.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Puycerda.private.md) 
 
-### [Puycerda.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Gerona.Province\cities~GironaPuycerda.secret.md)
+### [Puycerda.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Puycerda.personal.md) 
+
+### [Puycerda.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Puycerda.secret.md)
 

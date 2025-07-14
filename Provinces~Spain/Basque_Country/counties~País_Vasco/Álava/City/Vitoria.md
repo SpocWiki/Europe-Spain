@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vitoria.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Álava\CityVitoria.public.md) 
+### [Vitoria](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Álava/City/Vitoria.md) 
 
-### [Vitoria.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Álava\CityVitoria.internal.md) 
+### [Vitoria.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Álava/City/Vitoria.public.md) 
 
-### [Vitoria.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Álava\CityVitoria.protect.md) 
+### [Vitoria.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Álava/City/Vitoria.internal.md) 
 
-### [Vitoria.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Álava\CityVitoria.private.md) 
+### [Vitoria.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Álava/City/Vitoria.protect.md) 
 
-### [Vitoria.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Álava\CityVitoria.personal.md) 
+### [Vitoria.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Álava/City/Vitoria.private.md) 
 
-### [Vitoria.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Álava\CityVitoria.secret.md)
+### [Vitoria.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Álava/City/Vitoria.personal.md) 
+
+### [Vitoria.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Álava/City/Vitoria.secret.md)
 

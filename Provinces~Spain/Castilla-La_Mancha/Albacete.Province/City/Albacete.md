@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Albacete.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Albacete.Province\CityAlbacete.public.md) 
+### [Albacete](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Albacete.Province/City/Albacete.md) 
 
-### [Albacete.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Albacete.Province\CityAlbacete.internal.md) 
+### [Albacete.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Albacete.Province/City/Albacete.public.md) 
 
-### [Albacete.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Albacete.Province\CityAlbacete.protect.md) 
+### [Albacete.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Albacete.Province/City/Albacete.internal.md) 
 
-### [Albacete.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Albacete.Province\CityAlbacete.private.md) 
+### [Albacete.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Albacete.Province/City/Albacete.protect.md) 
 
-### [Albacete.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Albacete.Province\CityAlbacete.personal.md) 
+### [Albacete.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Albacete.Province/City/Albacete.private.md) 
 
-### [Albacete.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_Mancha\Albacete.Province\CityAlbacete.secret.md)
+### [Albacete.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Albacete.Province/City/Albacete.personal.md) 
+
+### [Albacete.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Albacete.Province/City/Albacete.secret.md)
 

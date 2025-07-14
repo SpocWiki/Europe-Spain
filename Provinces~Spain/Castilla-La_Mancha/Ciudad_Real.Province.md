@@ -41,15 +41,17 @@ markerFolder: ./Ciudad_Real.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Ciudad_Real.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaCiudad_Real.Province.public.md) 
+### [Ciudad_Real.Province](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province.md) 
 
-### [Ciudad_Real.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaCiudad_Real.Province.internal.md) 
+### [Ciudad_Real.Province.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province.public.md) 
 
-### [Ciudad_Real.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaCiudad_Real.Province.protect.md) 
+### [Ciudad_Real.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province.internal.md) 
 
-### [Ciudad_Real.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaCiudad_Real.Province.private.md) 
+### [Ciudad_Real.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province.protect.md) 
 
-### [Ciudad_Real.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaCiudad_Real.Province.personal.md) 
+### [Ciudad_Real.Province.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province.private.md) 
 
-### [Ciudad_Real.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaCiudad_Real.Province.secret.md)
+### [Ciudad_Real.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province.personal.md) 
+
+### [Ciudad_Real.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province.secret.md)
 

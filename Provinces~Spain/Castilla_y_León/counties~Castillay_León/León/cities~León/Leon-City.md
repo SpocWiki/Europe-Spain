@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Leon-City.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\León\cities~LeónLeon-City.public.md) 
+### [Leon-City](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/León/cities~León/Leon-City.md) 
 
-### [Leon-City.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\León\cities~LeónLeon-City.internal.md) 
+### [Leon-City.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/León/cities~León/Leon-City.public.md) 
 
-### [Leon-City.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\León\cities~LeónLeon-City.protect.md) 
+### [Leon-City.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/León/cities~León/Leon-City.internal.md) 
 
-### [Leon-City.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\León\cities~LeónLeon-City.private.md) 
+### [Leon-City.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/León/cities~León/Leon-City.protect.md) 
 
-### [Leon-City.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\León\cities~LeónLeon-City.personal.md) 
+### [Leon-City.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/León/cities~León/Leon-City.private.md) 
 
-### [Leon-City.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla_y_León\counties~Castillay_León\León\cities~LeónLeon-City.secret.md)
+### [Leon-City.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/León/cities~León/Leon-City.personal.md) 
+
+### [Leon-City.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/León/cities~León/Leon-City.secret.md)
 

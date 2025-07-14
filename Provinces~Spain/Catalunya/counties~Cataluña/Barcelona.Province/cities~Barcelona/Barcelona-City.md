@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Barcelona-City.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Barcelona.Province\cities~BarcelonaBarcelona-City.public.md) 
+### [Barcelona-City](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Barcelona-City.md) 
 
-### [Barcelona-City.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Barcelona.Province\cities~BarcelonaBarcelona-City.internal.md) 
+### [Barcelona-City.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Barcelona-City.public.md) 
 
-### [Barcelona-City.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Barcelona.Province\cities~BarcelonaBarcelona-City.protect.md) 
+### [Barcelona-City.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Barcelona-City.internal.md) 
 
-### [Barcelona-City.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Barcelona.Province\cities~BarcelonaBarcelona-City.private.md) 
+### [Barcelona-City.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Barcelona-City.protect.md) 
 
-### [Barcelona-City.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Barcelona.Province\cities~BarcelonaBarcelona-City.personal.md) 
+### [Barcelona-City.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Barcelona-City.private.md) 
 
-### [Barcelona-City.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Barcelona.Province\cities~BarcelonaBarcelona-City.secret.md)
+### [Barcelona-City.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Barcelona-City.personal.md) 
+
+### [Barcelona-City.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Barcelona-City.secret.md)
 

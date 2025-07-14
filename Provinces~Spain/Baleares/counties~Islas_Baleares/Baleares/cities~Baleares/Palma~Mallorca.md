@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Palma~Mallorca.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Baleares\counties~Islas_Baleares\Baleares\cities~BalearesPalma~Mallorca.public.md) 
+### [Palma~Mallorca](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Palma~Mallorca.md) 
 
-### [Palma~Mallorca.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Baleares\counties~Islas_Baleares\Baleares\cities~BalearesPalma~Mallorca.internal.md) 
+### [Palma~Mallorca.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Palma~Mallorca.public.md) 
 
-### [Palma~Mallorca.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Baleares\counties~Islas_Baleares\Baleares\cities~BalearesPalma~Mallorca.protect.md) 
+### [Palma~Mallorca.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Palma~Mallorca.internal.md) 
 
-### [Palma~Mallorca.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Baleares\counties~Islas_Baleares\Baleares\cities~BalearesPalma~Mallorca.private.md) 
+### [Palma~Mallorca.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Palma~Mallorca.protect.md) 
 
-### [Palma~Mallorca.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Baleares\counties~Islas_Baleares\Baleares\cities~BalearesPalma~Mallorca.personal.md) 
+### [Palma~Mallorca.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Palma~Mallorca.private.md) 
 
-### [Palma~Mallorca.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Baleares\counties~Islas_Baleares\Baleares\cities~BalearesPalma~Mallorca.secret.md)
+### [Palma~Mallorca.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Palma~Mallorca.personal.md) 
+
+### [Palma~Mallorca.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Palma~Mallorca.secret.md)
 

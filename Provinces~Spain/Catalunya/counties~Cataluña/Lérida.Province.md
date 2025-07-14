@@ -41,15 +41,17 @@ markerFolder: ./Lérida.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Lérida.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaLérida.Province.public.md) 
+### [Lérida.Province](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Lérida.Province.md) 
 
-### [Lérida.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaLérida.Province.internal.md) 
+### [Lérida.Province.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Lérida.Province.public.md) 
 
-### [Lérida.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaLérida.Province.protect.md) 
+### [Lérida.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Lérida.Province.internal.md) 
 
-### [Lérida.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaLérida.Province.private.md) 
+### [Lérida.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Lérida.Province.protect.md) 
 
-### [Lérida.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaLérida.Province.personal.md) 
+### [Lérida.Province.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Lérida.Province.private.md) 
 
-### [Lérida.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~CataluñaLérida.Province.secret.md)
+### [Lérida.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Lérida.Province.personal.md) 
+
+### [Lérida.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Lérida.Province.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Santander.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Cantabria\CitySantander.public.md) 
+### [Santander](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria/City/Santander.md) 
 
-### [Santander.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Cantabria\CitySantander.internal.md) 
+### [Santander.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria/City/Santander.public.md) 
 
-### [Santander.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Cantabria\CitySantander.protect.md) 
+### [Santander.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria/City/Santander.internal.md) 
 
-### [Santander.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Cantabria\CitySantander.private.md) 
+### [Santander.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria/City/Santander.protect.md) 
 
-### [Santander.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Cantabria\CitySantander.personal.md) 
+### [Santander.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria/City/Santander.private.md) 
 
-### [Santander.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Cantabria\CitySantander.secret.md)
+### [Santander.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria/City/Santander.personal.md) 
+
+### [Santander.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria/City/Santander.secret.md)
 

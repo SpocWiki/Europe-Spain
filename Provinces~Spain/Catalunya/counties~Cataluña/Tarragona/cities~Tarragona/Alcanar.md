@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alcanar.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Tarragona\cities~TarragonaAlcanar.public.md) 
+### [Alcanar](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Tarragona/cities~Tarragona/Alcanar.md) 
 
-### [Alcanar.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Tarragona\cities~TarragonaAlcanar.internal.md) 
+### [Alcanar.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Tarragona/cities~Tarragona/Alcanar.public.md) 
 
-### [Alcanar.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Tarragona\cities~TarragonaAlcanar.protect.md) 
+### [Alcanar.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Tarragona/cities~Tarragona/Alcanar.internal.md) 
 
-### [Alcanar.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Tarragona\cities~TarragonaAlcanar.private.md) 
+### [Alcanar.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Tarragona/cities~Tarragona/Alcanar.protect.md) 
 
-### [Alcanar.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Tarragona\cities~TarragonaAlcanar.personal.md) 
+### [Alcanar.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Tarragona/cities~Tarragona/Alcanar.private.md) 
 
-### [Alcanar.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Tarragona\cities~TarragonaAlcanar.secret.md)
+### [Alcanar.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Tarragona/cities~Tarragona/Alcanar.personal.md) 
+
+### [Alcanar.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Tarragona/cities~Tarragona/Alcanar.secret.md)
 

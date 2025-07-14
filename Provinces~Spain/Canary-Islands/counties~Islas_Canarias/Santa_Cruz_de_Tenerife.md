@@ -41,15 +41,17 @@ markerFolder: ./Santa_Cruz_de_Tenerife/
 
 ## Confidential Links & Embeds: 
 
-### [Santa_Cruz_de_Tenerife.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Canary-Islands\counties~Islas_CanariasSanta_Cruz_de_Tenerife.public.md) 
+### [Santa_Cruz_de_Tenerife](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Santa_Cruz_de_Tenerife.md) 
 
-### [Santa_Cruz_de_Tenerife.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Canary-Islands\counties~Islas_CanariasSanta_Cruz_de_Tenerife.internal.md) 
+### [Santa_Cruz_de_Tenerife.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Santa_Cruz_de_Tenerife.public.md) 
 
-### [Santa_Cruz_de_Tenerife.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Canary-Islands\counties~Islas_CanariasSanta_Cruz_de_Tenerife.protect.md) 
+### [Santa_Cruz_de_Tenerife.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Santa_Cruz_de_Tenerife.internal.md) 
 
-### [Santa_Cruz_de_Tenerife.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Canary-Islands\counties~Islas_CanariasSanta_Cruz_de_Tenerife.private.md) 
+### [Santa_Cruz_de_Tenerife.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Santa_Cruz_de_Tenerife.protect.md) 
 
-### [Santa_Cruz_de_Tenerife.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Canary-Islands\counties~Islas_CanariasSanta_Cruz_de_Tenerife.personal.md) 
+### [Santa_Cruz_de_Tenerife.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Santa_Cruz_de_Tenerife.private.md) 
 
-### [Santa_Cruz_de_Tenerife.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Canary-Islands\counties~Islas_CanariasSanta_Cruz_de_Tenerife.secret.md)
+### [Santa_Cruz_de_Tenerife.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Santa_Cruz_de_Tenerife.personal.md) 
+
+### [Santa_Cruz_de_Tenerife.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Santa_Cruz_de_Tenerife.secret.md)
 

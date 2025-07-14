@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mahon.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Baleares\counties~Islas_Baleares\Baleares\cities~BalearesMahon.public.md) 
+### [Mahon](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Mahon.md) 
 
-### [Mahon.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Baleares\counties~Islas_Baleares\Baleares\cities~BalearesMahon.internal.md) 
+### [Mahon.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Mahon.public.md) 
 
-### [Mahon.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Baleares\counties~Islas_Baleares\Baleares\cities~BalearesMahon.protect.md) 
+### [Mahon.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Mahon.internal.md) 
 
-### [Mahon.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Baleares\counties~Islas_Baleares\Baleares\cities~BalearesMahon.private.md) 
+### [Mahon.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Mahon.protect.md) 
 
-### [Mahon.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Baleares\counties~Islas_Baleares\Baleares\cities~BalearesMahon.personal.md) 
+### [Mahon.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Mahon.private.md) 
 
-### [Mahon.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Baleares\counties~Islas_Baleares\Baleares\cities~BalearesMahon.secret.md)
+### [Mahon.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Mahon.personal.md) 
+
+### [Mahon.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Mahon.secret.md)
 

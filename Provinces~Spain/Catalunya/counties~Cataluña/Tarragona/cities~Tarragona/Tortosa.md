@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tortosa.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Tarragona\cities~TarragonaTortosa.public.md) 
+### [Tortosa](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Tarragona/cities~Tarragona/Tortosa.md) 
 
-### [Tortosa.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Tarragona\cities~TarragonaTortosa.internal.md) 
+### [Tortosa.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Tarragona/cities~Tarragona/Tortosa.public.md) 
 
-### [Tortosa.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Tarragona\cities~TarragonaTortosa.protect.md) 
+### [Tortosa.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Tarragona/cities~Tarragona/Tortosa.internal.md) 
 
-### [Tortosa.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Tarragona\cities~TarragonaTortosa.private.md) 
+### [Tortosa.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Tarragona/cities~Tarragona/Tortosa.protect.md) 
 
-### [Tortosa.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Tarragona\cities~TarragonaTortosa.personal.md) 
+### [Tortosa.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Tarragona/cities~Tarragona/Tortosa.private.md) 
 
-### [Tortosa.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Tarragona\cities~TarragonaTortosa.secret.md)
+### [Tortosa.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Tarragona/cities~Tarragona/Tortosa.personal.md) 
+
+### [Tortosa.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Tarragona/cities~Tarragona/Tortosa.secret.md)
 

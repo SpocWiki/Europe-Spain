@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bilbao.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Bizkaia\cities~VizcayaBilbao.public.md) 
+### [Bilbao](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Bilbao.md) 
 
-### [Bilbao.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Bizkaia\cities~VizcayaBilbao.internal.md) 
+### [Bilbao.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Bilbao.public.md) 
 
-### [Bilbao.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Bizkaia\cities~VizcayaBilbao.protect.md) 
+### [Bilbao.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Bilbao.internal.md) 
 
-### [Bilbao.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Bizkaia\cities~VizcayaBilbao.private.md) 
+### [Bilbao.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Bilbao.protect.md) 
 
-### [Bilbao.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Bizkaia\cities~VizcayaBilbao.personal.md) 
+### [Bilbao.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Bilbao.private.md) 
 
-### [Bilbao.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Basque_Country\counties~País_Vasco\Bizkaia\cities~VizcayaBilbao.secret.md)
+### [Bilbao.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Bilbao.personal.md) 
+
+### [Bilbao.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Bilbao.secret.md)
 

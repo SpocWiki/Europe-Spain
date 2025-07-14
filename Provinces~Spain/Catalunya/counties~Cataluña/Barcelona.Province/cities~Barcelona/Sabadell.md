@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sabadell.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Barcelona.Province\cities~BarcelonaSabadell.public.md) 
+### [Sabadell](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Sabadell.md) 
 
-### [Sabadell.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Barcelona.Province\cities~BarcelonaSabadell.internal.md) 
+### [Sabadell.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Sabadell.public.md) 
 
-### [Sabadell.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Barcelona.Province\cities~BarcelonaSabadell.protect.md) 
+### [Sabadell.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Sabadell.internal.md) 
 
-### [Sabadell.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Barcelona.Province\cities~BarcelonaSabadell.private.md) 
+### [Sabadell.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Sabadell.protect.md) 
 
-### [Sabadell.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Barcelona.Province\cities~BarcelonaSabadell.personal.md) 
+### [Sabadell.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Sabadell.private.md) 
 
-### [Sabadell.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Catalunya\counties~Cataluña\Barcelona.Province\cities~BarcelonaSabadell.secret.md)
+### [Sabadell.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Sabadell.personal.md) 
+
+### [Sabadell.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona.Province/cities~Barcelona/Sabadell.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Toledo.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Toledo.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaToledo.Province.public.md) 
+### [Toledo.Province](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Toledo.Province.md) 
 
-### [Toledo.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaToledo.Province.internal.md) 
+### [Toledo.Province.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Toledo.Province.public.md) 
 
-### [Toledo.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaToledo.Province.protect.md) 
+### [Toledo.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Toledo.Province.internal.md) 
 
-### [Toledo.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaToledo.Province.private.md) 
+### [Toledo.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Toledo.Province.protect.md) 
 
-### [Toledo.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaToledo.Province.personal.md) 
+### [Toledo.Province.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Toledo.Province.private.md) 
 
-### [Toledo.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Castilla-La_ManchaToledo.Province.secret.md)
+### [Toledo.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Toledo.Province.personal.md) 
+
+### [Toledo.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Toledo.Province.secret.md)
 

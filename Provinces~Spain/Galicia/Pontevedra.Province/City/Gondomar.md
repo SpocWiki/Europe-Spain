@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gondomar.public](/_public/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\Pontevedra.Province\CityGondomar.public.md) 
+### [Gondomar](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Gondomar.md) 
 
-### [Gondomar.internal](/_internal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\Pontevedra.Province\CityGondomar.internal.md) 
+### [Gondomar.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Gondomar.public.md) 
 
-### [Gondomar.protect](/_protect/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\Pontevedra.Province\CityGondomar.protect.md) 
+### [Gondomar.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Gondomar.internal.md) 
 
-### [Gondomar.private](/_private/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\Pontevedra.Province\CityGondomar.private.md) 
+### [Gondomar.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Gondomar.protect.md) 
 
-### [Gondomar.personal](/_personal/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\Pontevedra.Province\CityGondomar.personal.md) 
+### [Gondomar.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Gondomar.private.md) 
 
-### [Gondomar.secret](/_secret/\Earth\Continent\Europe\Europe~South\Spain\Provinces~Spain\Galicia\Pontevedra.Province\CityGondomar.secret.md)
+### [Gondomar.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Gondomar.personal.md) 
+
+### [Gondomar.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Gondomar.secret.md)
 
