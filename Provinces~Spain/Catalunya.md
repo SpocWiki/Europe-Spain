@@ -213,7 +213,11 @@ official_name:
 - Catalonha
 ---
 
-# Catalunya
+# [[Catalunya]]
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Catalonia,5705|WD~Catalonia,5705]] 
+
+## #has_/text_of_/abstract 
 
 > **Catalonia** (Catalan: Catalunya [kətəˈluɲə] ; Spanish: Cataluña [kataˈluɲa] ; Occitan: Catalonha) 
 > is an autonomous community of Spain, designated as a nationality by its Statute of Autonomy. 
