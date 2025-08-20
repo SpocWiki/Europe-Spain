@@ -1,30 +1,29 @@
 ---
-location: [ 38.1 , -1.7 ] 
+location:
+  - 38.1
+  - -1.7
 type: geo-Region
 title: Murcia.Region
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Murcia.Region
-
+  - Murcia.Region
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Murcia.Region

@@ -1,41 +1,42 @@
 ---
 title: Spain
-linkTitle: 
+linkTitle:
 type: Country
 has_id_wikidata: Q29
 location:
-- 40.0911
-- -2.86673
+  - 40.0911
+  - -2.86673
 SpocWebEntityId: 26889
 tags:
-- geo/Country
+  - geo/Country
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
-keywords: 
-layout: 
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Spain
-- España
-- Espagne
-- إسبانيا
-- 西班牙
-- Испания
-- the Kingdom of Spain
-- el Reino de España
+  - Spain
+  - España
+  - Espagne
+  - إسبانيا
+  - 西班牙
+  - Испания
+  - the Kingdom of Spain
+  - el Reino de España
 Languages:
-- es-ES
-- ca
-- gl
-- eu
-- oc
+  - es-ES
+  - ca
+  - gl
+  - eu
+  - oc
 icon: flag-es
 ---
 

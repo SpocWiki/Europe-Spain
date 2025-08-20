@@ -1,30 +1,29 @@
 ---
-location: [ 28.3 , -16.6 ] 
+location:
+  - 28.3
+  - -16.6
 type: geo-Region
 title: Santa_Cruz_de_Tenerife
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Santa_Cruz_de_Tenerife
-
+  - Santa_Cruz_de_Tenerife
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Santa_Cruz_de_Tenerife
