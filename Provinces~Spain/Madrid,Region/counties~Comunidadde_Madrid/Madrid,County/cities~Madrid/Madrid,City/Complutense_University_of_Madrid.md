@@ -44,7 +44,7 @@ on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wikidata_WikiProje
 coordinate_location: Point(-3.727030555 40.449038888)
 language_used: "[[_Standards/WikiData/WD~Spanish,1321]]"
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Madrid,2807]]"
-Wikidata_property: Médicos históricos doctor ID
+has_id_wikidata: Médicos históricos doctor ID
 affiliation: "[[_Standards/WikiData/WD~Europaeum,25828]]"
 country: "[[_Standards/WikiData/WD~Spain,29]]"
 inception: 1970-01-01T00:00:00Z
