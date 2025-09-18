@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Asturias
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Asturias/
 markerFolder: ./Asturias/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Segovia.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Segovia.Province/
 markerFolder: ./Segovia.Province/

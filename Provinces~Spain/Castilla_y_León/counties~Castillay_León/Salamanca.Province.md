@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Salamanca.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Salamanca.Province/
 markerFolder: ./Salamanca.Province/

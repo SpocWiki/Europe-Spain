@@ -9,7 +9,7 @@ aliases:
 ```leaflet
 id: Basque
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Basque/
 markerFolder: ./Basque/

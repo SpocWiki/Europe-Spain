@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Murcia.Region
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Murcia.Region/
 markerFolder: ./Murcia.Region/

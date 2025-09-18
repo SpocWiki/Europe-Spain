@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Valladolid.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Valladolid.Province/
 markerFolder: ./Valladolid.Province/

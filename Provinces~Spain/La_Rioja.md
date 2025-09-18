@@ -32,7 +32,7 @@ expiryDate:
 ```leaflet
 id: La_Rioja
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./La_Rioja/
 markerFolder: ./La_Rioja/

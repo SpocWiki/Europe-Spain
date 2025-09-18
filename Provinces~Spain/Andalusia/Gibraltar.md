@@ -184,7 +184,7 @@ Dewey_Decimal_Classification: 2--4689
 ```leaflet
 id: Gibraltar
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Gibraltar/
 markerFolder: ./Gibraltar/

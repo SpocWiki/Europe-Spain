@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Ciudad_Real.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Ciudad_Real.Province/
 markerFolder: ./Ciudad_Real.Province/

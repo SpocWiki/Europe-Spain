@@ -34,7 +34,7 @@ expiryDate:
 ```leaflet
 id: Madrid.Region
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Madrid.Region/
 markerFolder: ./Madrid.Region/

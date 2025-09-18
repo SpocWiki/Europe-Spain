@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Lérida.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Lérida.Province/
 markerFolder: ./Lérida.Province/

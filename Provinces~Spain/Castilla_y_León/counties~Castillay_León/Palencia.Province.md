@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Palencia.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Palencia.Province/
 markerFolder: ./Palencia.Province/

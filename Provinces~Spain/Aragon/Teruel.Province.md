@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Teruel.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Teruel.Province/
 markerFolder: ./Teruel.Province/

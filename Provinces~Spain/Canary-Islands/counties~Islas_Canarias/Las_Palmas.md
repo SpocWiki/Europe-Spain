@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Las_Palmas
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Las_Palmas/
 markerFolder: ./Las_Palmas/

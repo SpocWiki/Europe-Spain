@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Ávila.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Ávila.Province/
 markerFolder: ./Ávila.Province/

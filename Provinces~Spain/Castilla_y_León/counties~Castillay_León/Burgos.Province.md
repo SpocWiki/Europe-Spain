@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Burgos.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Burgos.Province/
 markerFolder: ./Burgos.Province/

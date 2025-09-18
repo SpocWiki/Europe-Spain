@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Zamora.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Zamora.Province/
 markerFolder: ./Zamora.Province/

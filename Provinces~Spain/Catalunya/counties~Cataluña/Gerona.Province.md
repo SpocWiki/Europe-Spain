@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Gerona.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Gerona.Province/
 markerFolder: ./Gerona.Province/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Soria.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Soria.Province/
 markerFolder: ./Soria.Province/

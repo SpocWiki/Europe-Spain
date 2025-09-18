@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Cádiz.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Cádiz.Province/
 markerFolder: ./Cádiz.Province/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Santa_Cruz_de_Tenerife
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Santa_Cruz_de_Tenerife/
 markerFolder: ./Santa_Cruz_de_Tenerife/

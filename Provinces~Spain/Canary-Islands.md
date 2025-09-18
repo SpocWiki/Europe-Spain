@@ -15,7 +15,7 @@ has_id_wikidata: Q5813
 ```leaflet
 id: Canary-Islands
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Canary~Islands/
 markerFolder: ./Canary~Islands/

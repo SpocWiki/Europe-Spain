@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Orense.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Orense.Province/
 markerFolder: ./Orense.Province/

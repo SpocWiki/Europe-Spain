@@ -257,7 +257,7 @@ official_name:
 ```leaflet
 id: Catalunya
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Catalunya/
 markerFolder: ./Catalunya/

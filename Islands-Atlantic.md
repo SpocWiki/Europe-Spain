@@ -7,7 +7,7 @@
 ```leaflet
 id: Islands-Atlantic
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Islands-Atlantic//
 markerFolder: ./Islands-Atlantic/

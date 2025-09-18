@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Pontevedra.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Pontevedra.Province/
 markerFolder: ./Pontevedra.Province/
