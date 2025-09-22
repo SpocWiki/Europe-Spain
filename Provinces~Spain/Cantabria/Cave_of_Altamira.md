@@ -21,7 +21,7 @@ heritage_designation:
 coordinate_location:
   - Point(-4.11667 43.38333)
   - Point(-4.11975 43.376944444)
-inception: -13000-01-01T00:00:00Z
+inception: -13000-06
 location: "[[_Standards/WikiData/WD~Spain,29]]"
 country: "[[_Standards/WikiData/WD~Spain,29]]"
 continent: "[[_Standards/WikiData/WD~Europe,46]]"
