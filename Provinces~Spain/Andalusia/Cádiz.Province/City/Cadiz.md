@@ -12,6 +12,9 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Cadiz]] 
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::-6.2] 
@@ -23,6 +26,8 @@ Country :: [[Spain]]
 [Population::] 
 [Unknown::] 
 
+
+## #has_/map  
 
 ```leaflet
 id: Cadiz
