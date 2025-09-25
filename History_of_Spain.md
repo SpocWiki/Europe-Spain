@@ -1,6 +1,7 @@
 ---
 aliases:
-  - history of Spain
+  - history of Spain 
+  - History_of_Spain 
 has_id_wikidata: Q7781
 topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Spain,10522852]]"
 instance_of:
