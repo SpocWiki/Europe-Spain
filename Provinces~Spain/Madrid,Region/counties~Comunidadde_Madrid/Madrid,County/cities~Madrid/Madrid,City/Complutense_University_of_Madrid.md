@@ -4,6 +4,8 @@ aliases:
   - Universidad Complutense de Madrid
   - Universitas Complutensis Matritensis
 has_id_wikidata: Q219694
+location: [40.449038888, -3.727030555]
+coordinate_location: Point(-3.727030555 40.449038888)
 Wolfram_Language_entity_code: Entity["University", "UniversidadComplutenseDeMadrid::s78t5"]
 EU_VAT_number: ESQ2818014I
 domain_name: ucm.es
@@ -41,10 +43,8 @@ headquarters_location: "[[_Standards/WikiData/WD~Rectorado_de_la_UCM,28540102]]"
 position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Rector_of_the_Complutense_University_of_Madrid,47504279]]"
 has_part_s_: "[[_Standards/WikiData/WD~Instituto_del_Teatro_de_Madrid,51790620]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wikidata_WikiProject_Academic_Publisher,117222928]]"
-coordinate_location: Point(-3.727030555 40.449038888)
 language_used: "[[_Standards/WikiData/WD~Spanish,1321]]"
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Madrid,2807]]"
-has_id_wikidata: Médicos históricos doctor ID
 affiliation: "[[_Standards/WikiData/WD~Europaeum,25828]]"
 country: "[[_Standards/WikiData/WD~Spain,29]]"
 inception: 1970-01-01T00:00:00Z

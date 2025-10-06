@@ -250,6 +250,8 @@ aliases:
   - Madrid City
 ---
 
+# [[Madrid,City]] 
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::-3.69] 
@@ -261,14 +263,32 @@ Country :: [[Spain]]
 [Population::] 
 [Unknown::] 
 
+#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Madrid,2807|WD~Madrid,2807]] 
+
+## #has_/text_of_/abstract  
 
 ```leaflet
-id: Madrid
-coordinates: [[Madrid]] 
-markerFile: [[Madrid]] 
+id: Madrid,City
+coordinates: [[Madrid,City]] 
+markerFile: [[Madrid,City]] 
+geojsonFolder: ./Madrid,City/
+markerFolder: ./Madrid,City/
+minZoom: 2 
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+## #has_/text_of_/abstract 
+
+> **Madrid** (  mə-DREED; Spanish: [maˈðɾið] ) is the capital and most populous municipality of Spain. Madrid has almost 3.3 million inhabitants and a metropolitan area population of approximately 6.8 million. It is the second-largest city in the European Union (EU), second only to Berlin, Germany, and its metropolitan area is the second-largest in the EU. The municipality covers 604.3 km2 (233.3 sq mi) geographical area. Madrid lies on the River Manzanares in the central part of the Iberian Peninsula at about 650 m (2,130 ft) above mean sea level. The capital city of both Spain and the surrounding autonomous community of Madrid, it is the political, economic, and cultural centre of the country. 
+>
+> The primitive core of Madrid, a walled military outpost, dates back to the late 9th century, under the Emirate of Córdoba. Conquered by Christians in 1083 or 1085, it consolidated in the Late Middle Ages as a sizeable town of the Crown of Castile. The development of Madrid as an administrative centre was fostered after 1561, as it became the permanent seat of the court of the Hispanic Monarchy. The following centuries were characterized by the reinforcement of Madrid's status within the framework of a centralized form of state-building. 
+>
+> The Madrid urban agglomeration has the second-largest GDP in the European Union. Madrid is ranked as an alpha world city by the Globalization and World Cities Research Network. The metropolitan area hosts major Spanish companies such as Telefónica, Iberia, BBVA and FCC. It concentrates the bulk of banking operations in Spain and it is the Spanish-speaking city generating the largest number of webpages. Madrid houses the headquarters of  UN Tourism, the Ibero-American General Secretariat (SEGIB), the Organization of Ibero-American States (OEI), and the Public Interest Oversight Board (PIOB). Pursuant to the standardizing role of the Royal Spanish Academy, Madrid is a centre for Spanish linguistic prescriptivism. Madrid organises fairs such as FITUR, ARCO, SIMO TCI and the Madrid Fashion Week. Madrid is home to football clubs Real Madrid and Atlético Madrid.
+>
+> Its landmarks include the Plaza Mayor; the Royal Palace of Madrid; the Royal Theatre with its restored 1850 Opera House; the Buen Retiro Park, founded in 1631; the 19th-century National Library building containing some of Spain's historical archives; many national museums; and the Golden Triangle of Art, located along the Paseo del Prado and comprising three art museums: Prado Museum, the Reina Sofía Museum, a museum of modern art, and the Thyssen-Bornemisza Museum, which complements the holdings of the other two museums. The mayor is José Luis Martínez-Almeida from the People's Party.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Madrid) 
 
 
 ## Confidential Links & Embeds: 
