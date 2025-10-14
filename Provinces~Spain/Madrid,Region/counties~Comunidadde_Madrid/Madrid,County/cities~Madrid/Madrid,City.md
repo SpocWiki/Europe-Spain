@@ -261,7 +261,7 @@ State ::
 Country :: [[Spain]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../../../WikiData/WD~Madrid,2807|WD~Madrid,2807]] 
 

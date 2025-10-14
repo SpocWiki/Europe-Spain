@@ -24,7 +24,7 @@ State ::
 Country :: [[Spain]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Guadalajara,9022|WD~Guadalajara,9022]] 
 

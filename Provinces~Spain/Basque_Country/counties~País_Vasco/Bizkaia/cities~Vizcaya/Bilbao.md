@@ -128,7 +128,7 @@ State ::
 Country :: [[Spain]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[_Standards/WikiData/WD~Bilbao,8692]] 
 
