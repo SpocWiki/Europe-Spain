@@ -39,7 +39,7 @@ owner_of:
 instance_of: "[[_Standards/WikiData/WD~public_university,875538]]"
 child_organization_unit: "[[_Standards/WikiData/WD~Centro_Universitario_Villanueva,7894257]]"
 rector: "[[_Standards/WikiData/WD~Joaquín_Goyache_Goñi,21337463]]"
-headquarters_location: "[[_Standards/WikiData/WD~Rectorado_de_la_UCM,28540102]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Rectorado_de_la_UCM,28540102]]"
 position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Rector_of_the_Complutense_University_of_Madrid,47504279]]"
 has_part_s_: "[[_Standards/WikiData/WD~Instituto_del_Teatro_de_Madrid,51790620]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wikidata_WikiProject_Academic_Publisher,117222928]]"

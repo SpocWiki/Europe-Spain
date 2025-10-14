@@ -10,7 +10,7 @@ has_works_in_the_collection: "[[_Standards/WikiData/WD~J._Paul_Getty_Museum,7311
 part_of: "[[_Standards/WikiData/WD~Solomon_R._Guggenheim_Foundation,1143822]]"
 operator: "[[_Standards/WikiData/WD~Solomon_R._Guggenheim_Foundation,1143822]]"
 owned_by: "[[_Standards/WikiData/WD~Solomon_R._Guggenheim_Foundation,1143822]]"
-location: "[[_Standards/WikiData/WD~Abando,1750189]]"
+locations: "[[_Standards/WikiData/WD~Abando,1750189]]"
 award_received: "[[_Standards/WikiData/WD~Gold_Medal_of_Merit_in_the_Fine_Arts,3753203]]"
 significant_event: "[[_Standards/WikiData/WD~construction,3875186]]"
 instance_of:

@@ -122,7 +122,7 @@ birth_name: Francisco Paulino Hermenegildo Teódulo Franco Bahamonde
 name_in_native_language: Francisco Franco Bahamonde
 work_period_start_: 1907-01-01T00:00:00Z
 place_of_death: "[[_Standards/WikiData/WD~Madrid,2807]]"
-work_location: "[[_Standards/WikiData/WD~Madrid,2807]]"
+work_locations: "[[_Standards/WikiData/WD~Madrid,2807]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~Spain,29]]"
 height: 1.63
