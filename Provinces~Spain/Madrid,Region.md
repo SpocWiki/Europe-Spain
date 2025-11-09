@@ -3,7 +3,7 @@ location:
   - 40.5
   - -3.8
 type: geo-Region
-title: Madrid.Region
+title: Madrid,Region
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
@@ -13,7 +13,7 @@ confidential: public
 tags:
   - geo/Country/Region
 aliases:
-  - Madrid.Region
+  - Madrid,Region
   - Madrid Region
   - Region Madrid
   - Madrid
@@ -29,15 +29,20 @@ publishDate:
 expiryDate:
 ---
 
-# Madrid.Region
+# [[Madrid,Region]]
+
+## #has_/map 
 
 ```leaflet
-id: Madrid.Region
+id: Madrid,Region
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Madrid.Region/
-markerFolder: ./Madrid.Region/
+geojsonFolder: ./Madrid,Region/
+markerFolder: ./Madrid,Region/
+coordinates: [[Madrid,Region]] 
+markerFile: [[Madrid,Region]] 
+defaultZoom: 11 
 ```
 
 
