@@ -37,7 +37,7 @@ different_from:
 coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Gibraltar,475471]]"
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~Chief_Minister_of_Gibraltar,585760]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
   - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"

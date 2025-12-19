@@ -38,7 +38,7 @@ mother: "[[_Standards/WikiData/WD~Isabella_of_Portugal,470403]]"
 owner_of: "[[_Standards/WikiData/WD~Alcázar_of_Segovia,557337]]"
 influenced_by: "[[_Standards/WikiData/WD~Juan_Rodríguez_Fonseca,590682]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
