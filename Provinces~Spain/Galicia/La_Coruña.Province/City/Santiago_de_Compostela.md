@@ -1,16 +1,20 @@
 ---
-location: [42.88,-8.54] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Santiago_de_Compostela
+  - Santiago de Compostela
+location:
+  - 42.88
+  - -8.54
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33947
 isDeleted: false
 confidential: public
-
 ---
 
 # [[Santiago_de_Compostela]] 

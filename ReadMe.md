@@ -1,8 +1,18 @@
 ---
-title: Spain
-linkTitle:
-type: Country
+aliases:
+  - Spain
+  - España
+  - Espagne
+  - إسبانيا
+  - 西班牙
+  - Испания
+  - the Kingdom of Spain
+  - el Reino de España
+  - ReadMe
 has_id_wikidata: Q29
+title: Spain
+linkTitle: ''
+type: Country
 location:
   - 40.0911
   - -2.86673
@@ -17,20 +27,11 @@ source: https://datahub.io/core/country-codes
 cssclasses:
   - Country
 publish: true
-keywords:
-layout:
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Spain
-  - España
-  - Espagne
-  - إسبانيا
-  - 西班牙
-  - Испания
-  - the Kingdom of Spain
-  - el Reino de España
+publishDate: ''
+expiryDate: ''
 Languages:
   - es-ES
   - ca

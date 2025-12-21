@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Huesca.Province
+  - Huesca,Province
 location:
   - 42.1
   - 0
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Huesca.Province
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Huesca.Province

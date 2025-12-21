@@ -1,19 +1,21 @@
 ---
-location: [41.65,-0.9] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Saragossa
+  - ''
+  - Zaragoza
+location:
+  - 41.65
+  - -0.9
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33950
 isDeleted: false
 confidential: public
-
-aliases:
-- Saragossa
-- 
 ---
 
 #is_a_/Place  

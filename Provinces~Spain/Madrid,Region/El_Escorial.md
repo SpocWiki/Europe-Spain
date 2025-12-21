@@ -3,70 +3,74 @@ aliases:
   - Royal Site of San Lorenzo de El Escorial
   - Monasterio y Sitio de El Escorial en Madrid
   - Monasterio de El Escorial
+  - El_Escorial
+  - El Escorial
 has_id_wikidata: Q28471
-location: [ 40.589167, -4.147778]
+location:
+  - 40.589167
+  - -4.147778
 coordinate_location: Point(-4.147778 40.589167)
 inception: 1563-01-01T00:00:00Z
 Commons_Institution_page: Monasterio de San Lorenzo, El Escorial
 Commons_category: Monastery of San Lorenzo de El Escorial
 Asset_of_cultural_interest_code: RI-51-0001064
 native_label: Real Monasterio de San Lorenzo de El Escorial
-architectural_style: "[[_Standards/WikiData/WD~Renaissance_architecture,236122]]"
-diocese: "[[_Standards/WikiData/WD~Roman_Catholic_Archdiocese_of_Madrid,261490]]"
+architectural_style: '[[_Standards/WikiData/WD~Renaissance_architecture,236122]]'
+diocese: '[[_Standards/WikiData/WD~Roman_Catholic_Archdiocese_of_Madrid,261490]]'
 religious_order:
-  - "[[_Standards/WikiData/WD~Piarists,273894]]"
-  - "[[_Standards/WikiData/WD~Order_of_Saint_Jerome,1474312]]"
-  - "[[_Standards/WikiData/WD~Order_of_St._Augustine,29075]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~San_Lorenzo_de_El_Escorial,371748]]"
+  - '[[_Standards/WikiData/WD~Piarists,273894]]'
+  - '[[_Standards/WikiData/WD~Order_of_Saint_Jerome,1474312]]'
+  - '[[_Standards/WikiData/WD~Order_of_St._Augustine,29075]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~San_Lorenzo_de_El_Escorial,371748]]'
 has_use:
-  - "[[_Standards/WikiData/WD~library_building,856584]]"
-  - "[[_Standards/WikiData/WD~museum_building,24699794]]"
-  - "[[_Standards/WikiData/WD~royal_palace,53536964]]"
-  - "[[_Standards/WikiData/WD~school,3914]]"
-  - "[[_Standards/WikiData/WD~hospital,16917]]"
-  - "[[_Standards/WikiData/WD~monastery,44613]]"
+  - '[[_Standards/WikiData/WD~library_building,856584]]'
+  - '[[_Standards/WikiData/WD~museum_building,24699794]]'
+  - '[[_Standards/WikiData/WD~royal_palace,53536964]]'
+  - '[[_Standards/WikiData/WD~school,3914]]'
+  - '[[_Standards/WikiData/WD~hospital,16917]]'
+  - '[[_Standards/WikiData/WD~monastery,44613]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Sechster_Band,130477825]]"
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Sechster_Band,130477825]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Monument_(Spain),907116]]"
-  - "[[_Standards/WikiData/WD~royal_palace,53536964]]"
-  - "[[_Standards/WikiData/WD~Roman_Catholic_monastery,132296770]]"
-different_from: "[[_Standards/WikiData/WD~El_Escorial,985269]]"
+  - '[[_Standards/WikiData/WD~Monument_(Spain),907116]]'
+  - '[[_Standards/WikiData/WD~royal_palace,53536964]]'
+  - '[[_Standards/WikiData/WD~Roman_Catholic_monastery,132296770]]'
+different_from: '[[_Standards/WikiData/WD~El_Escorial,985269]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Royal_Crypt_of_the_Royal_Monastery_of_San_Lorenzo_de_El_Escorial,1424085]]"
-  - "[[_Standards/WikiData/WD~Pantheon_of_the_Infantes_of_the_Royal_Monastery_of_San_Lorenzo_de_El_Escorial,3893448]]"
-  - "[[_Standards/WikiData/WD~Royal_Basilica_of_San_Lorenzo_de_El_Escorial,8243751]]"
-  - "[[_Standards/WikiData/WD~Gardens_of_the_Monastery_of_San_Lorenzo_de_El_Escorial,43166623]]"
-  - "[[_Standards/WikiData/WD~Royal_Monastery_of_San_Lorenzo_de_El_Escorial_Art_Gallery,115951232]]"
-  - "[[_Standards/WikiData/WD~Library_room_of_the_Monastery_of_San_Lorenzo_de_El_Escorial,132343750]]"
+  - '[[_Standards/WikiData/WD~Royal_Crypt_of_the_Royal_Monastery_of_San_Lorenzo_de_El_Escorial,1424085]]'
+  - '[[_Standards/WikiData/WD~Pantheon_of_the_Infantes_of_the_Royal_Monastery_of_San_Lorenzo_de_El_Escorial,3893448]]'
+  - '[[_Standards/WikiData/WD~Royal_Basilica_of_San_Lorenzo_de_El_Escorial,8243751]]'
+  - '[[_Standards/WikiData/WD~Gardens_of_the_Monastery_of_San_Lorenzo_de_El_Escorial,43166623]]'
+  - '[[_Standards/WikiData/WD~Royal_Monastery_of_San_Lorenzo_de_El_Escorial_Art_Gallery,115951232]]'
+  - '[[_Standards/WikiData/WD~Library_room_of_the_Monastery_of_San_Lorenzo_de_El_Escorial,132343750]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Patrimonio_Nacional,1891189]]"
-  - "[[_Standards/WikiData/WD~Monastery_and_Site_of_the_Escurial,_Madrid,5821857]]"
-owned_by: "[[_Standards/WikiData/WD~Patrimonio_Nacional,1891189]]"
-maintained_by: "[[_Standards/WikiData/WD~Patrimonio_Nacional,1891189]]"
-locations: "[[_Standards/WikiData/WD~San_Lorenzo_de_El_Escorial,31923752]]"
-category_of_associated_people: "[[_Standards/WikiData/WD~Q32659145,32659145]]"
-category_for_people_born_here: "[[_Standards/WikiData/WD~Q32660057,32660057]]"
+  - '[[_Standards/WikiData/WD~Patrimonio_Nacional,1891189]]'
+  - '[[_Standards/WikiData/WD~Monastery_and_Site_of_the_Escurial,_Madrid,5821857]]'
+owned_by: '[[_Standards/WikiData/WD~Patrimonio_Nacional,1891189]]'
+maintained_by: '[[_Standards/WikiData/WD~Patrimonio_Nacional,1891189]]'
+locations: '[[_Standards/WikiData/WD~San_Lorenzo_de_El_Escorial,31923752]]'
+category_of_associated_people: '[[_Standards/WikiData/WD~Q32659145,32659145]]'
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q32660057,32660057]]'
 heritage_designation:
-  - "[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623]]"
-  - "[[_Standards/WikiData/WD~Bien_de_Interés_Cultural,23712]]"
-occupant: "[[_Standards/WikiData/WD~Alfonso_XII_Royal_College,108284697]]"
-located_in_the_religious_territorial_entity: "[[_Standards/WikiData/WD~archpriesthood_of_San_Lorenzo_de_El_Escorial,130736353]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholicism,1841]]"
-patron_saint: "[[_Standards/WikiData/WD~Lawrence_of_Rome,17590]]"
-named_after: "[[_Standards/WikiData/WD~Lawrence_of_Rome,17590]]"
-dedicated_to: "[[_Standards/WikiData/WD~Lawrence_of_Rome,17590]]"
-country: "[[_Standards/WikiData/WD~Spain,29]]"
-founded_by: "[[_Standards/WikiData/WD~Philip_II_of_Spain,34417]]"
-commissioned_by: "[[_Standards/WikiData/WD~Philip_II_of_Spain,34417]]"
+  - '[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623]]'
+  - '[[_Standards/WikiData/WD~Bien_de_Interés_Cultural,23712]]'
+occupant: '[[_Standards/WikiData/WD~Alfonso_XII_Royal_College,108284697]]'
+located_in_the_religious_territorial_entity: '[[_Standards/WikiData/WD~archpriesthood_of_San_Lorenzo_de_El_Escorial,130736353]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
+patron_saint: '[[_Standards/WikiData/WD~Lawrence_of_Rome,17590]]'
+named_after: '[[_Standards/WikiData/WD~Lawrence_of_Rome,17590]]'
+dedicated_to: '[[_Standards/WikiData/WD~Lawrence_of_Rome,17590]]'
+country: '[[_Standards/WikiData/WD~Spain,29]]'
+founded_by: '[[_Standards/WikiData/WD~Philip_II_of_Spain,34417]]'
+commissioned_by: '[[_Standards/WikiData/WD~Philip_II_of_Spain,34417]]'
 area: 94
 width: 152
 length: 192.5
@@ -78,7 +82,7 @@ aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Vista%20aerea%20
 image_of_entrance: http://commons.wikimedia.org/wiki/Special:FilePath/WLM14ES%20-%20CS%2006072007%20%5E164902%20%5E17526%20-%20.jpg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20El%20Escorial.jpg
 official_website: https://entradas.patrimonionacional.es/es-ES/comprar-entradas-palacios-reales-monasterios
-ISNI: "0000000417657439"
+ISNI: 0000000417657439
 ---
 
 # [[El_Escorial]] 

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Zaragoza.Province
+  - Zaragoza,Province
 location:
   - 41.8
   - -1.2
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Zaragoza.Province
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Zaragoza.Province

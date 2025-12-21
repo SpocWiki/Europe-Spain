@@ -1,16 +1,20 @@
 ---
-location: [43.37,-8.4] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - La_Coruna
+  - La Coruna
+location:
+  - 43.37
+  - -8.4
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31764
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

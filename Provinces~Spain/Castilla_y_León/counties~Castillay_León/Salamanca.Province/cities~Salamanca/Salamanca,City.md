@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Salamanca,City
+has_id_wikidata: Q156954
 location:
   - 40.97
   - -5.67
@@ -12,7 +15,6 @@ tags:
 SpocWebEntityId: 33878
 isDeleted: false
 confidential: public
-has_id_wikidata: Q156954
 ---
 
 # [[Salamanca,City]] 

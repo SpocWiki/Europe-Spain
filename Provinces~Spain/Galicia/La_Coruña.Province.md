@@ -1,4 +1,7 @@
 ---
+aliases:
+  - La_Coruña.Province
+  - La Coruña.Province
 location:
   - 43.2
   - -8.6
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - La_Coruña.Province
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # La_Coruña.Province

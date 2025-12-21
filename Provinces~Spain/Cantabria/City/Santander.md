@@ -1,16 +1,19 @@
 ---
-location: [43.47,-3.7] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Santander
+location:
+  - 43.47
+  - -3.7
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33944
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

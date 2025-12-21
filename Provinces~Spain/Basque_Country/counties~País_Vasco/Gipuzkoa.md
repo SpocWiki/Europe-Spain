@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Gipuzkoa
+  - Guipúzcoa
 location:
   - 43.2
   - -2.2
@@ -12,19 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Gipuzkoa
-  - Guipúzcoa
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Gipuzkoa

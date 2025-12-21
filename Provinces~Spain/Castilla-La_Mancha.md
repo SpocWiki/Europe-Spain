@@ -1,6 +1,7 @@
 ---
 aliases:
   - Castilla-La Mancha
+  - Castilla-La_Mancha
 ---
 
 ```leaflet

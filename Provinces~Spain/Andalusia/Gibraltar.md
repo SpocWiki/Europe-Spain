@@ -1,6 +1,7 @@
 ---
 aliases:
   - Gibraltar
+has_id_wikidata: Q1410
 location:
   - 36.13
   - -5.35
@@ -19,12 +20,11 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
-has_id_wikidata: Q1410
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
 legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Gibraltar,128852]]"
 located_in_or_next_to_body_of_water:
   - "[[_Standards/WikiData/WD~Alboran_Sea,199408]]"

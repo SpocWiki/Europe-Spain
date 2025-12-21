@@ -1,16 +1,19 @@
 ---
-location: [42.77,-9.05] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Muros
+location:
+  - 42.77
+  - -9.05
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32635
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

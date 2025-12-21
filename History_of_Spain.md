@@ -1,20 +1,21 @@
 ---
 aliases:
-  - history of Spain 
-  - History_of_Spain 
+  - history of Spain
+  - History_of_Spain
+  - History of Spain
 has_id_wikidata: Q7781
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Spain,10522852]]"
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Spain,10522852]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Vierter_Band,129249812]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]"
-part_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
-subclass_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
-facet_of: "[[_Standards/WikiData/WD~Spain,29]]"
-country: "[[_Standards/WikiData/WD~Spain,29]]"
-Dewey_Decimal_Classification: "946"
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Vierter_Band,129249812]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]'
+part_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
+facet_of: '[[_Standards/WikiData/WD~Spain,29]]'
+country: '[[_Standards/WikiData/WD~Spain,29]]'
+Dewey_Decimal_Classification: 946
 Commons_category: History of Spain
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Atlas%20Van%20der%20Hagen-KW1049B12%20002-HISPANIAE%20ET%20PORTUGALIAE%20REGNA.jpeg
 ---

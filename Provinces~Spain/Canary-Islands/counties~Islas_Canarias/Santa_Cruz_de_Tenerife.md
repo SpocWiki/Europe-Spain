@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Santa_Cruz_de_Tenerife
+  - Santa Cruz de Tenerife
 location:
   - 28.3
   - -16.6
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Santa_Cruz_de_Tenerife
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Santa_Cruz_de_Tenerife

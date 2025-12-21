@@ -4,6 +4,7 @@ aliases:
   - Canary Islands
   - Kanarische Inseln
   - Kanarischen Inseln
+  - Canary-Islands
 has_id_wikidata: Q5813
 ---
 # [[Canary-Islands]]

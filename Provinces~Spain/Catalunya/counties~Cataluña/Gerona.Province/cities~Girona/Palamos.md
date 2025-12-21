@@ -1,16 +1,19 @@
 ---
-location: [41.85,3.08] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Palamos
+location:
+  - 41.85
+  - 3.08
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33218
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

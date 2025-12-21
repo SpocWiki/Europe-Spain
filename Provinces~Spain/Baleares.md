@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Baleares
+  - Islas_Baleares
+  - Balearic Islands
+  - Balearen
 location:
   - 39.6
   - 2.9
@@ -12,21 +17,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Baleares
-  - Islas_Baleares
-  - Balearic Islands
-  - Balearen
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Baleares

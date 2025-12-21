@@ -1,16 +1,19 @@
 ---
-location: [36.47,-6.2] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Cadiz
+location:
+  - 36.47
+  - -6.2
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29444
 isDeleted: false
 confidential: public
-
 ---
 
 # [[Cadiz]] 

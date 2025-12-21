@@ -1,16 +1,19 @@
 ---
-location: [39.9,4.25] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Mahon
+location:
+  - 39.9
+  - 4.25
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32218
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

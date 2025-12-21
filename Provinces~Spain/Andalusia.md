@@ -1,6 +1,7 @@
 ---
 aliases:
   - Andalucía
+  - Andalusia
 ---
 # Andalusia
  

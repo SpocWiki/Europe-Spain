@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Madrid,Region
+  - Madrid Region
+  - Region Madrid
+  - Madrid
 location:
   - 40.5
   - -3.8
@@ -12,21 +17,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Madrid,Region
-  - Madrid Region
-  - Region Madrid
-  - Madrid
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Madrid,Region]]

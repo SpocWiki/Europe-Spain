@@ -1,16 +1,20 @@
 ---
-location: [43.33,-1.97] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - San_Sebastian
+  - San Sebastian
+location:
+  - 43.33
+  - -1.97
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33922
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

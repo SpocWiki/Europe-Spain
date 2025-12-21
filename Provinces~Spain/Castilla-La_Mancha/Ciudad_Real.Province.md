@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Ciudad_Real.Province
+  - Ciudad Real.Province
 location:
   - 39
   - -3.9
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Ciudad_Real.Province
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Ciudad_Real.Province

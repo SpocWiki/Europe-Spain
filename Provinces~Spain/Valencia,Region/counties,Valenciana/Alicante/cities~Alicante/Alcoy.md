@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Alcoia
+  - Alcoy
 location:
   - 38.35
   - -0.5
@@ -12,8 +15,6 @@ tags:
 SpocWebEntityId: 28721
 isDeleted: false
 confidential: public
-aliases:
-  - Alcoia
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

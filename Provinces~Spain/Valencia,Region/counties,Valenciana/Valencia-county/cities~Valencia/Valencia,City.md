@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Valencia,City
+has_id_wikidata: Q8818
 location:
   - 39.47
   - -0.38
@@ -12,7 +15,6 @@ tags:
 SpocWebEntityId: 35173
 isDeleted: false
 confidential: public
-has_id_wikidata: Q8818
 ---
 
 # [[Valencia,City]] 

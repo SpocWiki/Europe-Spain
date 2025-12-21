@@ -2,6 +2,7 @@
 aliases:
   - Ceuta_and_Melilla
   - Ceuta y Melilla
+  - Ceuta_y_Melilla
 ---
 
 - [Spain](https://en.wikipedia.org/wiki/Spain "Spain")'s two [autonomous cities](https://en.wikipedia.org/wiki/Autonomous_cities_of_Spain "Autonomous cities of Spain"), [Ceuta](https://en.wikipedia.org/wiki/Ceuta "Ceuta") and [Melilla](https://en.wikipedia.org/wiki/Melilla "Melilla"), which are often referred to together

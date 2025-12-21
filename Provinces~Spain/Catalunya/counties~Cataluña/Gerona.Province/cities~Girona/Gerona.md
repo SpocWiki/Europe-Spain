@@ -1,16 +1,19 @@
 ---
-location: [41.98,2.82] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Gerona
+location:
+  - 41.98
+  - 2.82
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30432
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

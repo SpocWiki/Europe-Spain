@@ -3,6 +3,7 @@ aliases:
   - Valencian Community
   - Valencia Region
   - Region Valencia
+  - Valencia,Region
 ---
 # [[Valencia,Region]]
 

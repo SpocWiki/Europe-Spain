@@ -1,6 +1,7 @@
 ---
 aliases:
   - Aragón
+  - Aragon
 ---
 # [[Aragon]] 
 

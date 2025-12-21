@@ -3,6 +3,7 @@ aliases:
   - País_Vasco
   - Basque Country
   - Baskenland
+  - Basque_Country
 ---
 # [[Basque_Country]] 
 

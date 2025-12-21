@@ -1,16 +1,19 @@
 ---
-location: [43.48,-8.23] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Ferrol
+location:
+  - 43.48
+  - -8.23
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30157
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

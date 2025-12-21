@@ -1,16 +1,19 @@
 ---
-location: [43.38,-5.87] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Oviedo
+location:
+  - 43.38
+  - -5.87
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33200
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -2,6 +2,8 @@
 aliases:
   - Santiago de Compostela Archcathedral Basilica
   - Catedral Basílica de Santiago de Compostela
+  - Cathedral_of_Santiago_de_Compostela
+  - Cathedral of Santiago de Compostela
 has_id_wikidata: Q205136
 ---
 

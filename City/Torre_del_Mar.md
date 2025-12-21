@@ -1,16 +1,20 @@
 ---
-location: [36.72,-4.1] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Torre_del_Mar
+  - Torre del Mar
+location:
+  - 36.72
+  - -4.1
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34920
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

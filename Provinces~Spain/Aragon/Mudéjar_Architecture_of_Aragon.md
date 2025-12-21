@@ -2,16 +2,18 @@
 aliases:
   - Mudéjar architecture of Aragon
   - Mudéjar architecture
+  - Mudéjar_Architecture_of_Aragon
+  - Mudéjar Architecture of Aragon
 has_id_wikidata: Q764675
 subclass_of:
-  - "[[_Standards/WikiData/WD~Mudéjar_architecture,2860353]]"
-  - "[[_Standards/WikiData/WD~art_of_Aragon,9783625]]"
-instance_of: "[[_Standards/WikiData/WD~architectural_style_of_an_area,25484644]]"
-different_from: "[[_Standards/WikiData/WD~Mudejar_Architecture_of_Aragon,64861487]]"
-facet_of: "[[_Standards/WikiData/WD~Aragon,4040]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Aragon,4040]]"
-heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
-country: "[[_Standards/WikiData/WD~Spain,29]]"
+  - '[[_Standards/WikiData/WD~Mudéjar_architecture,2860353]]'
+  - '[[_Standards/WikiData/WD~art_of_Aragon,9783625]]'
+instance_of: '[[_Standards/WikiData/WD~architectural_style_of_an_area,25484644]]'
+different_from: '[[_Standards/WikiData/WD~Mudejar_Architecture_of_Aragon,64861487]]'
+facet_of: '[[_Standards/WikiData/WD~Aragon,4040]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Aragon,4040]]'
+heritage_designation: '[[_Standards/WikiData/WD~World_Heritage_Site,9259]]'
+country: '[[_Standards/WikiData/WD~Spain,29]]'
 Commons_category: Mudéjar architecture in Aragon
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cimborrio%20Mud%C3%A9jar%20Catedral%20de%20Teruel.png
 ---
