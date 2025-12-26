@@ -29,12 +29,15 @@ Country :: [[Spain]]
 [StateId::] 
 [Population::] 
 
-
+## #has_/map 
 
 ```leaflet
 id: Santiago de Compostela
 coordinates: [[Santiago_de_Compostela]] 
 markerFile: [[Santiago_de_Compostela]] 
+geojsonFolder: ./Santiago_de_Compostela/
+markerFolder: ./Santiago_de_Compostela/
+zoomFeatures: true
 defaultZoom: 11 
 maxZoom: 18
 ```
