@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1563-01-01 
 aliases:
   - Royal Site of San Lorenzo de El Escorial
   - Monasterio y Sitio de El Escorial en Madrid

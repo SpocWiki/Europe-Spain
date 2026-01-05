@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 0801-01-01 
 aliases:
   - Santiago de Compostela Archcathedral Basilica
   - Catedral Basílica de Santiago de Compostela

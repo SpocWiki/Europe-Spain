@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1997-10-18 
 aliases:
   - Guggenheim Museum Bilbao
   - Guggenheim Bilbao

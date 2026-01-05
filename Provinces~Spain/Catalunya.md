@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 0988-01-01 
 aliases:
   - Catalunya
   - Cataluña

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1982-08-10 
 aliases:
   - Islas_Canarias
   - Canary Islands
