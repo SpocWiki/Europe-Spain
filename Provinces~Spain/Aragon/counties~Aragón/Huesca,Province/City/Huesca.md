@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.42
 dv_has_place_latitude: 42.13
-dv_name: Huesca
+dv_has_name_: Huesca
 dv_Country: "[[../../../../../../Spain]]"
 ---
 #is_a_/Place  

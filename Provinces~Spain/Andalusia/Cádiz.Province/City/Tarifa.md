@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -5.58
 dv_has_place_latitude: 36.02
-dv_name: Tarifa
+dv_has_name_: Tarifa
 dv_Country: "[[../../../../../Spain]]"
 ---
 #is_a_/Place  

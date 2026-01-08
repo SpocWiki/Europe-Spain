@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.15
 dv_has_place_latitude: 40.08
-dv_name: Oropesa
+dv_has_name_: Oropesa
 dv_Country: "[[../../Spain]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.8
 dv_has_place_latitude: 43.37
-dv_name: Fuenterrabia
+dv_has_name_: Fuenterrabia
 dv_Country: "[[../../../../../../Spain]]"
 ---
 #is_a_/Place  

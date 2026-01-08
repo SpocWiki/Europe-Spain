@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -4.13
 dv_has_place_latitude: 40.58
-dv_name: San Lorenzo
+dv_has_name_: San Lorenzo
 dv_Country: "[[../../../../../../Spain]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.62
 dv_has_place_latitude: 38.1
-dv_name: Linares
+dv_has_name_: Linares
 dv_Country: "[[../../../../../Spain]]"
 ---
 #is_a_/Place  

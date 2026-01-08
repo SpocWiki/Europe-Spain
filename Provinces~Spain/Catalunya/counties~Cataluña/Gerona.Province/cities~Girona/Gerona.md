@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.82
 dv_has_place_latitude: 41.98
-dv_name: Gerona
+dv_has_name_: Gerona
 dv_Country: "[[../../../../../../Spain]]"
 ---
 #is_a_/Place  

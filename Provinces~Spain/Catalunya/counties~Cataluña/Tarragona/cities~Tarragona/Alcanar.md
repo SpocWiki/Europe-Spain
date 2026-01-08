@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.48
 dv_has_place_latitude: 40.55
-dv_name: Alcanar
+dv_has_name_: Alcanar
 dv_Country: "[[../../../../../../Spain]]"
 ---
 #is_a_/Place  

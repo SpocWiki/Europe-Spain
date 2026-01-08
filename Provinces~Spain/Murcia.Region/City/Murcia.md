@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.12
 dv_has_place_latitude: 37.98
-dv_name: Murcia
+dv_has_name_: Murcia
 dv_Country: "[[../../../../Spain]]"
 ---
 #is_a_/Place  

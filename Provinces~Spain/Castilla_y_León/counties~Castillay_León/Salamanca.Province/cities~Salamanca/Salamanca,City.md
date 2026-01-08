@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -5.67
 dv_has_place_latitude: 40.97
-dv_name: Salamanca
+dv_has_name_: Salamanca
 dv_Country: "[[../../../../../../Spain]]"
 dv_is_:
   same_as: "[[_Standards/WikiData/WD~Salamanca,15695]]"

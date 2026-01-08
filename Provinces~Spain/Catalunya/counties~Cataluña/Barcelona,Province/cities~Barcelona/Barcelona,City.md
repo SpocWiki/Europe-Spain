@@ -222,7 +222,7 @@ Pinterest_username: bcncat
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.17
 dv_has_place_latitude: 41.4
-dv_name: Barcelona
+dv_has_name_: Barcelona
 dv_is_:
   same_as: "[[../../../../../../../../../../WikiData/WD~Barcelona,1492|WD~Barcelona,1492]]"
 dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Barcelona,1492|WD~Barcelona,1492]]"

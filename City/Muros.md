@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -9.05
 dv_has_place_latitude: 42.77
-dv_name: Muros
+dv_has_name_: Muros
 dv_Country: "[[../../Spain]]"
 ---
 #is_a_/Place  

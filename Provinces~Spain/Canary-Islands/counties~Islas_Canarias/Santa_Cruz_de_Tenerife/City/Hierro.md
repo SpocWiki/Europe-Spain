@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -18
 dv_has_place_latitude: 27.75
-dv_name: Hierro
+dv_has_name_: Hierro
 dv_Country: "[[../../../../../../Spain]]"
 ---
 #is_a_/Place  

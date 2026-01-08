@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -8.23
 dv_has_place_latitude: 43.48
-dv_name: Ferrol
+dv_has_name_: Ferrol
 dv_Country: "[[../../Spain]]"
 ---
 #is_a_/Place  

@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.5
 dv_has_place_latitude: 38.35
-dv_name: Alcoy
+dv_has_name_: Alcoy
 dv_Country: "[[../../../../../../Spain]]"
 ---
 #is_a_/Place  

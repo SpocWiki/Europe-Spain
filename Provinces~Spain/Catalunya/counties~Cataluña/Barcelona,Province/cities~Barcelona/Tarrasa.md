@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.02
 dv_has_place_latitude: 41.57
-dv_name: Tarrasa
+dv_has_name_: Tarrasa
 dv_Country: "[[../../../../../../Spain]]"
 ---
 #is_a_/Place  

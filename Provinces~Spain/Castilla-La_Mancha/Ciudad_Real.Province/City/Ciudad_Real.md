@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.93
 dv_has_place_latitude: 38.98
-dv_name: Ciudad Real
+dv_has_name_: Ciudad Real
 dv_Country: "[[../../../../../Spain]]"
 ---
 #is_a_/Place  

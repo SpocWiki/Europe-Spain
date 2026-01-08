@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.65
 dv_has_place_latitude: 39.57
-dv_name: Palma~Mallorca
+dv_has_name_: Palma~Mallorca
 dv_Country: "[[../../../../../../Spain]]"
 ---
 #is_a_/Place  

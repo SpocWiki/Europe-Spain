@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -8.75
 dv_has_place_latitude: 42.12
-dv_name: Gondomar
+dv_has_name_: Gondomar
 dv_Country: "[[../../../../../Spain]]"
 ---
 #is_a_/Place  

@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.68
 dv_has_place_latitude: 41.67
-dv_name: Aranda de Duero
+dv_has_name_: Aranda de Duero
 dv_Country: "[[../../../../../../Spain]]"
 ---
 #is_a_/Place  

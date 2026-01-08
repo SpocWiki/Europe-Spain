@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -5.58
 dv_has_place_latitude: 40.52
-dv_name: Leon
+dv_has_name_: Leon
 dv_Country: "[[../../../../../../Spain]]"
 ---
 #is_a_/Place  

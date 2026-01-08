@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -4.83
 dv_has_place_latitude: 37.87
-dv_name: Cordoba
+dv_has_name_: Cordoba
 dv_Country: "[[../../../../../Spain]]"
 ---
 #is_a_/Place  

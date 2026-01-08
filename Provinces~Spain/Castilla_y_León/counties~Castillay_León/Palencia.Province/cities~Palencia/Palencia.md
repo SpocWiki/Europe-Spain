@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -4.53
 dv_has_place_latitude: 42.02
-dv_name: Palencia
+dv_has_name_: Palencia
 dv_Country: "[[../../../../../../Spain]]"
 ---
 #is_a_/Place  

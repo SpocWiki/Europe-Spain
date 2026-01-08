@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -5.68
 dv_has_place_latitude: 43.55
-dv_name: Gijon
+dv_has_name_: Gijon
 dv_Country: "[[../../../../Spain]]"
 ---
 #is_a_/Place  

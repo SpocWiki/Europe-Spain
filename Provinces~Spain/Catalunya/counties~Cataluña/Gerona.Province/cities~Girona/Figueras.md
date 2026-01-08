@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.97
 dv_has_place_latitude: 42.27
-dv_name: Figueras
+dv_has_name_: Figueras
 dv_Country: "[[../../../../../../Spain]]"
 ---
 #is_a_/Place  

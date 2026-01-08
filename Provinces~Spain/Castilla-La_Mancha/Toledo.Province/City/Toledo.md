@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -4.02
 dv_has_place_latitude: 39.87
-dv_name: Toledo
+dv_has_name_: Toledo
 dv_Country: "[[../../../../../Spain]]"
 ---
 #is_a_/Place  

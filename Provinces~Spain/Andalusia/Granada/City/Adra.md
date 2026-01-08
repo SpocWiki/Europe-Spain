@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.18
 dv_has_place_latitude: 36.75
-dv_name: Adra
+dv_has_name_: Adra
 dv_Country: "[[../../../../../Spain]]"
 ---
 #is_a_/Place  

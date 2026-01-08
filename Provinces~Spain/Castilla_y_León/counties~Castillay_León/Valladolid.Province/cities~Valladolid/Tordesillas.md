@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -5
 dv_has_place_latitude: 41.5
-dv_name: Tordesillas
+dv_has_name_: Tordesillas
 dv_Country: "[[../../../../../../Spain]]"
 ---
 #is_a_/Place  

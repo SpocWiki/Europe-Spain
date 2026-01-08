@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.83
 dv_has_place_latitude: 41.72
-dv_name: Manresa
+dv_has_name_: Manresa
 dv_Country: "[[../../../../../../Spain]]"
 ---
 #is_a_/Place  

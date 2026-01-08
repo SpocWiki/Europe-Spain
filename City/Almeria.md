@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.5
 dv_has_place_latitude: 36.77
-dv_name: Almeria
+dv_has_name_: Almeria
 dv_Country: "[[../../Spain]]"
 ---
 #is_a_/Place  

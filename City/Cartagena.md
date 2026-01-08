@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -1
 dv_has_place_latitude: 37.58
-dv_name: Cartagena
+dv_has_name_: Cartagena
 dv_Country: "[[../../Spain]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.1
 dv_has_place_latitude: 41.55
-dv_name: Sabadell
+dv_has_name_: Sabadell
 dv_Country: "[[../../../../../../Spain]]"
 ---
 #is_a_/Place  

@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -4.13
 dv_has_place_latitude: 40.6
-dv_name: Escorial=San Lorenzo
+dv_has_name_: Escorial=San Lorenzo
 dv_Country: "[[../../../../../../Spain]]"
 ---
 #is_a_/Place  

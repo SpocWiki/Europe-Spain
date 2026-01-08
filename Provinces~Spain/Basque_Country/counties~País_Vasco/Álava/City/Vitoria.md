@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.67
 dv_has_place_latitude: 42.85
-dv_name: Vitoria
+dv_has_name_: Vitoria
 dv_Country: "[[../../../../../../Spain]]"
 ---
 #is_a_/Place  

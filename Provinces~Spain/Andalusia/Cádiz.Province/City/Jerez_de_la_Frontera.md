@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -6.13
 dv_has_place_latitude: 36.68
-dv_name: Jerez de la Frontera
+dv_has_name_: Jerez de la Frontera
 dv_Country: "[[../../../../../Spain]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -8.72
 dv_has_place_latitude: 42.18
-dv_name: Vigo
+dv_has_name_: Vigo
 dv_Country: "[[../../../../../Spain]]"
 ---
 #is_a_/Place  

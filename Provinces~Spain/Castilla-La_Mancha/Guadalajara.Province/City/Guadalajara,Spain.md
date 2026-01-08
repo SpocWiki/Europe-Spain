@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.17
 dv_has_place_latitude: 40.63
-dv_name: Guadalajara
+dv_has_name_: Guadalajara
 dv_Country: "[[../../../../../Spain]]"
 dv_is_:
   same_as: "[[../../../../../../../../../WikiData/WD~Guadalajara,9022|WD~Guadalajara,9022]]"

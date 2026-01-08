@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -5.45
 dv_has_place_latitude: 36.13
-dv_name: Algeciras
+dv_has_name_: Algeciras
 dv_Country: "[[../../../../../Spain]]"
 ---
 #is_a_/Place  

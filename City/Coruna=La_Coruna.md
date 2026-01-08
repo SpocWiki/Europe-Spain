@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -8.38
 dv_has_place_latitude: 43.38
-dv_name: Coruna=La Coruna
+dv_has_name_: Coruna=La Coruna
 dv_Country: "[[../../Spain]]"
 ---
 #is_a_/Place  

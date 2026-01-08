@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.5
 dv_has_place_latitude: 40.82
-dv_name: Tortosa
+dv_has_name_: Tortosa
 dv_Country: "[[../../../../../../Spain]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -7.87
 dv_has_place_latitude: 42.33
-dv_name: Ourense
+dv_has_name_: Ourense
 dv_Country: "[[../../../../../Spain]]"
 ---
 #is_a_/Place  

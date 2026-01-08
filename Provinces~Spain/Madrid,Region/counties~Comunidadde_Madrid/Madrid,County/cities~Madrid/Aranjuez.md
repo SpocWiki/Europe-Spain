@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.6
 dv_has_place_latitude: 40.05
-dv_name: Aranjuez
+dv_has_name_: Aranjuez
 dv_Country: "[[../../../../../../Spain]]"
 ---
 #is_a_/Place  

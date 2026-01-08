@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -8.68
 dv_has_place_latitude: 42.4
-dv_name: Pontevedra
+dv_has_name_: Pontevedra
 dv_Country: "[[../../../../../Spain]]"
 ---
 #is_a_/Place  

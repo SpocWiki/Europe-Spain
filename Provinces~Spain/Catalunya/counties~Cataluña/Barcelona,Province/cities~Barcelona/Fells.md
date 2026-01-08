@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.97
 dv_has_place_latitude: 41.27
-dv_name: Fells
+dv_has_name_: Fells
 dv_Country: "[[../../../../../../Spain]]"
 ---
 #is_a_/Place  

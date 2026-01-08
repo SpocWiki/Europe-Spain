@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 3.22
 dv_has_place_latitude: 39.57
-dv_name: Manacor
+dv_has_name_: Manacor
 dv_Country: "[[../../../../../../Spain]]"
 ---
 #is_a_/Place  

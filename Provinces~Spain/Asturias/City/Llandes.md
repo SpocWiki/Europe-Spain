@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -4.77
 dv_has_place_latitude: 43.42
-dv_name: Llandes
+dv_has_name_: Llandes
 dv_Country: "[[../../../../Spain]]"
 ---
 #is_a_/Place  

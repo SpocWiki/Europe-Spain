@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -4.1
 dv_has_place_latitude: 36.72
-dv_name: Torre del Mar
+dv_has_name_: Torre del Mar
 dv_Country: "[[../../Spain]]"
 ---
 #is_a_/Place  

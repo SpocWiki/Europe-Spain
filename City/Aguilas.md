@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.45
 dv_has_place_latitude: 37.38
-dv_name: Aguilas
+dv_has_name_: Aguilas
 dv_Country: "[[../../Spain]]"
 ---
 #is_a_/Place  

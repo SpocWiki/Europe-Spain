@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -4.72
 dv_has_place_latitude: 41.65
-dv_name: Valladolid
+dv_has_name_: Valladolid
 dv_Country: "[[../../../../../../Spain]]"
 ---
 #is_a_/Place  

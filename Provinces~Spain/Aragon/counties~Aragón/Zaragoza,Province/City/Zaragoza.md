@@ -19,7 +19,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.9
 dv_has_place_latitude: 41.65
-dv_name: Saragossa
+dv_has_name_: Saragossa
 dv_Country: "[[../../../../../../Spain]]"
 ---
 

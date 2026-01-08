@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -5.75
 dv_has_place_latitude: 39.03
-dv_name: Villanueva d. I. S.
+dv_has_name_: Villanueva d. I. S.
 dv_Country: "[[../../../../../Spain]]"
 ---
 #is_a_/Place  

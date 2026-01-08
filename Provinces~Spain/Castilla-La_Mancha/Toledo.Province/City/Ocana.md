@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.52
 dv_has_place_latitude: 39.95
-dv_name: Ocana
+dv_has_name_: Ocana
 dv_Country: "[[../../../../../Spain]]"
 ---
 #is_a_/Place  

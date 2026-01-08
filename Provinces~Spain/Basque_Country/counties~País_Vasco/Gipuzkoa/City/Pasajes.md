@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.93
 dv_has_place_latitude: 43.33
-dv_name: Pasajes
+dv_has_name_: Pasajes
 dv_Country: "[[../../../../../../Spain]]"
 ---
 #is_a_/Place  
