@@ -40,17 +40,17 @@ markerFolder: ./Orense.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Orense.Province](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Orense.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Orense.Province|Orense.Province]] 
 
-### [Orense.Province.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Orense.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Orense.Province.public|Orense.Province.public]] 
 
-### [Orense.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Orense.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Orense.Province.internal|Orense.Province.internal]] 
 
-### [Orense.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Orense.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Orense.Province.protect|Orense.Province.protect]] 
 
-### [Orense.Province.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Orense.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Orense.Province.private|Orense.Province.private]] 
 
-### [Orense.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Orense.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Orense.Province.personal|Orense.Province.personal]] 
 
-### [Orense.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Orense.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Orense.Province.secret|Orense.Province.secret]] 
 

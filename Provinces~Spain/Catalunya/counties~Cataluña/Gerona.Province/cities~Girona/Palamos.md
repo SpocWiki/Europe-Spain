@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33218
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 3.08
+dv_has_place_latitude: 41.85
+dv_name: Palamos
+dv_Country: "[[../../../../../../Spain]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::3.08] 
-[has_place_latitude::41.85] 
-[name::Palamos] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Spain]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Palamos](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Palamos.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Palamos|Palamos]] 
 
-### [Palamos.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Palamos.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Palamos.public|Palamos.public]] 
 
-### [Palamos.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Palamos.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Palamos.internal|Palamos.internal]] 
 
-### [Palamos.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Palamos.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Palamos.protect|Palamos.protect]] 
 
-### [Palamos.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Palamos.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Palamos.private|Palamos.private]] 
 
-### [Palamos.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Palamos.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Palamos.personal|Palamos.personal]] 
 
-### [Palamos.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Palamos.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya/counties~Cataluña/Gerona.Province/cities~Girona/Palamos.secret|Palamos.secret]] 
 

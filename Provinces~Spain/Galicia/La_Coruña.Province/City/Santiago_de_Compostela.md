@@ -15,17 +15,22 @@ tags:
 SpocWebEntityId: 33947
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -8.54
+dv_has_place_latitude: 42.88
+dv_name: Santiago de Compostela
+dv_Country: "[[../../../../../Spain]]"
 ---
 
 # [[Santiago_de_Compostela]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-8.54] 
-[has_place_latitude::42.88] 
-[name::Santiago de Compostela] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Spain]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -45,17 +50,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Santiago_de_Compostela](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/Santiago_de_Compostela.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/Santiago_de_Compostela|Santiago_de_Compostela]] 
 
-### [Santiago_de_Compostela.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/Santiago_de_Compostela.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/Santiago_de_Compostela.public|Santiago_de_Compostela.public]] 
 
-### [Santiago_de_Compostela.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/Santiago_de_Compostela.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/Santiago_de_Compostela.internal|Santiago_de_Compostela.internal]] 
 
-### [Santiago_de_Compostela.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/Santiago_de_Compostela.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/Santiago_de_Compostela.protect|Santiago_de_Compostela.protect]] 
 
-### [Santiago_de_Compostela.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/Santiago_de_Compostela.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/Santiago_de_Compostela.private|Santiago_de_Compostela.private]] 
 
-### [Santiago_de_Compostela.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/Santiago_de_Compostela.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/Santiago_de_Compostela.personal|Santiago_de_Compostela.personal]] 
 
-### [Santiago_de_Compostela.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/Santiago_de_Compostela.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/Santiago_de_Compostela.secret|Santiago_de_Compostela.secret]] 
 

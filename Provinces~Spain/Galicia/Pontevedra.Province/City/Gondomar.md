@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30504
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -8.75
+dv_has_place_latitude: 42.12
+dv_name: Gondomar
+dv_Country: "[[../../../../../Spain]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-8.75] 
-[has_place_latitude::42.12] 
-[name::Gondomar] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Spain]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gondomar](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Gondomar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Gondomar|Gondomar]] 
 
-### [Gondomar.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Gondomar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Gondomar.public|Gondomar.public]] 
 
-### [Gondomar.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Gondomar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Gondomar.internal|Gondomar.internal]] 
 
-### [Gondomar.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Gondomar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Gondomar.protect|Gondomar.protect]] 
 
-### [Gondomar.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Gondomar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Gondomar.private|Gondomar.private]] 
 
-### [Gondomar.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Gondomar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Gondomar.personal|Gondomar.personal]] 
 
-### [Gondomar.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Gondomar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Pontevedra.Province/City/Gondomar.secret|Gondomar.secret]] 
 

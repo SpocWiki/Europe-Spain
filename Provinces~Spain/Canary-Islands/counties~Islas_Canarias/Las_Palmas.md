@@ -41,17 +41,17 @@ markerFolder: ./Las_Palmas/
 
 ## Confidential Links & Embeds: 
 
-### [Las_Palmas](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Las_Palmas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Las_Palmas|Las_Palmas]] 
 
-### [Las_Palmas.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Las_Palmas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Las_Palmas.public|Las_Palmas.public]] 
 
-### [Las_Palmas.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Las_Palmas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Las_Palmas.internal|Las_Palmas.internal]] 
 
-### [Las_Palmas.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Las_Palmas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Las_Palmas.protect|Las_Palmas.protect]] 
 
-### [Las_Palmas.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Las_Palmas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Las_Palmas.private|Las_Palmas.private]] 
 
-### [Las_Palmas.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Las_Palmas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Las_Palmas.personal|Las_Palmas.personal]] 
 
-### [Las_Palmas.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Las_Palmas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Las_Palmas.secret|Las_Palmas.secret]] 
 

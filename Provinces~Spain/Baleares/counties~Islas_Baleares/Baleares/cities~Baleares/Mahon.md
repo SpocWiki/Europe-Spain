@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32218
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 4.25
+dv_has_place_latitude: 39.9
+dv_name: Mahon
+dv_Country: "[[../../../../../../Spain]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::4.25] 
-[has_place_latitude::39.9] 
-[name::Mahon] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Spain]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mahon](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Mahon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Mahon|Mahon]] 
 
-### [Mahon.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Mahon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Mahon.public|Mahon.public]] 
 
-### [Mahon.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Mahon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Mahon.internal|Mahon.internal]] 
 
-### [Mahon.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Mahon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Mahon.protect|Mahon.protect]] 
 
-### [Mahon.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Mahon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Mahon.private|Mahon.private]] 
 
-### [Mahon.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Mahon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Mahon.personal|Mahon.personal]] 
 
-### [Mahon.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Mahon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Mahon.secret|Mahon.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28685
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -1.45
+dv_has_place_latitude: 37.38
+dv_name: Aguilas
+dv_Country: "[[../../Spain]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1.45] 
-[has_place_latitude::37.38] 
-[name::Aguilas] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Spain]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Aguilas](/_Standards/Earth/Continent/Europe/Europe~South/Spain/City/Aguilas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/City/Aguilas|Aguilas]] 
 
-### [Aguilas.public](/_public/Earth/Continent/Europe/Europe~South/Spain/City/Aguilas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/City/Aguilas.public|Aguilas.public]] 
 
-### [Aguilas.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/City/Aguilas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/City/Aguilas.internal|Aguilas.internal]] 
 
-### [Aguilas.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/City/Aguilas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/City/Aguilas.protect|Aguilas.protect]] 
 
-### [Aguilas.private](/_private/Earth/Continent/Europe/Europe~South/Spain/City/Aguilas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/City/Aguilas.private|Aguilas.private]] 
 
-### [Aguilas.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/City/Aguilas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/City/Aguilas.personal|Aguilas.personal]] 
 
-### [Aguilas.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/City/Aguilas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/City/Aguilas.secret|Aguilas.secret]] 
 

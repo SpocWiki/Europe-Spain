@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 29615
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -3.93
+dv_has_place_latitude: 38.98
+dv_name: Ciudad Real
+dv_Country: "[[../../../../../Spain]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-3.93] 
-[has_place_latitude::38.98] 
-[name::Ciudad Real] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Spain]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ciudad_Real](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Ciudad_Real.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Ciudad_Real|Ciudad_Real]] 
 
-### [Ciudad_Real.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Ciudad_Real.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Ciudad_Real.public|Ciudad_Real.public]] 
 
-### [Ciudad_Real.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Ciudad_Real.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Ciudad_Real.internal|Ciudad_Real.internal]] 
 
-### [Ciudad_Real.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Ciudad_Real.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Ciudad_Real.protect|Ciudad_Real.protect]] 
 
-### [Ciudad_Real.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Ciudad_Real.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Ciudad_Real.private|Ciudad_Real.private]] 
 
-### [Ciudad_Real.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Ciudad_Real.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Ciudad_Real.personal|Ciudad_Real.personal]] 
 
-### [Ciudad_Real.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Ciudad_Real.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Ciudad_Real.secret|Ciudad_Real.secret]] 
 

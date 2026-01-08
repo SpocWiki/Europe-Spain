@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35298
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -6.02
+dv_has_place_latitude: 38.33
+dv_name: Villagarcia
+dv_Country: "[[../../../../../Spain]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-6.02] 
-[has_place_latitude::38.33] 
-[name::Villagarcia] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Spain]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Villagarcia](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Badajoz.Province/City/Villagarcia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Badajoz.Province/City/Villagarcia|Villagarcia]] 
 
-### [Villagarcia.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Badajoz.Province/City/Villagarcia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Badajoz.Province/City/Villagarcia.public|Villagarcia.public]] 
 
-### [Villagarcia.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Badajoz.Province/City/Villagarcia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Badajoz.Province/City/Villagarcia.internal|Villagarcia.internal]] 
 
-### [Villagarcia.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Badajoz.Province/City/Villagarcia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Badajoz.Province/City/Villagarcia.protect|Villagarcia.protect]] 
 
-### [Villagarcia.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Badajoz.Province/City/Villagarcia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Badajoz.Province/City/Villagarcia.private|Villagarcia.private]] 
 
-### [Villagarcia.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Badajoz.Province/City/Villagarcia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Badajoz.Province/City/Villagarcia.personal|Villagarcia.personal]] 
 
-### [Villagarcia.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Badajoz.Province/City/Villagarcia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Badajoz.Province/City/Villagarcia.secret|Villagarcia.secret]] 
 

@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 29509
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.05
+dv_has_place_latitude: 39.98
+dv_name: Castellon de la Plana
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.05] 
-[has_place_latitude::39.98] 
-[name::Castellon de la Plana] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Castellon_de_la_Plana](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Castellón/cities~Castellón/Castellon_de_la_Plana.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Castellón/cities~Castellón/Castellon_de_la_Plana|Castellon_de_la_Plana]] 
 
-### [Castellon_de_la_Plana.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Castellón/cities~Castellón/Castellon_de_la_Plana.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Castellón/cities~Castellón/Castellon_de_la_Plana.public|Castellon_de_la_Plana.public]] 
 
-### [Castellon_de_la_Plana.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Castellón/cities~Castellón/Castellon_de_la_Plana.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Castellón/cities~Castellón/Castellon_de_la_Plana.internal|Castellon_de_la_Plana.internal]] 
 
-### [Castellon_de_la_Plana.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Castellón/cities~Castellón/Castellon_de_la_Plana.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Castellón/cities~Castellón/Castellon_de_la_Plana.protect|Castellon_de_la_Plana.protect]] 
 
-### [Castellon_de_la_Plana.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Castellón/cities~Castellón/Castellon_de_la_Plana.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Castellón/cities~Castellón/Castellon_de_la_Plana.private|Castellon_de_la_Plana.private]] 
 
-### [Castellon_de_la_Plana.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Castellón/cities~Castellón/Castellon_de_la_Plana.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Castellón/cities~Castellón/Castellon_de_la_Plana.personal|Castellon_de_la_Plana.personal]] 
 
-### [Castellon_de_la_Plana.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Castellón/cities~Castellón/Castellon_de_la_Plana.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Castellón/cities~Castellón/Castellon_de_la_Plana.secret|Castellon_de_la_Plana.secret]] 
 

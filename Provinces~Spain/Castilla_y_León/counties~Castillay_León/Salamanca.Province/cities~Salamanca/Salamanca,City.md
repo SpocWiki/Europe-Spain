@@ -15,20 +15,28 @@ tags:
 SpocWebEntityId: 33878
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -5.67
+dv_has_place_latitude: 40.97
+dv_name: Salamanca
+dv_Country: "[[../../../../../../Spain]]"
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Salamanca,15695]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~Salamanca,15695]]"
 ---
 
 # [[Salamanca,City]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-5.67] 
-[has_place_latitude::40.97] 
-[name::Salamanca] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Spain]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
-#is_/same_as :: [[_Standards/WikiData/WD~Salamanca,15695]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -52,19 +60,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Salamanca)
 
+
 ## Confidential Links & Embeds: 
 
-### [Salamanca](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Salamanca.Province/cities~Salamanca/Salamanca.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Salamanca.Province/cities~Salamanca/Salamanca,City|Salamanca,City]] 
 
-### [Salamanca.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Salamanca.Province/cities~Salamanca/Salamanca.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Salamanca.Province/cities~Salamanca/Salamanca,City.public|Salamanca,City.public]] 
 
-### [Salamanca.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Salamanca.Province/cities~Salamanca/Salamanca.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Salamanca.Province/cities~Salamanca/Salamanca,City.internal|Salamanca,City.internal]] 
 
-### [Salamanca.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Salamanca.Province/cities~Salamanca/Salamanca.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Salamanca.Province/cities~Salamanca/Salamanca,City.protect|Salamanca,City.protect]] 
 
-### [Salamanca.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Salamanca.Province/cities~Salamanca/Salamanca.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Salamanca.Province/cities~Salamanca/Salamanca,City.private|Salamanca,City.private]] 
 
-### [Salamanca.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Salamanca.Province/cities~Salamanca/Salamanca.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Salamanca.Province/cities~Salamanca/Salamanca,City.personal|Salamanca,City.personal]] 
 
-### [Salamanca.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Salamanca.Province/cities~Salamanca/Salamanca.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Salamanca.Province/cities~Salamanca/Salamanca,City.secret|Salamanca,City.secret]] 
 

@@ -41,17 +41,17 @@ markerFolder: ./Huesca.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Huesca.Province](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Huesca.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/counties~Aragón/Huesca,Province|Huesca,Province]] 
 
-### [Huesca.Province.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Huesca.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/counties~Aragón/Huesca,Province.public|Huesca,Province.public]] 
 
-### [Huesca.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Huesca.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/counties~Aragón/Huesca,Province.internal|Huesca,Province.internal]] 
 
-### [Huesca.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Huesca.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/counties~Aragón/Huesca,Province.protect|Huesca,Province.protect]] 
 
-### [Huesca.Province.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Huesca.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/counties~Aragón/Huesca,Province.private|Huesca,Province.private]] 
 
-### [Huesca.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Huesca.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/counties~Aragón/Huesca,Province.personal|Huesca,Province.personal]] 
 
-### [Huesca.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Huesca.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/counties~Aragón/Huesca,Province.secret|Huesca,Province.secret]] 
 

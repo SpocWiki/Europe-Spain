@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 28853
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -3.68
+dv_has_place_latitude: 41.67
+dv_name: Aranda de Duero
+dv_Country: "[[../../../../../../Spain]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-3.68] 
-[has_place_latitude::41.67] 
-[name::Aranda de Duero] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Spain]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Aranda_de_Duero](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Burgos.Province/cities~Burgos/Aranda_de_Duero.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Burgos.Province/cities~Burgos/Aranda_de_Duero|Aranda_de_Duero]] 
 
-### [Aranda_de_Duero.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Burgos.Province/cities~Burgos/Aranda_de_Duero.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Burgos.Province/cities~Burgos/Aranda_de_Duero.public|Aranda_de_Duero.public]] 
 
-### [Aranda_de_Duero.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Burgos.Province/cities~Burgos/Aranda_de_Duero.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Burgos.Province/cities~Burgos/Aranda_de_Duero.internal|Aranda_de_Duero.internal]] 
 
-### [Aranda_de_Duero.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Burgos.Province/cities~Burgos/Aranda_de_Duero.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Burgos.Province/cities~Burgos/Aranda_de_Duero.protect|Aranda_de_Duero.protect]] 
 
-### [Aranda_de_Duero.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Burgos.Province/cities~Burgos/Aranda_de_Duero.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Burgos.Province/cities~Burgos/Aranda_de_Duero.private|Aranda_de_Duero.private]] 
 
-### [Aranda_de_Duero.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Burgos.Province/cities~Burgos/Aranda_de_Duero.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Burgos.Province/cities~Burgos/Aranda_de_Duero.personal|Aranda_de_Duero.personal]] 
 
-### [Aranda_de_Duero.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Burgos.Province/cities~Burgos/Aranda_de_Duero.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Burgos.Province/cities~Burgos/Aranda_de_Duero.secret|Aranda_de_Duero.secret]] 
 

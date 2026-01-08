@@ -19,17 +19,17 @@ markerFolder: ./Aragon/
 
 ## Confidential Links & Embeds: 
 
-### [Aragon](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon|Aragon]] 
 
-### [Aragon.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon.public|Aragon.public]] 
 
-### [Aragon.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon.internal|Aragon.internal]] 
 
-### [Aragon.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon.protect|Aragon.protect]] 
 
-### [Aragon.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon.private|Aragon.private]] 
 
-### [Aragon.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon.personal|Aragon.personal]] 
 
-### [Aragon.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon.secret|Aragon.secret]] 
 

@@ -14,22 +14,30 @@ tags:
 SpocWebEntityId: 30629
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -3.17
+dv_has_place_latitude: 40.63
+dv_name: Guadalajara
+dv_Country: "[[../../../../../Spain]]"
+dv_is_:
+  same_as: "[[../../../../../../../../../WikiData/WD~Guadalajara,9022|WD~Guadalajara,9022]]"
+dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Guadalajara,9022|WD~Guadalajara,9022]]"
 ---
 
 # [[Guadalajara,Spain]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-3.17] 
-[has_place_latitude::40.63] 
-[name::Guadalajara] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Spain]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Guadalajara,9022|WD~Guadalajara,9022]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map  
 
@@ -51,19 +59,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Guadalajara,%20Spain)
 
+
 ## Confidential Links & Embeds: 
 
-### [Guadalajara](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Guadalajara.Province/City/Guadalajara.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Guadalajara.Province/City/Guadalajara,Spain|Guadalajara,Spain]] 
 
-### [Guadalajara.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Guadalajara.Province/City/Guadalajara.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Guadalajara.Province/City/Guadalajara,Spain.public|Guadalajara,Spain.public]] 
 
-### [Guadalajara.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Guadalajara.Province/City/Guadalajara.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Guadalajara.Province/City/Guadalajara,Spain.internal|Guadalajara,Spain.internal]] 
 
-### [Guadalajara.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Guadalajara.Province/City/Guadalajara.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Guadalajara.Province/City/Guadalajara,Spain.protect|Guadalajara,Spain.protect]] 
 
-### [Guadalajara.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Guadalajara.Province/City/Guadalajara.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Guadalajara.Province/City/Guadalajara,Spain.private|Guadalajara,Spain.private]] 
 
-### [Guadalajara.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Guadalajara.Province/City/Guadalajara.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Guadalajara.Province/City/Guadalajara,Spain.personal|Guadalajara,Spain.personal]] 
 
-### [Guadalajara.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Guadalajara.Province/City/Guadalajara.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Guadalajara.Province/City/Guadalajara,Spain.secret|Guadalajara,Spain.secret]] 
 

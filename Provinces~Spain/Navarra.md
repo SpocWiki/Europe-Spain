@@ -42,17 +42,17 @@ markerFolder: ./Navarra/
 
 ## Confidential Links & Embeds: 
 
-### [Navarra](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra|Navarra]] 
 
-### [Navarra.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra.public|Navarra.public]] 
 
-### [Navarra.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra.internal|Navarra.internal]] 
 
-### [Navarra.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra.protect|Navarra.protect]] 
 
-### [Navarra.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra.private|Navarra.private]] 
 
-### [Navarra.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra.personal|Navarra.personal]] 
 
-### [Navarra.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra.secret|Navarra.secret]] 
 

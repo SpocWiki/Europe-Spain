@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Catalonia,5705|WD~Catalonia,5705]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Catalonia,5705|WD~Catalonia,5705]]"
+
 has_time_started: 0988-01-01 
 aliases:
   - Catalunya
@@ -216,7 +220,7 @@ official_name:
 
 # [[Catalunya]]
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Catalonia,5705|WD~Catalonia,5705]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -267,17 +271,17 @@ markerFolder: ./Catalunya/
 
 ## Confidential Links & Embeds: 
 
-### [Catalunya](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya|Catalunya]] 
 
-### [Catalunya.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya.public|Catalunya.public]] 
 
-### [Catalunya.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya.internal|Catalunya.internal]] 
 
-### [Catalunya.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya.protect|Catalunya.protect]] 
 
-### [Catalunya.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya.private|Catalunya.private]] 
 
-### [Catalunya.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya.personal|Catalunya.personal]] 
 
-### [Catalunya.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Catalunya.secret|Catalunya.secret]] 
 

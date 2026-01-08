@@ -43,17 +43,17 @@ markerFolder: ./Baleares/
 
 ## Confidential Links & Embeds: 
 
-### [Baleares](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares|Baleares]] 
 
-### [Baleares.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares.public|Baleares.public]] 
 
-### [Baleares.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares.internal|Baleares.internal]] 
 
-### [Baleares.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares.protect|Baleares.protect]] 
 
-### [Baleares.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares.private|Baleares.private]] 
 
-### [Baleares.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares.personal|Baleares.personal]] 
 
-### [Baleares.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares.secret|Baleares.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35169
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -3.38
+dv_has_place_latitude: 38.77
+dv_name: Valdepenas
+dv_Country: "[[../../../../../Spain]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-3.38] 
-[has_place_latitude::38.77] 
-[name::Valdepenas] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Spain]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Valdepenas](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Valdepenas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Valdepenas|Valdepenas]] 
 
-### [Valdepenas.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Valdepenas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Valdepenas.public|Valdepenas.public]] 
 
-### [Valdepenas.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Valdepenas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Valdepenas.internal|Valdepenas.internal]] 
 
-### [Valdepenas.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Valdepenas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Valdepenas.protect|Valdepenas.protect]] 
 
-### [Valdepenas.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Valdepenas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Valdepenas.private|Valdepenas.private]] 
 
-### [Valdepenas.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Valdepenas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Valdepenas.personal|Valdepenas.personal]] 
 
-### [Valdepenas.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Valdepenas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla-La_Mancha/Ciudad_Real.Province/City/Valdepenas.secret|Valdepenas.secret]] 
 

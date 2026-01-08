@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28740
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.43
+dv_has_place_latitude: 38.35
+dv_name: Alicante
+dv_Country: "[[../../Spain]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.43] 
-[has_place_latitude::38.35] 
-[name::Alicante] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Spain]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alicante](/_Standards/Earth/Continent/Europe/Europe~South/Spain/City/Alicante.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/City/Alicante|Alicante]] 
 
-### [Alicante.public](/_public/Earth/Continent/Europe/Europe~South/Spain/City/Alicante.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/City/Alicante.public|Alicante.public]] 
 
-### [Alicante.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/City/Alicante.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/City/Alicante.internal|Alicante.internal]] 
 
-### [Alicante.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/City/Alicante.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/City/Alicante.protect|Alicante.protect]] 
 
-### [Alicante.private](/_private/Earth/Continent/Europe/Europe~South/Spain/City/Alicante.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/City/Alicante.private|Alicante.private]] 
 
-### [Alicante.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/City/Alicante.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/City/Alicante.personal|Alicante.personal]] 
 
-### [Alicante.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/City/Alicante.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/City/Alicante.secret|Alicante.secret]] 
 

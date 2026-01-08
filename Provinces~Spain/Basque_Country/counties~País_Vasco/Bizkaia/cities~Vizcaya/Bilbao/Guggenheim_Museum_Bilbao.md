@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../../../WikiData/WD~Guggenheim_Museum,179199]]"
+dv_is_same_as: "[[../../../../../../../../../../../WikiData/WD~Guggenheim_Museum,179199]]"
+
 has_time_started: 1997-10-18 
 aliases:
   - Guggenheim Museum Bilbao
@@ -52,7 +56,7 @@ inception: 1997-10-18T00:00:00Z
 
 # [[Guggenheim_Museum_Bilbao]] 
 
-#is_/same_as :: [[WD~Guggenheim_Museum,179199]] 
+is_same_as = `=this.dv_is_same_as`
 ## #has_/text_of_/abstract 
 
 > The **Guggenheim Museum Bilbao** is a museum of modern and contemporary art 
@@ -74,4 +78,21 @@ inception: 1997-10-18T00:00:00Z
 > completed since 1980 in the 2010 World Architecture Survey among architecture experts.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Guggenheim%20Museum%20Bilbao) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Bilbao/Guggenheim_Museum_Bilbao|Guggenheim_Museum_Bilbao]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Bilbao/Guggenheim_Museum_Bilbao.public|Guggenheim_Museum_Bilbao.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Bilbao/Guggenheim_Museum_Bilbao.internal|Guggenheim_Museum_Bilbao.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Bilbao/Guggenheim_Museum_Bilbao.protect|Guggenheim_Museum_Bilbao.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Bilbao/Guggenheim_Museum_Bilbao.private|Guggenheim_Museum_Bilbao.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Bilbao/Guggenheim_Museum_Bilbao.personal|Guggenheim_Museum_Bilbao.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Bilbao/Guggenheim_Museum_Bilbao.secret|Guggenheim_Museum_Bilbao.secret]] 
 

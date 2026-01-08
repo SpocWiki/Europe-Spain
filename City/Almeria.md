@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28753
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.5
+dv_has_place_latitude: 36.77
+dv_name: Almeria
+dv_Country: "[[../../Spain]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.5] 
-[has_place_latitude::36.77] 
-[name::Almeria] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Spain]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Almeria](/_Standards/Earth/Continent/Europe/Europe~South/Spain/City/Almeria.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/City/Almeria|Almeria]] 
 
-### [Almeria.public](/_public/Earth/Continent/Europe/Europe~South/Spain/City/Almeria.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/City/Almeria.public|Almeria.public]] 
 
-### [Almeria.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/City/Almeria.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/City/Almeria.internal|Almeria.internal]] 
 
-### [Almeria.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/City/Almeria.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/City/Almeria.protect|Almeria.protect]] 
 
-### [Almeria.private](/_private/Earth/Continent/Europe/Europe~South/Spain/City/Almeria.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/City/Almeria.private|Almeria.private]] 
 
-### [Almeria.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/City/Almeria.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/City/Almeria.personal|Almeria.personal]] 
 
-### [Almeria.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/City/Almeria.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/City/Almeria.secret|Almeria.secret]] 
 

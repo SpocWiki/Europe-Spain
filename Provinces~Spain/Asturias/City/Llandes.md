@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32056
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -4.77
+dv_has_place_latitude: 43.42
+dv_name: Llandes
+dv_Country: "[[../../../../Spain]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-4.77] 
-[has_place_latitude::43.42] 
-[name::Llandes] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Spain]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Llandes](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Llandes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Llandes|Llandes]] 
 
-### [Llandes.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Llandes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Llandes.public|Llandes.public]] 
 
-### [Llandes.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Llandes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Llandes.internal|Llandes.internal]] 
 
-### [Llandes.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Llandes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Llandes.protect|Llandes.protect]] 
 
-### [Llandes.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Llandes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Llandes.private|Llandes.private]] 
 
-### [Llandes.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Llandes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Llandes.personal|Llandes.personal]] 
 
-### [Llandes.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Llandes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Llandes.secret|Llandes.secret]] 
 

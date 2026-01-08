@@ -41,17 +41,17 @@ markerFolder: ./La_Rioja/
 
 ## Confidential Links & Embeds: 
 
-### [La_Rioja](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja|La_Rioja]] 
 
-### [La_Rioja.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja.public|La_Rioja.public]] 
 
-### [La_Rioja.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja.internal|La_Rioja.internal]] 
 
-### [La_Rioja.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja.protect|La_Rioja.protect]] 
 
-### [La_Rioja.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja.private|La_Rioja.private]] 
 
-### [La_Rioja.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja.personal|La_Rioja.personal]] 
 
-### [La_Rioja.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja.secret|La_Rioja.secret]] 
 

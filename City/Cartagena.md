@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29495
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -1
+dv_has_place_latitude: 37.58
+dv_name: Cartagena
+dv_Country: "[[../../Spain]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1] 
-[has_place_latitude::37.58] 
-[name::Cartagena] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Spain]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cartagena](/_Standards/Earth/Continent/Europe/Europe~South/Spain/City/Cartagena.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/City/Cartagena|Cartagena]] 
 
-### [Cartagena.public](/_public/Earth/Continent/Europe/Europe~South/Spain/City/Cartagena.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/City/Cartagena.public|Cartagena.public]] 
 
-### [Cartagena.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/City/Cartagena.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/City/Cartagena.internal|Cartagena.internal]] 
 
-### [Cartagena.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/City/Cartagena.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/City/Cartagena.protect|Cartagena.protect]] 
 
-### [Cartagena.private](/_private/Earth/Continent/Europe/Europe~South/Spain/City/Cartagena.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/City/Cartagena.private|Cartagena.private]] 
 
-### [Cartagena.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/City/Cartagena.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/City/Cartagena.personal|Cartagena.personal]] 
 
-### [Cartagena.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/City/Cartagena.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/City/Cartagena.secret|Cartagena.secret]] 
 

@@ -4,25 +4,28 @@ aliases:
   - History_of_Spain
   - History of Spain
 has_id_wikidata: Q7781
-topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Spain,10522852]]'
+topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Spain,10522852]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-  - '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
+  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+  - "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Vierter_Band,129249812]]'
-  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]'
-part_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
-subclass_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
-facet_of: '[[_Standards/WikiData/WD~Spain,29]]'
-country: '[[_Standards/WikiData/WD~Spain,29]]'
+  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Vierter_Band,129249812]]"
+  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]"
+part_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
+subclass_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
+facet_of: "[[_Standards/WikiData/WD~Spain,29]]"
+country: "[[_Standards/WikiData/WD~Spain,29]]"
 Dewey_Decimal_Classification: 946
 Commons_category: History of Spain
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Atlas%20Van%20der%20Hagen-KW1049B12%20002-HISPANIAE%20ET%20PORTUGALIAE%20REGNA.jpeg
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_Spain,7781|WD~History_of_Spain,7781]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_Spain,7781|WD~History_of_Spain,7781]]"
 ---
 
 # [[History_of_Spain]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~History_of_Spain,7781|WD~History_of_Spain,7781]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -131,4 +134,21 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Atlas%20Van%20der%20Ha
 > Juan Carlos abdicated in 2014, and was succeeded by his son Felipe VI.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Spain) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/History_of_Spain|History_of_Spain]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/History_of_Spain.public|History_of_Spain.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/History_of_Spain.internal|History_of_Spain.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/History_of_Spain.protect|History_of_Spain.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/History_of_Spain.private|History_of_Spain.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/History_of_Spain.personal|History_of_Spain.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/History_of_Spain.secret|History_of_Spain.secret]] 
 

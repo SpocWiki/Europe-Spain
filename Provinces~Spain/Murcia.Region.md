@@ -40,17 +40,17 @@ markerFolder: ./Murcia.Region/
 
 ## Confidential Links & Embeds: 
 
-### [Murcia.Region](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Murcia.Region.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Murcia.Region|Murcia.Region]] 
 
-### [Murcia.Region.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Murcia.Region.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Murcia.Region.public|Murcia.Region.public]] 
 
-### [Murcia.Region.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Murcia.Region.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Murcia.Region.internal|Murcia.Region.internal]] 
 
-### [Murcia.Region.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Murcia.Region.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Murcia.Region.protect|Murcia.Region.protect]] 
 
-### [Murcia.Region.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Murcia.Region.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Murcia.Region.private|Murcia.Region.private]] 
 
-### [Murcia.Region.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Murcia.Region.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Murcia.Region.personal|Murcia.Region.personal]] 
 
-### [Murcia.Region.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Murcia.Region.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Murcia.Region.secret|Murcia.Region.secret]] 
 

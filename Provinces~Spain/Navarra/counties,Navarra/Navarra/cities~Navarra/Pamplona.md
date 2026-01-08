@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33232
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -1.68
+dv_has_place_latitude: 42.83
+dv_name: Pamplona
+dv_Country: "[[../../../../../../Spain]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1.68] 
-[has_place_latitude::42.83] 
-[name::Pamplona] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Spain]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pamplona](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra/counties,Navarra/Navarra/cities~Navarra/Pamplona.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra/counties,Navarra/Navarra/cities~Navarra/Pamplona|Pamplona]] 
 
-### [Pamplona.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra/counties,Navarra/Navarra/cities~Navarra/Pamplona.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra/counties,Navarra/Navarra/cities~Navarra/Pamplona.public|Pamplona.public]] 
 
-### [Pamplona.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra/counties,Navarra/Navarra/cities~Navarra/Pamplona.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra/counties,Navarra/Navarra/cities~Navarra/Pamplona.internal|Pamplona.internal]] 
 
-### [Pamplona.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra/counties,Navarra/Navarra/cities~Navarra/Pamplona.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra/counties,Navarra/Navarra/cities~Navarra/Pamplona.protect|Pamplona.protect]] 
 
-### [Pamplona.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra/counties,Navarra/Navarra/cities~Navarra/Pamplona.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra/counties,Navarra/Navarra/cities~Navarra/Pamplona.private|Pamplona.private]] 
 
-### [Pamplona.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra/counties,Navarra/Navarra/cities~Navarra/Pamplona.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra/counties,Navarra/Navarra/cities~Navarra/Pamplona.personal|Pamplona.personal]] 
 
-### [Pamplona.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra/counties,Navarra/Navarra/cities~Navarra/Pamplona.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Navarra/counties,Navarra/Navarra/cities~Navarra/Pamplona.secret|Pamplona.secret]] 
 

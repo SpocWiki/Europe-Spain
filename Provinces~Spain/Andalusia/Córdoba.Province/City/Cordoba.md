@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29654
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -4.83
+dv_has_place_latitude: 37.87
+dv_name: Cordoba
+dv_Country: "[[../../../../../Spain]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-4.83] 
-[has_place_latitude::37.87] 
-[name::Cordoba] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Spain]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cordoba](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Córdoba.Province/City/Cordoba.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Córdoba.Province/City/Cordoba|Cordoba]] 
 
-### [Cordoba.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Córdoba.Province/City/Cordoba.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Córdoba.Province/City/Cordoba.public|Cordoba.public]] 
 
-### [Cordoba.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Córdoba.Province/City/Cordoba.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Córdoba.Province/City/Cordoba.internal|Cordoba.internal]] 
 
-### [Cordoba.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Córdoba.Province/City/Cordoba.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Córdoba.Province/City/Cordoba.protect|Cordoba.protect]] 
 
-### [Cordoba.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Córdoba.Province/City/Cordoba.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Córdoba.Province/City/Cordoba.private|Cordoba.private]] 
 
-### [Cordoba.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Córdoba.Province/City/Cordoba.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Córdoba.Province/City/Cordoba.personal|Cordoba.personal]] 
 
-### [Cordoba.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Córdoba.Province/City/Cordoba.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Córdoba.Province/City/Cordoba.secret|Cordoba.secret]] 
 

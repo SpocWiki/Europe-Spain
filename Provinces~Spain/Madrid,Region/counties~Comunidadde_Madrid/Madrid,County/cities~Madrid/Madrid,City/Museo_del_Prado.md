@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../../../WikiData/WD~Museo_del_Prado,160112]]"
+dv_is_same_as: "[[../../../../../../../../../../../WikiData/WD~Museo_del_Prado,160112]]"
+
 has_time_started: 1819-01-01 
 aliases:
   - Museo Nacional del Prado
@@ -105,7 +109,7 @@ street_address: Paseo del Prado, 28014 Madrid
 
 # [[Museo_del_Prado]] 
 
-#is_/same_as :: [[WD~Museo_del_Prado,160112]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -136,4 +140,21 @@ street_address: Paseo del Prado, 28014 Madrid
 > The Prado and the nearby Thyssen-Bornemisza Museum and the Museo Reina Sofía form Madrid's Golden Triangle of Art along the Paseo del Prado, which was included in the UNESCO World Heritage list in 2021.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Museo%20del%20Prado) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/Madrid,City/Museo_del_Prado|Museo_del_Prado]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/Madrid,City/Museo_del_Prado.public|Museo_del_Prado.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/Madrid,City/Museo_del_Prado.internal|Museo_del_Prado.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/Madrid,City/Museo_del_Prado.protect|Museo_del_Prado.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/Madrid,City/Museo_del_Prado.private|Museo_del_Prado.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/Madrid,City/Museo_del_Prado.personal|Museo_del_Prado.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/Madrid,City/Museo_del_Prado.secret|Museo_del_Prado.secret]] 
 

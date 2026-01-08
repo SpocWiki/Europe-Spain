@@ -6,21 +6,24 @@ aliases:
   - Mudéjar Architecture of Aragon
 has_id_wikidata: Q764675
 subclass_of:
-  - '[[_Standards/WikiData/WD~Mudéjar_architecture,2860353]]'
-  - '[[_Standards/WikiData/WD~art_of_Aragon,9783625]]'
-instance_of: '[[_Standards/WikiData/WD~architectural_style_of_an_area,25484644]]'
-different_from: '[[_Standards/WikiData/WD~Mudejar_Architecture_of_Aragon,64861487]]'
-facet_of: '[[_Standards/WikiData/WD~Aragon,4040]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Aragon,4040]]'
-heritage_designation: '[[_Standards/WikiData/WD~World_Heritage_Site,9259]]'
-country: '[[_Standards/WikiData/WD~Spain,29]]'
+  - "[[_Standards/WikiData/WD~Mudéjar_architecture,2860353]]"
+  - "[[_Standards/WikiData/WD~art_of_Aragon,9783625]]"
+instance_of: "[[_Standards/WikiData/WD~architectural_style_of_an_area,25484644]]"
+different_from: "[[_Standards/WikiData/WD~Mudejar_Architecture_of_Aragon,64861487]]"
+facet_of: "[[_Standards/WikiData/WD~Aragon,4040]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Aragon,4040]]"
+heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
+country: "[[_Standards/WikiData/WD~Spain,29]]"
 Commons_category: Mudéjar architecture in Aragon
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cimborrio%20Mud%C3%A9jar%20Catedral%20de%20Teruel.png
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Mudéjar_architecture_of_Aragon,764675]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Mudéjar_architecture_of_Aragon,764675]]"
 ---
 
 # [[Mudéjar_Architecture_of_Aragon]] 
 
-#is_/same_as :: [[WD~Mudéjar_architecture_of_Aragon,764675]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -45,4 +48,21 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Cimborrio%20Mud%C3%A9j
 > Typically, the bell towers show extraordinary ornamental development, the structure being inherited from the Islamic minaret: quadrangular with central pier whose spaces are filled via a staircase approximation vaults, as in the Almohad minarets. On this body stood the tower, usually polygonal. There are also examples of octagonal towers.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mud%C3%A9jar%20architecture%20of%20Aragon) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Mudéjar_Architecture_of_Aragon|Mudéjar_Architecture_of_Aragon]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Mudéjar_Architecture_of_Aragon.public|Mudéjar_Architecture_of_Aragon.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Mudéjar_Architecture_of_Aragon.internal|Mudéjar_Architecture_of_Aragon.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Mudéjar_Architecture_of_Aragon.protect|Mudéjar_Architecture_of_Aragon.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Mudéjar_Architecture_of_Aragon.private|Mudéjar_Architecture_of_Aragon.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Mudéjar_Architecture_of_Aragon.personal|Mudéjar_Architecture_of_Aragon.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Mudéjar_Architecture_of_Aragon.secret|Mudéjar_Architecture_of_Aragon.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33226
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 2.65
+dv_has_place_latitude: 39.57
+dv_name: Palma~Mallorca
+dv_Country: "[[../../../../../../Spain]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::2.65] 
-[has_place_latitude::39.57] 
-[name::Palma~Mallorca] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Spain]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Palma~Mallorca](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Palma~Mallorca.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Palma~Mallorca|Palma~Mallorca]] 
 
-### [Palma~Mallorca.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Palma~Mallorca.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Palma~Mallorca.public|Palma~Mallorca.public]] 
 
-### [Palma~Mallorca.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Palma~Mallorca.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Palma~Mallorca.internal|Palma~Mallorca.internal]] 
 
-### [Palma~Mallorca.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Palma~Mallorca.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Palma~Mallorca.protect|Palma~Mallorca.protect]] 
 
-### [Palma~Mallorca.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Palma~Mallorca.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Palma~Mallorca.private|Palma~Mallorca.private]] 
 
-### [Palma~Mallorca.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Palma~Mallorca.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Palma~Mallorca.personal|Palma~Mallorca.personal]] 
 
-### [Palma~Mallorca.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Palma~Mallorca.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Palma~Mallorca.secret|Palma~Mallorca.secret]] 
 

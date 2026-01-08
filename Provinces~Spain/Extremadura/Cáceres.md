@@ -40,17 +40,17 @@ markerFolder: ./Cáceres/
 
 ## Confidential Links & Embeds: 
 
-### [Cáceres](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Cáceres.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Cáceres|Cáceres]] 
 
-### [Cáceres.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Cáceres.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Cáceres.public|Cáceres.public]] 
 
-### [Cáceres.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Cáceres.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Cáceres.internal|Cáceres.internal]] 
 
-### [Cáceres.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Cáceres.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Cáceres.protect|Cáceres.protect]] 
 
-### [Cáceres.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Cáceres.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Cáceres.private|Cáceres.private]] 
 
-### [Cáceres.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Cáceres.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Cáceres.personal|Cáceres.personal]] 
 
-### [Cáceres.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Cáceres.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura/Cáceres.secret|Cáceres.secret]] 
 

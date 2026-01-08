@@ -1,4 +1,10 @@
-﻿---
+---
+dv_"University", "UniversidadComplutenseDeMadrid: s78t5"
+dv_is_:
+  same_as: "[[../../../../../../../../../../../WikiData/WD~Complutense_University_of_Madrid,219694|WD~Complutense_University_of_Madrid,219694]]"
+dv_university-universidadcomplutensedemadrid: s78t5"
+dv_is_same_as: "[[../../../../../../../../../../../WikiData/WD~Complutense_University_of_Madrid,219694|WD~Complutense_University_of_Madrid,219694]]"
+
 has_time_started: 1970-01-01 
 aliases:
   - Complutense University of Madrid
@@ -10,7 +16,7 @@ location:
   - 40.449038888
   - -3.727030555
 coordinate_location: Point(-3.727030555 40.449038888)
-Wolfram_Language_entity_code: Entity["University", "UniversidadComplutenseDeMadrid::s78t5"]
+Wolfram_Language_entity_code: Entity"University", "UniversidadComplutenseDeMadrid = `=this.dv_"University", "UniversidadComplutenseDeMadrid`
 EU_VAT_number: ESQ2818014I
 domain_name: ucm.es
 Instagram_username: uni.complutense
@@ -76,7 +82,7 @@ Commons_category: Complutense University of Madrid
 
 # [[Complutense_University_of_Madrid]] 
 
-#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Complutense_University_of_Madrid,219694|WD~Complutense_University_of_Madrid,219694]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -95,4 +101,21 @@ Commons_category: Complutense University of Madrid
 > It enrolls over 86,000 students, making it the eighth largest non-distance European university by enrollment. By Royal Decree of 1857, the Central University was the first and only institution in Spain authorized to grant doctorate degrees throughout the Spanish Empire. In 1909, the Central University became one of the first universities in the world to grant a doctorate degree to a woman. It was renamed as Universidad de Madrid ('University of Madrid') in 1943.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Complutense%20University%20of%20Madrid) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/Madrid,City/Complutense_University_of_Madrid|Complutense_University_of_Madrid]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/Madrid,City/Complutense_University_of_Madrid.public|Complutense_University_of_Madrid.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/Madrid,City/Complutense_University_of_Madrid.internal|Complutense_University_of_Madrid.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/Madrid,City/Complutense_University_of_Madrid.protect|Complutense_University_of_Madrid.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/Madrid,City/Complutense_University_of_Madrid.private|Complutense_University_of_Madrid.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/Madrid,City/Complutense_University_of_Madrid.personal|Complutense_University_of_Madrid.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/Madrid,City/Complutense_University_of_Madrid.secret|Complutense_University_of_Madrid.secret]] 
 

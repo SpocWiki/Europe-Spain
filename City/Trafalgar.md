@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34942
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -5.98
+dv_has_place_latitude: 36.15
+dv_name: Trafalgar
+dv_Country: "[[../../Spain]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-5.98] 
-[has_place_latitude::36.15] 
-[name::Trafalgar] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Spain]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Trafalgar](/_Standards/Earth/Continent/Europe/Europe~South/Spain/City/Trafalgar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/City/Trafalgar|Trafalgar]] 
 
-### [Trafalgar.public](/_public/Earth/Continent/Europe/Europe~South/Spain/City/Trafalgar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/City/Trafalgar.public|Trafalgar.public]] 
 
-### [Trafalgar.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/City/Trafalgar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/City/Trafalgar.internal|Trafalgar.internal]] 
 
-### [Trafalgar.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/City/Trafalgar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/City/Trafalgar.protect|Trafalgar.protect]] 
 
-### [Trafalgar.private](/_private/Earth/Continent/Europe/Europe~South/Spain/City/Trafalgar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/City/Trafalgar.private|Trafalgar.private]] 
 
-### [Trafalgar.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/City/Trafalgar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/City/Trafalgar.personal|Trafalgar.personal]] 
 
-### [Trafalgar.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/City/Trafalgar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/City/Trafalgar.secret|Trafalgar.secret]] 
 

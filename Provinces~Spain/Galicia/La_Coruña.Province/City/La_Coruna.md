@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 31764
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -8.4
+dv_has_place_latitude: 43.37
+dv_name: La Coruna
+dv_Country: "[[../../../../../Spain]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-8.4] 
-[has_place_latitude::43.37] 
-[name::La Coruna] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Spain]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [La_Coruna](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/La_Coruna.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/La_Coruna|La_Coruna]] 
 
-### [La_Coruna.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/La_Coruna.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/La_Coruna.public|La_Coruna.public]] 
 
-### [La_Coruna.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/La_Coruna.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/La_Coruna.internal|La_Coruna.internal]] 
 
-### [La_Coruna.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/La_Coruna.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/La_Coruna.protect|La_Coruna.protect]] 
 
-### [La_Coruna.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/La_Coruna.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/La_Coruna.private|La_Coruna.private]] 
 
-### [La_Coruna.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/La_Coruna.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/La_Coruna.personal|La_Coruna.personal]] 
 
-### [La_Coruna.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/La_Coruna.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/La_Coruna.secret|La_Coruna.secret]] 
 

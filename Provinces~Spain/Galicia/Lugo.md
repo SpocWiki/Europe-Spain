@@ -40,17 +40,17 @@ markerFolder: ./Lugo/
 
 ## Confidential Links & Embeds: 
 
-### [Lugo](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Lugo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Lugo|Lugo]] 
 
-### [Lugo.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Lugo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Lugo.public|Lugo.public]] 
 
-### [Lugo.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Lugo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Lugo.internal|Lugo.internal]] 
 
-### [Lugo.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Lugo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Lugo.protect|Lugo.protect]] 
 
-### [Lugo.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Lugo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Lugo.private|Lugo.private]] 
 
-### [Lugo.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Lugo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Lugo.personal|Lugo.personal]] 
 
-### [Lugo.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Lugo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/Lugo.secret|Lugo.secret]] 
 

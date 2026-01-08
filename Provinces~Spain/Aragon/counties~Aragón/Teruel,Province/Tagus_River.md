@@ -107,12 +107,17 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/SpainTajoB
 place_name_sign: http://commons.wikimedia.org/wiki/Special:FilePath/Taedje%20el%20Rezieve%20di%20Monfragouw%C3%A9%20plake%20es-r%C3%ADo%20Tajo.jpg
 Commons_gallery: Tagus
 Commons_category: Tagus River
-Wolfram_Language_entity_code: Entity["River", "Tagus::86ty8"]
+Wolfram_Language_entity_code: Entity"River", "Tagus = `=this.dv_"River", "Tagus`
+dv_"River", "Tagus: 86ty8"
+dv_is_:
+  same_as: "[[../../../../../../../../../WikiData/WD~Tagus_River,14294|WD~Tagus_River,14294]]"
+dv_river-tagus: 86ty8"
+dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Tagus_River,14294|WD~Tagus_River,14294]]"
 ---
 
 # [[Tagus_River]] 
 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Tagus_River,14294|WD~Tagus_River,14294]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -124,4 +129,21 @@ Wolfram_Language_entity_code: Entity["River", "Tagus::86ty8"]
 > and empties into the Atlantic Ocean at Lisbon.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tagus) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/counties~Aragón/Teruel,Province/Tagus_River|Tagus_River]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/counties~Aragón/Teruel,Province/Tagus_River.public|Tagus_River.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/counties~Aragón/Teruel,Province/Tagus_River.internal|Tagus_River.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/counties~Aragón/Teruel,Province/Tagus_River.protect|Tagus_River.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/counties~Aragón/Teruel,Province/Tagus_River.private|Tagus_River.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/counties~Aragón/Teruel,Province/Tagus_River.personal|Tagus_River.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/counties~Aragón/Teruel,Province/Tagus_River.secret|Tagus_River.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30157
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -8.23
+dv_has_place_latitude: 43.48
+dv_name: Ferrol
+dv_Country: "[[../../Spain]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-8.23] 
-[has_place_latitude::43.48] 
-[name::Ferrol] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Spain]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ferrol](/_Standards/Earth/Continent/Europe/Europe~South/Spain/City/Ferrol.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/City/Ferrol|Ferrol]] 
 
-### [Ferrol.public](/_public/Earth/Continent/Europe/Europe~South/Spain/City/Ferrol.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/City/Ferrol.public|Ferrol.public]] 
 
-### [Ferrol.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/City/Ferrol.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/City/Ferrol.internal|Ferrol.internal]] 
 
-### [Ferrol.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/City/Ferrol.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/City/Ferrol.protect|Ferrol.protect]] 
 
-### [Ferrol.private](/_private/Earth/Continent/Europe/Europe~South/Spain/City/Ferrol.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/City/Ferrol.private|Ferrol.private]] 
 
-### [Ferrol.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/City/Ferrol.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/City/Ferrol.personal|Ferrol.personal]] 
 
-### [Ferrol.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/City/Ferrol.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/City/Ferrol.secret|Ferrol.secret]] 
 

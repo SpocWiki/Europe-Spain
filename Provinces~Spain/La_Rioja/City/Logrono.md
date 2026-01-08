@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32071
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.43
+dv_has_place_latitude: 42.47
+dv_name: Logrono
+dv_Country: "[[../../../../Spain]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.43] 
-[has_place_latitude::42.47] 
-[name::Logrono] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Spain]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Logrono](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja/City/Logrono.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja/City/Logrono|Logrono]] 
 
-### [Logrono.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja/City/Logrono.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja/City/Logrono.public|Logrono.public]] 
 
-### [Logrono.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja/City/Logrono.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja/City/Logrono.internal|Logrono.internal]] 
 
-### [Logrono.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja/City/Logrono.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja/City/Logrono.protect|Logrono.protect]] 
 
-### [Logrono.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja/City/Logrono.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja/City/Logrono.private|Logrono.private]] 
 
-### [Logrono.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja/City/Logrono.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja/City/Logrono.personal|Logrono.personal]] 
 
-### [Logrono.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja/City/Logrono.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/La_Rioja/City/Logrono.secret|Logrono.secret]] 
 

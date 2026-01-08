@@ -48,17 +48,17 @@ defaultZoom: 11
 
 ## Confidential Links & Embeds: 
 
-### [Madrid,Region](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region|Madrid,Region]] 
 
-### [Madrid,Region.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region.public|Madrid,Region.public]] 
 
-### [Madrid,Region.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region.internal|Madrid,Region.internal]] 
 
-### [Madrid,Region.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region.protect|Madrid,Region.protect]] 
 
-### [Madrid,Region.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region.private|Madrid,Region.private]] 
 
-### [Madrid,Region.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region.personal|Madrid,Region.personal]] 
 
-### [Madrid,Region.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region.secret|Madrid,Region.secret]] 
 

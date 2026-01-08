@@ -13,17 +13,17 @@ markerFolder: ./Extremadura/
 
 ## Confidential Links & Embeds: 
 
-### [Extremadura](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura|Extremadura]] 
 
-### [Extremadura.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura.public|Extremadura.public]] 
 
-### [Extremadura.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura.internal|Extremadura.internal]] 
 
-### [Extremadura.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura.protect|Extremadura.protect]] 
 
-### [Extremadura.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura.private|Extremadura.private]] 
 
-### [Extremadura.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura.personal|Extremadura.personal]] 
 
-### [Extremadura.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Extremadura.secret|Extremadura.secret]] 
 

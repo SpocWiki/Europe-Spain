@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34921
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.65
+dv_has_place_latitude: 37.97
+dv_name: Torrevieja
+dv_Country: "[[../../Spain]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.65] 
-[has_place_latitude::37.97] 
-[name::Torrevieja] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Spain]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Torrevieja](/_Standards/Earth/Continent/Europe/Europe~South/Spain/City/Torrevieja.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/City/Torrevieja|Torrevieja]] 
 
-### [Torrevieja.public](/_public/Earth/Continent/Europe/Europe~South/Spain/City/Torrevieja.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/City/Torrevieja.public|Torrevieja.public]] 
 
-### [Torrevieja.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/City/Torrevieja.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/City/Torrevieja.internal|Torrevieja.internal]] 
 
-### [Torrevieja.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/City/Torrevieja.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/City/Torrevieja.protect|Torrevieja.protect]] 
 
-### [Torrevieja.private](/_private/Earth/Continent/Europe/Europe~South/Spain/City/Torrevieja.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/City/Torrevieja.private|Torrevieja.private]] 
 
-### [Torrevieja.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/City/Torrevieja.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/City/Torrevieja.personal|Torrevieja.personal]] 
 
-### [Torrevieja.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/City/Torrevieja.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/City/Torrevieja.secret|Torrevieja.secret]] 
 

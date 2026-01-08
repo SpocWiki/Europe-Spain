@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 34920
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -4.1
+dv_has_place_latitude: 36.72
+dv_name: Torre del Mar
+dv_Country: "[[../../Spain]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-4.1] 
-[has_place_latitude::36.72] 
-[name::Torre del Mar] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Spain]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Torre_del_Mar](/_Standards/Earth/Continent/Europe/Europe~South/Spain/City/Torre_del_Mar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/City/Torre_del_Mar|Torre_del_Mar]] 
 
-### [Torre_del_Mar.public](/_public/Earth/Continent/Europe/Europe~South/Spain/City/Torre_del_Mar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/City/Torre_del_Mar.public|Torre_del_Mar.public]] 
 
-### [Torre_del_Mar.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/City/Torre_del_Mar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/City/Torre_del_Mar.internal|Torre_del_Mar.internal]] 
 
-### [Torre_del_Mar.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/City/Torre_del_Mar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/City/Torre_del_Mar.protect|Torre_del_Mar.protect]] 
 
-### [Torre_del_Mar.private](/_private/Earth/Continent/Europe/Europe~South/Spain/City/Torre_del_Mar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/City/Torre_del_Mar.private|Torre_del_Mar.private]] 
 
-### [Torre_del_Mar.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/City/Torre_del_Mar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/City/Torre_del_Mar.personal|Torre_del_Mar.personal]] 
 
-### [Torre_del_Mar.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/City/Torre_del_Mar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/City/Torre_del_Mar.secret|Torre_del_Mar.secret]] 
 

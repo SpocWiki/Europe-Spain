@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Gibraltar,1410|WD~Gibraltar,1410]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Gibraltar,1410|WD~Gibraltar,1410]]"
+
 has_time_started: 1704-01-01 
 aliases:
   - Gibraltar
@@ -178,7 +182,7 @@ Dewey_Decimal_Classification: 2--4689
 
 # [[Gibraltar]] 
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Gibraltar,1410|WD~Gibraltar,1410]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map  
 
@@ -207,17 +211,17 @@ markerFolder: ./Gibraltar/
 
 ## Confidential Links & Embeds: 
 
-### [Gibraltar](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Gibraltar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Gibraltar|Gibraltar]] 
 
-### [Gibraltar.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Gibraltar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Gibraltar.public|Gibraltar.public]] 
 
-### [Gibraltar.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Gibraltar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Gibraltar.internal|Gibraltar.internal]] 
 
-### [Gibraltar.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Gibraltar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Gibraltar.protect|Gibraltar.protect]] 
 
-### [Gibraltar.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Gibraltar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Gibraltar.private|Gibraltar.private]] 
 
-### [Gibraltar.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Gibraltar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Gibraltar.personal|Gibraltar.personal]] 
 
-### [Gibraltar.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Gibraltar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Gibraltar.secret|Gibraltar.secret]] 
 

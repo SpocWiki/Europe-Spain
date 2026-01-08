@@ -1,4 +1,12 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.9
+dv_has_place_latitude: 43.33
+dv_name: Bilbao
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Bilbao,8692]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~Bilbao,8692]]"
+
 has_time_started: 1300-01-01 
 aliases:
 has_id_wikidata: Q8692
@@ -121,17 +129,17 @@ postal_code: 48001–48015
 # [[Bilbao]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.9] 
-[has_place_latitude::43.33] 
-[name::Bilbao] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[Spain]]  
 [StateId::] 
 [Population::] 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Bilbao,8692]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map  
 
@@ -158,19 +166,21 @@ maxZoom: 18
 > On 19 May 2010, the city of Bilbao was recognised with the Lee Kuan Yew World City Prize, awarded by the city state of Singapore. Considered the Nobel Prize for urbanism, it was handed out on 29 June 2010. On 7 January 2013, its mayor, Iñaki Azkuna, received the 2012 World Mayor Prize awarded every two years by the British foundation The City Mayors Foundation, in recognition of the urban transformation experienced by the Biscayan capital since the 1990s. On 8 November 2017, Bilbao was chosen the Best European City 2018 at The Urbanism Awards 2018, awarded by the international organisation The Academy of Urbanism.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bilbao)
+
+
 ## Confidential Links & Embeds: 
 
-### [Bilbao](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Bilbao.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Bilbao|Bilbao]] 
 
-### [Bilbao.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Bilbao.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Bilbao.public|Bilbao.public]] 
 
-### [Bilbao.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Bilbao.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Bilbao.internal|Bilbao.internal]] 
 
-### [Bilbao.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Bilbao.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Bilbao.protect|Bilbao.protect]] 
 
-### [Bilbao.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Bilbao.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Bilbao.private|Bilbao.private]] 
 
-### [Bilbao.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Bilbao.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Bilbao.personal|Bilbao.personal]] 
 
-### [Bilbao.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Bilbao.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Basque_Country/counties~País_Vasco/Bizkaia/cities~Vizcaya/Bilbao.secret|Bilbao.secret]] 
 

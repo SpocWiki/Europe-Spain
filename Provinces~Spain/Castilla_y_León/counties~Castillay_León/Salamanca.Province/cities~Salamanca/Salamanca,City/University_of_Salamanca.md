@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../../../WikiData/WD~University_of_Salamanca,308963|WD~University_of_Salamanca,308963]]"
+dv_is_same_as: "[[../../../../../../../../../../../WikiData/WD~University_of_Salamanca,308963|WD~University_of_Salamanca,308963]]"
+
 has_time_started: 1218-01-01 
 aliases:
   - University of Salamanca
@@ -76,7 +80,7 @@ EU_Participant_Identification_Code: 999846610
 
 # [[University_of_Salamanca]] 
 
-#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~University_of_Salamanca,308963|WD~University_of_Salamanca,308963]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -88,4 +92,21 @@ EU_Participant_Identification_Code: 999846610
 > It has over 30,000 students from 50 different nationalities.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/University%20of%20Salamanca) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Salamanca.Province/cities~Salamanca/Salamanca,City/University_of_Salamanca|University_of_Salamanca]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Salamanca.Province/cities~Salamanca/Salamanca,City/University_of_Salamanca.public|University_of_Salamanca.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Salamanca.Province/cities~Salamanca/Salamanca,City/University_of_Salamanca.internal|University_of_Salamanca.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Salamanca.Province/cities~Salamanca/Salamanca,City/University_of_Salamanca.protect|University_of_Salamanca.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Salamanca.Province/cities~Salamanca/Salamanca,City/University_of_Salamanca.private|University_of_Salamanca.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Salamanca.Province/cities~Salamanca/Salamanca,City/University_of_Salamanca.personal|University_of_Salamanca.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Castilla_y_León/counties~Castillay_León/Salamanca.Province/cities~Salamanca/Salamanca,City/University_of_Salamanca.secret|University_of_Salamanca.secret]] 
 

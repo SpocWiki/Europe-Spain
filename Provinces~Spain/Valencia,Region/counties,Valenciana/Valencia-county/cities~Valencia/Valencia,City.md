@@ -15,20 +15,28 @@ tags:
 SpocWebEntityId: 35173
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.38
+dv_has_place_latitude: 39.47
+dv_name: Valencia,City
+dv_Country: "[[../../../../../../Spain]]"
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~Valencia,8818|WD~Valencia,8818]]"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Valencia,8818|WD~Valencia,8818]]"
 ---
 
 # [[Valencia,City]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.38] 
-[has_place_latitude::39.47] 
-[name::Valencia,City] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Spain]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Valencia,8818|WD~Valencia,8818]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -74,17 +82,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Valencia-City](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Valencia-county/cities~Valencia/Valencia-City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Valencia-county/cities~Valencia/Valencia,City|Valencia,City]] 
 
-### [Valencia-City.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Valencia-county/cities~Valencia/Valencia-City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Valencia-county/cities~Valencia/Valencia,City.public|Valencia,City.public]] 
 
-### [Valencia-City.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Valencia-county/cities~Valencia/Valencia-City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Valencia-county/cities~Valencia/Valencia,City.internal|Valencia,City.internal]] 
 
-### [Valencia-City.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Valencia-county/cities~Valencia/Valencia-City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Valencia-county/cities~Valencia/Valencia,City.protect|Valencia,City.protect]] 
 
-### [Valencia-City.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Valencia-county/cities~Valencia/Valencia-City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Valencia-county/cities~Valencia/Valencia,City.private|Valencia,City.private]] 
 
-### [Valencia-City.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Valencia-county/cities~Valencia/Valencia-City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Valencia-county/cities~Valencia/Valencia,City.personal|Valencia,City.personal]] 
 
-### [Valencia-City.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Valencia-county/cities~Valencia/Valencia-City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Valencia-county/cities~Valencia/Valencia,City.secret|Valencia,City.secret]] 
 

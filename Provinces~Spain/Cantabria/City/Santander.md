@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33944
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -3.7
+dv_has_place_latitude: 43.47
+dv_name: Santander
+dv_Country: "[[../../../../Spain]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-3.7] 
-[has_place_latitude::43.47] 
-[name::Santander] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Spain]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Santander](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria/City/Santander.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria/City/Santander|Santander]] 
 
-### [Santander.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria/City/Santander.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria/City/Santander.public|Santander.public]] 
 
-### [Santander.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria/City/Santander.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria/City/Santander.internal|Santander.internal]] 
 
-### [Santander.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria/City/Santander.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria/City/Santander.protect|Santander.protect]] 
 
-### [Santander.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria/City/Santander.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria/City/Santander.private|Santander.private]] 
 
-### [Santander.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria/City/Santander.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria/City/Santander.personal|Santander.personal]] 
 
-### [Santander.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria/City/Santander.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria/City/Santander.secret|Santander.secret]] 
 

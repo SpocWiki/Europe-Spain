@@ -41,17 +41,17 @@ markerFolder: ./La_Coruña.Province/
 
 ## Confidential Links & Embeds: 
 
-### [La_Coruña.Province](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province|La_Coruña.Province]] 
 
-### [La_Coruña.Province.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province.public|La_Coruña.Province.public]] 
 
-### [La_Coruña.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province.internal|La_Coruña.Province.internal]] 
 
-### [La_Coruña.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province.protect|La_Coruña.Province.protect]] 
 
-### [La_Coruña.Province.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province.private|La_Coruña.Province.private]] 
 
-### [La_Coruña.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province.personal|La_Coruña.Province.personal]] 
 
-### [La_Coruña.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province.secret|La_Coruña.Province.secret]] 
 

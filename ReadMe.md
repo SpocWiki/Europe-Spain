@@ -11,7 +11,7 @@ aliases:
   - ReadMe
 has_id_wikidata: Q29
 title: Spain
-linkTitle: ''
+linkTitle: ""
 type: Country
 location:
   - 40.0911
@@ -27,11 +27,11 @@ source: https://datahub.io/core/country-codes
 cssclasses:
   - Country
 publish: true
-keywords: ''
-layout: ''
+keywords: ""
+layout: ""
 draft: false
-publishDate: ''
-expiryDate: ''
+publishDate: ""
+expiryDate: ""
 Languages:
   - es-ES
   - ca
@@ -39,6 +39,81 @@ Languages:
   - eu
   - oc
 icon: flag-es
+dv_name: Spain
+dv_name-en: Spain
+dv_name-es: España
+dv_name-fr: Espagne
+dv_name-cn: 西班牙
+dv_name-ar: إسبانيا
+dv_name-ru: Испания
+dv_name-de: Spanien
+dv_ISO2: ES
+dv_ISO3: ESP
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Europe-Spain
+  image_for_:
+    flag: "![[./Flag_of_Spain.svg|200]] ![](./Flag_of_Spain.svg)"
+    coat_of_arms: "![[./Escudo_de_España~mazonado.svg|150]] ![](./Escudo_de_España~mazonado.svg)"
+  sound_of_:
+    anthem: "![[Anthem-Spain-complete.mp3]]"
+dv_ISO4217-currency_alphabetic: EUR
+dv_ISO4217-currency_name: Euro
+dv_ISO4217-currency_numeric: 978
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: SPAIN
+dv_Telephone: 34
+dv_Global: true
+dv_Global_Name: World
+dv_CLDR_display_name: Spain
+dv_UNTERM_English: Spain
+dv_UNTERM_English_Formal: the Kingdom of Spain
+dv_UNTERM_Spanish_Formal: el Reino de España
+dv_UNTERM_Spanish: España
+dv_UNTERM_French: Espagne (l') [fém.]
+dv_UNTERM_Arabic: إسبانيا
+dv_UNTERM_Arabic_Formal: مملكة إسبانيا
+dv_UNTERM_Chinese: 西班牙
+dv_UNTERM_Chinese_Formal: 西班牙王国
+dv_UNTERM_French_Formal: le Royaume d'Espagne
+dv_UNTERM_Russian: Испания
+dv_UNTERM_Russian_Formal: Королевство Испания
+dv_Region_Name: "[[../../../Europe]]"
+dv_Intermediate_Region_Name: "[[ReadMe]]"
+dv_Sub-region_Name: "[[Southern Europe]]"
+dv_Region: 150
+dv_Sub-region: 39
+dv_Geoname-ID: 2510769
+dv_FIPS: SP
+dv_FIFA: ESP
+dv_IOC: ESP
+dv_MARC: sp
+dv_GAUL: 229
+dv_WMO: SP
+dv_ITU: E
+dv_DS: E
+dv_TLD: .es
+dv_EDGAR: U3
+dv_M49: 724
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developed
+dv_ISO3166-1-numeric: 724
+dv_Area-Total: 505990
+dv_Area-Land: 499440
+dv_has_place_continent: "[[../../../Europe]]"
+dv_VehicleCode: E
+dv_Capital: "[[Provinces~Spain/Madrid,Region]]"
+dv_Alcohol-l: 11.6
+dv_Language-Id: 492
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: -2.86673
+dv_has_place_latitude: 40.0911
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Spain
+dv_has_image_for_flag: "![[./Flag_of_Spain.svg|200]] ![](./Flag_of_Spain.svg)"
+dv_has_image_for_coat_of_arms: "![[./Escudo_de_España~mazonado.svg|150]] ![](./Escudo_de_España~mazonado.svg)"
+dv_has_sound_of_anthem: "![[Anthem-Spain-complete.mp3]]"
+dv_developed_developing_countries: Developed
 ---
 
 # Spain (España)
@@ -46,19 +121,19 @@ icon: flag-es
 ## International Names
 
 
-[	name	 :: Spain ] 
-[	name-en	 :: Spain ] 
-[	name-es	 :: España ] 
-[	name-fr	 :: Espagne ] 
-[	name-cn	 :: 西班牙 ] 
-[	name-ar	 :: إسبانيا ] 
-[	name-ru	 :: Испания ] 
-[name-de::Spanien] 
+name = `=this.dv_name` 
+name-en = `=this.dv_name-en` 
+name-es = `=this.dv_name-es` 
+name-fr = `=this.dv_name-fr` 
+name-cn = `=this.dv_name-cn` 
+name-ar = `=this.dv_name-ar` 
+name-ru = `=this.dv_name-ru` 
+name-de = `=this.dv_name-de` 
 
-[ISO2::ES] 
-[ISO3::ESP] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Spain 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 This Repository/Folder/Wiki/Vault contains freely usable Text and Data 
 covering the European country of [Spain](https://en.wikipedia.org/wiki/Spain). 
@@ -85,7 +160,7 @@ Check out this Repository into this Subfolder:
 
 ### #has_/image_for_/flag 
 
-#has_/image_for_/flag :: ![[./Flag_of_Spain.svg|200]] <img src="./Flag_of_Spain.svg" width="200"/> 
+has_image_for_flag = `=this.dv_has_image_for_flag`
 
 ## #has_/text_of_/abstract  
 
@@ -184,9 +259,9 @@ Check out this Repository into this Subfolder:
 
 ### #has_/image_for_/coat_of_arms 
 
-#has_/image_for_/coat_of_arms :: ![[./Escudo_de_España~mazonado.svg|150]] <img src="./Escudo_de_España~mazonado.svg" width="150"/> 
+has_image_for_coat_of_arms = `=this.dv_has_image_for_coat_of_arms`
 
-#has_/sound_of_/anthem :: ![[Anthem-Spain-complete.mp3]]
+has_sound_of_anthem = `=this.dv_has_sound_of_anthem`
 
 ### #has_/map  
 
@@ -199,88 +274,88 @@ geojsonFolder: .///
 markerFolder: ./
 ```
 
-[	ISO4217-currency_alphabetic	 :: EUR ] 
-[	ISO4217-currency_name	 :: Euro ] 
-[	ISO4217-currency_numeric	 :: 978 ] 
-[	ISO4217-currency_minor_unit	 :: 2 ] 
-[	ISO4217-currency_country_name	 :: SPAIN ] 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
 
-[	Telephone	 :: 34 ] 
+Telephone = `=this.dv_Telephone` 
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ] 
+Global = `=this.dv_Global` 
+Global_Name = `=this.dv_Global_Name` 
 
-[	CLDR_display_name	 :: Spain ] 
+CLDR_display_name = `=this.dv_CLDR_display_name` 
 
-[	UNTERM_English	 :: Spain ] 
-[	UNTERM_English_Formal	 :: the Kingdom of Spain ] 
-[	UNTERM_Spanish_Formal	 :: el Reino de España ] 
-[	UNTERM_Spanish	 :: España ] 
-[	UNTERM_French	 :: Espagne (l') [fém.] ] 
-[	UNTERM_Arabic	 :: إسبانيا ] 
-[	UNTERM_Arabic_Formal	 :: مملكة إسبانيا ] 
-[	UNTERM_Chinese	 :: 西班牙 ] 
-[	UNTERM_Chinese_Formal	 :: 西班牙王国 ] 
-[	UNTERM_French_Formal	 :: le Royaume d'Espagne ] 
-[	UNTERM_Russian	 :: Испания ] 
-[	UNTERM_Russian_Formal	 :: Королевство Испания ] 
+UNTERM_English = `=this.dv_UNTERM_English` 
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal` 
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal` 
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish` 
+UNTERM_French = `=this.dv_UNTERM_French` ] 
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic` 
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal` 
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese` 
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal` 
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal` 
+UNTERM_Russian = `=this.dv_UNTERM_Russian` 
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal` 
 
-Region_Name ::  [[Europe]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Southern Europe]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 150 ] 
-[	Intermediate_Region	 ::  ] 
-[	Sub-region	 :: 39 ] 
+Region = `=this.dv_Region` 
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region` 
 
-[	Geoname-ID	 :: 2510769 ] 
-[	FIPS	 :: SP ] 
-[	FIFA	 :: ESP ] 
-[	IOC	 :: ESP ] 
-[	MARC	 :: sp ] 
-[	GAUL	 :: 229 ] 
-[	WMO	 :: SP ] 
-[	ITU	 :: E ] 
-[	DS	 :: E ] 
-[	TLD	 :: .es ] 
-[	EDGAR	 :: U3 ] 
-[	M49	 :: 724 ] 
+Geoname-ID = `=this.dv_Geoname-ID` 
+FIPS = `=this.dv_FIPS` 
+FIFA = `=this.dv_FIFA` 
+IOC = `=this.dv_IOC` 
+MARC = `=this.dv_MARC` 
+GAUL = `=this.dv_GAUL` 
+WMO = `=this.dv_WMO` 
+ITU = `=this.dv_ITU` 
+DS = `=this.dv_DS` 
+TLD = `=this.dv_TLD` 
+EDGAR = `=this.dv_EDGAR` 
+M49 = `=this.dv_M49` 
 
-[	is_independent	 :: Yes ] 
-[	Developed_/Developing_Countries	 :: Developed ] 
+is_independent = `=this.dv_is_independent` 
+developed_developing_countries = `=this.dv_developed_developing_countries` 
 [	Land_Locked_Developing_Countries	 ::  ] 
 [	Least_Developed_Countries	 ::  ] 
-[	Small_Island_Developing_States	 ::  ] 
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 724 ] 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
 
-[Area-Total::505990] 
-[Area-Land::499440] 
-has_place_continent:: [[Europe]]  
-[VehicleCode::E] 
-Capital :: [[Provinces~Spain/Madrid,Region]] 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode` 
+Capital = `=this.dv_Capital`
 
-[Alcohol-l::11.6] 
-[Language-Id::492] 
+Alcohol-l = `=this.dv_Alcohol-l` 
+Language-Id = `=this.dv_Language-Id` 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.86673] 
-[has_place_latitude::40.0911] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~South/Spain/ReadMe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/ReadMe|ReadMe]] 
 
-### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~South/Spain/ReadMe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/ReadMe.public|ReadMe.public]] 
 
-### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/ReadMe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/ReadMe.internal|ReadMe.internal]] 
 
-### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/ReadMe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/ReadMe.protect|ReadMe.protect]] 
 
-### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~South/Spain/ReadMe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/ReadMe.private|ReadMe.private]] 
 
-### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/ReadMe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/ReadMe.personal|ReadMe.personal]] 
 
-### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/ReadMe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/ReadMe.secret|ReadMe.secret]] 
 

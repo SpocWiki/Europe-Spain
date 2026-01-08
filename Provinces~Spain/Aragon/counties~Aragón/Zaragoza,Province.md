@@ -41,17 +41,17 @@ markerFolder: ./Zaragoza.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Zaragoza.Province](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Zaragoza.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/counties~Aragón/Zaragoza,Province|Zaragoza,Province]] 
 
-### [Zaragoza.Province.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Zaragoza.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/counties~Aragón/Zaragoza,Province.public|Zaragoza,Province.public]] 
 
-### [Zaragoza.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Zaragoza.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/counties~Aragón/Zaragoza,Province.internal|Zaragoza,Province.internal]] 
 
-### [Zaragoza.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Zaragoza.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/counties~Aragón/Zaragoza,Province.protect|Zaragoza,Province.protect]] 
 
-### [Zaragoza.Province.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Zaragoza.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/counties~Aragón/Zaragoza,Province.private|Zaragoza,Province.private]] 
 
-### [Zaragoza.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Zaragoza.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/counties~Aragón/Zaragoza,Province.personal|Zaragoza,Province.personal]] 
 
-### [Zaragoza.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Zaragoza.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/counties~Aragón/Zaragoza,Province.secret|Zaragoza,Province.secret]] 
 

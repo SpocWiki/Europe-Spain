@@ -42,17 +42,17 @@ markerFolder: ./Teruel.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Teruel.Province](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Teruel.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/counties~Aragón/Teruel,Province|Teruel,Province]] 
 
-### [Teruel.Province.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Teruel.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/counties~Aragón/Teruel,Province.public|Teruel,Province.public]] 
 
-### [Teruel.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Teruel.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/counties~Aragón/Teruel,Province.internal|Teruel,Province.internal]] 
 
-### [Teruel.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Teruel.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/counties~Aragón/Teruel,Province.protect|Teruel,Province.protect]] 
 
-### [Teruel.Province.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Teruel.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/counties~Aragón/Teruel,Province.private|Teruel,Province.private]] 
 
-### [Teruel.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Teruel.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/counties~Aragón/Teruel,Province.personal|Teruel,Province.personal]] 
 
-### [Teruel.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/Teruel.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Aragon/counties~Aragón/Teruel,Province.secret|Teruel,Province.secret]] 
 

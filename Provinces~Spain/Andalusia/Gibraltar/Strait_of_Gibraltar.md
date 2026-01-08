@@ -1,7 +1,12 @@
+---
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~Strait_of_Gibraltar,36124|WD~Strait_of_Gibraltar,36124]]"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~Strait_of_Gibraltar,36124|WD~Strait_of_Gibraltar,36124]]"
+---
 
 # [[Strait_of_Gibraltar]] 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Strait_of_Gibraltar,36124|WD~Strait_of_Gibraltar,36124]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -22,4 +27,21 @@
 > to cross the strait of Gibraltar in case of continuous transit.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Strait%20of%20Gibraltar) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Gibraltar/Strait_of_Gibraltar|Strait_of_Gibraltar]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Gibraltar/Strait_of_Gibraltar.public|Strait_of_Gibraltar.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Gibraltar/Strait_of_Gibraltar.internal|Strait_of_Gibraltar.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Gibraltar/Strait_of_Gibraltar.protect|Strait_of_Gibraltar.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Gibraltar/Strait_of_Gibraltar.private|Strait_of_Gibraltar.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Gibraltar/Strait_of_Gibraltar.personal|Strait_of_Gibraltar.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Andalusia/Gibraltar/Strait_of_Gibraltar.secret|Strait_of_Gibraltar.secret]] 
 

@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Royal_Monastery_of_San_Lorenzo_de_El_Escorial,28471]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Royal_Monastery_of_San_Lorenzo_de_El_Escorial,28471]]"
+
 has_time_started: 1563-01-01 
 aliases:
   - Royal Site of San Lorenzo de El Escorial
@@ -88,7 +92,7 @@ ISNI: 0000000417657439
 
 # [[El_Escorial]] 
 
-#is_/same_as :: [[WD~Royal_Monastery_of_San_Lorenzo_de_El_Escorial,28471]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -129,4 +133,20 @@ ISNI: 0000000417657439
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/El%20Escorial) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/El_Escorial|El_Escorial]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/El_Escorial.public|El_Escorial.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/El_Escorial.internal|El_Escorial.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/El_Escorial.protect|El_Escorial.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/El_Escorial.private|El_Escorial.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/El_Escorial.personal|El_Escorial.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Madrid,Region/El_Escorial.secret|El_Escorial.secret]] 
 

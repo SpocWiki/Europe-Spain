@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 28719
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 3.37
+dv_has_place_latitude: 40.48
+dv_name: Alcala de Henares
+dv_Country: "[[../../Spain]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::3.37] 
-[has_place_latitude::40.48] 
-[name::Alcala de Henares] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Spain]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alcala_de_Henares](/_Standards/Earth/Continent/Europe/Europe~South/Spain/City/Alcala_de_Henares.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/City/Alcala_de_Henares|Alcala_de_Henares]] 
 
-### [Alcala_de_Henares.public](/_public/Earth/Continent/Europe/Europe~South/Spain/City/Alcala_de_Henares.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/City/Alcala_de_Henares.public|Alcala_de_Henares.public]] 
 
-### [Alcala_de_Henares.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/City/Alcala_de_Henares.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/City/Alcala_de_Henares.internal|Alcala_de_Henares.internal]] 
 
-### [Alcala_de_Henares.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/City/Alcala_de_Henares.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/City/Alcala_de_Henares.protect|Alcala_de_Henares.protect]] 
 
-### [Alcala_de_Henares.private](/_private/Earth/Continent/Europe/Europe~South/Spain/City/Alcala_de_Henares.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/City/Alcala_de_Henares.private|Alcala_de_Henares.private]] 
 
-### [Alcala_de_Henares.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/City/Alcala_de_Henares.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/City/Alcala_de_Henares.personal|Alcala_de_Henares.personal]] 
 
-### [Alcala_de_Henares.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/City/Alcala_de_Henares.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/City/Alcala_de_Henares.secret|Alcala_de_Henares.secret]] 
 

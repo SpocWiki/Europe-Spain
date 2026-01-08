@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1981-04-28 
 aliases:
   - Galicia
@@ -120,17 +120,17 @@ native_label:
 
 ## Confidential Links & Embeds: 
 
-### [Galicia](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia|Galicia]] 
 
-### [Galicia.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia.public|Galicia.public]] 
 
-### [Galicia.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia.internal|Galicia.internal]] 
 
-### [Galicia.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia.protect|Galicia.protect]] 
 
-### [Galicia.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia.private|Galicia.private]] 
 
-### [Galicia.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia.personal|Galicia.personal]] 
 
-### [Galicia.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia.secret|Galicia.secret]] 
 

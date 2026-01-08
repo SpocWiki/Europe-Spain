@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~Cathedral_of_Santiago_de_Compostela,205136|WD~Cathedral_of_Santiago_de_Compostela,205136]]"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Cathedral_of_Santiago_de_Compostela,205136|WD~Cathedral_of_Santiago_de_Compostela,205136]]"
+
 has_time_started: 0801-01-01 
 aliases:
   - Santiago de Compostela Archcathedral Basilica
@@ -62,7 +66,7 @@ Asset_of_cultural_interest_code: RI-51-0000072
 
 # [[Cathedral_of_Santiago_de_Compostela]] 
 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Cathedral_of_Santiago_de_Compostela,205136|WD~Cathedral_of_Santiago_de_Compostela,205136]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -84,4 +88,21 @@ Asset_of_cultural_interest_code: RI-51-0000072
 > The building is a Romanesque structure, with later Gothic and Baroque additions.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Santiago%20de%20Compostela%20Cathedral) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/Santiago_de_Compostela/Cathedral_of_Santiago_de_Compostela|Cathedral_of_Santiago_de_Compostela]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/Santiago_de_Compostela/Cathedral_of_Santiago_de_Compostela.public|Cathedral_of_Santiago_de_Compostela.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/Santiago_de_Compostela/Cathedral_of_Santiago_de_Compostela.internal|Cathedral_of_Santiago_de_Compostela.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/Santiago_de_Compostela/Cathedral_of_Santiago_de_Compostela.protect|Cathedral_of_Santiago_de_Compostela.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/Santiago_de_Compostela/Cathedral_of_Santiago_de_Compostela.private|Cathedral_of_Santiago_de_Compostela.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/Santiago_de_Compostela/Cathedral_of_Santiago_de_Compostela.personal|Cathedral_of_Santiago_de_Compostela.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Galicia/La_Coruña.Province/City/Santiago_de_Compostela/Cathedral_of_Santiago_de_Compostela.secret|Cathedral_of_Santiago_de_Compostela.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32635
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -9.05
+dv_has_place_latitude: 42.77
+dv_name: Muros
+dv_Country: "[[../../Spain]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-9.05] 
-[has_place_latitude::42.77] 
-[name::Muros] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Spain]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Muros](/_Standards/Earth/Continent/Europe/Europe~South/Spain/City/Muros.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/City/Muros|Muros]] 
 
-### [Muros.public](/_public/Earth/Continent/Europe/Europe~South/Spain/City/Muros.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/City/Muros.public|Muros.public]] 
 
-### [Muros.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/City/Muros.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/City/Muros.internal|Muros.internal]] 
 
-### [Muros.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/City/Muros.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/City/Muros.protect|Muros.protect]] 
 
-### [Muros.private](/_private/Earth/Continent/Europe/Europe~South/Spain/City/Muros.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/City/Muros.private|Muros.private]] 
 
-### [Muros.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/City/Muros.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/City/Muros.personal|Muros.personal]] 
 
-### [Muros.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/City/Muros.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/City/Muros.secret|Muros.secret]] 
 

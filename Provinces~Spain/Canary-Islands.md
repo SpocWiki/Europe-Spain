@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Canary_Islands,5813|WD~Canary_Islands,5813]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Canary_Islands,5813|WD~Canary_Islands,5813]]"
+
 has_time_started: 1982-08-10 
 aliases:
   - Islas_Canarias
@@ -100,7 +104,7 @@ FIPS_10_4_countries_and_regions_: SP53
 ---
 # [[Canary-Islands]]
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Canary_Islands,5813|WD~Canary_Islands,5813]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -146,20 +150,19 @@ defaultZoom: 11
 > [Wikipedia](https://en.wikipedia.org/wiki/Canary%20Islands) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Canary-Islands](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands|Canary-Islands]] 
 
-### [Canary-Islands.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands.public|Canary-Islands.public]] 
 
-### [Canary-Islands.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands.internal|Canary-Islands.internal]] 
 
-### [Canary-Islands.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands.protect|Canary-Islands.protect]] 
 
-### [Canary-Islands.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands.private|Canary-Islands.private]] 
 
-### [Canary-Islands.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands.personal|Canary-Islands.personal]] 
 
-### [Canary-Islands.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Canary-Islands.secret|Canary-Islands.secret]] 
 

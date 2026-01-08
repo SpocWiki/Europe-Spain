@@ -26,17 +26,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### [Islands-Atlantic](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Islands-Atlantic.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Islands-Atlantic|Islands-Atlantic]] 
 
-### [Islands-Atlantic.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Islands-Atlantic.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Islands-Atlantic.public|Islands-Atlantic.public]] 
 
-### [Islands-Atlantic.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Islands-Atlantic.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Islands-Atlantic.internal|Islands-Atlantic.internal]] 
 
-### [Islands-Atlantic.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Islands-Atlantic.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Islands-Atlantic.protect|Islands-Atlantic.protect]] 
 
-### [Islands-Atlantic.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Islands-Atlantic.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Islands-Atlantic.private|Islands-Atlantic.private]] 
 
-### [Islands-Atlantic.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Islands-Atlantic.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Islands-Atlantic.personal|Islands-Atlantic.personal]] 
 
-### [Islands-Atlantic.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Islands-Atlantic.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Islands-Atlantic.secret|Islands-Atlantic.secret]] 
 

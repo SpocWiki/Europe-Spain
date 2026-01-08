@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30168
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -9.27
+dv_has_place_latitude: 42.88
+dv_name: Finisterre
+dv_Country: "[[../../Spain]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-9.27] 
-[has_place_latitude::42.88] 
-[name::Finisterre] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Spain]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Finisterre](/_Standards/Earth/Continent/Europe/Europe~South/Spain/City/Finisterre.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/City/Finisterre|Finisterre]] 
 
-### [Finisterre.public](/_public/Earth/Continent/Europe/Europe~South/Spain/City/Finisterre.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/City/Finisterre.public|Finisterre.public]] 
 
-### [Finisterre.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/City/Finisterre.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/City/Finisterre.internal|Finisterre.internal]] 
 
-### [Finisterre.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/City/Finisterre.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/City/Finisterre.protect|Finisterre.protect]] 
 
-### [Finisterre.private](/_private/Earth/Continent/Europe/Europe~South/Spain/City/Finisterre.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/City/Finisterre.private|Finisterre.private]] 
 
-### [Finisterre.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/City/Finisterre.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/City/Finisterre.personal|Finisterre.personal]] 
 
-### [Finisterre.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/City/Finisterre.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/City/Finisterre.secret|Finisterre.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33200
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -5.87
+dv_has_place_latitude: 43.38
+dv_name: Oviedo
+dv_Country: "[[../../../../Spain]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-5.87] 
-[has_place_latitude::43.38] 
-[name::Oviedo] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Spain]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oviedo](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Oviedo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Oviedo|Oviedo]] 
 
-### [Oviedo.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Oviedo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Oviedo.public|Oviedo.public]] 
 
-### [Oviedo.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Oviedo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Oviedo.internal|Oviedo.internal]] 
 
-### [Oviedo.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Oviedo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Oviedo.protect|Oviedo.protect]] 
 
-### [Oviedo.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Oviedo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Oviedo.private|Oviedo.private]] 
 
-### [Oviedo.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Oviedo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Oviedo.personal|Oviedo.personal]] 
 
-### [Oviedo.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Oviedo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Asturias/City/Oviedo.secret|Oviedo.secret]] 
 

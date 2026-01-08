@@ -40,17 +40,17 @@ markerFolder: ./Cantabria/
 
 ## Confidential Links & Embeds: 
 
-### [Cantabria](/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria|Cantabria]] 
 
-### [Cantabria.public](/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria.public|Cantabria.public]] 
 
-### [Cantabria.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria.internal|Cantabria.internal]] 
 
-### [Cantabria.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria.protect|Cantabria.protect]] 
 
-### [Cantabria.private](/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria.private|Cantabria.private]] 
 
-### [Cantabria.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria.personal|Cantabria.personal]] 
 
-### [Cantabria.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Spain/Provinces~Spain/Cantabria.secret|Cantabria.secret]] 
 
