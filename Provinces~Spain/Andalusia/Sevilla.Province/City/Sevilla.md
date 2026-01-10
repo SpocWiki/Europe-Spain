@@ -148,7 +148,7 @@ Libris_URI: rp355dp94ttdlhq
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -6.02
 dv_has_place_latitude: 37.38
-dv_has_name_: Sevilla
+dv_has_name: Sevilla
 dv_is_:
   same_as: "[[../../../../../../../../../WikiData/WD~Seville,8717|WD~Seville,8717]]"
 dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Seville,8717|WD~Seville,8717]]"
@@ -160,7 +160,7 @@ dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Seville,8717|WD~Seville
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[Spain]]  
 [StateId::] 

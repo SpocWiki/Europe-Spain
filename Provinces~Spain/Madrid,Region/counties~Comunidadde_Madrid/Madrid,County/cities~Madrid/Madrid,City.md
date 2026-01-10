@@ -252,7 +252,7 @@ Libris_URI: fcrtsm3z2zqr5jf
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.69
 dv_has_place_latitude: 40.41
-dv_has_name_: Madrid
+dv_has_name: Madrid
 dv_is_:
   same_as: "[[../../../../../../../../../../WikiData/WD~Madrid,2807|WD~Madrid,2807]]"
 dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Madrid,2807|WD~Madrid,2807]]"
@@ -264,7 +264,7 @@ dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Madrid,2807|WD~Madri
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[Spain]]  
 [StateId::] 

@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -5.67
 dv_has_place_latitude: 40.97
-dv_has_name_: Salamanca
+dv_has_name: Salamanca
 dv_Country: "[[../../../../../../Spain]]"
 dv_is_:
   same_as: "[[_Standards/WikiData/WD~Salamanca,15695]]"
@@ -31,7 +31,7 @@ dv_is_same_as: "[[_Standards/WikiData/WD~Salamanca,15695]]"
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country = `=this.dv_Country`
 [StateId::] 
