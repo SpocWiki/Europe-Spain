@@ -316,7 +316,7 @@ demonym:
 - Spanjaard
 described_by_source:
 - '[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~Draft_History_of_Qing,1374339|WD~Draft_History_of_Qing,1374339]]'
 - '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
@@ -548,7 +548,7 @@ marriageable_age:
 - 18
 median_income: 21959
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
 - '[[/_Standards/WikiData/WD~European_Air_Transport_Command,141720|WD~European_Air_Transport_Command,141720]]'
 - '[[/_Standards/WikiData/WD~European_Southern_Observatory,151991|WD~European_Southern_Observatory,151991]]'
 - '[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
@@ -732,7 +732,7 @@ dv_ISO2: ES
 dv_ISO3: ESP
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Spain,29|WD~Spain,29]]'
+  - '[[../../../../../WikiData/WD~Spain,29|WD~Spain,29]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~South/Spain|Spain]]'
   - '[[/_public/Earth/Continent/Europe/Europe~South/Spain.public|Spain.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~South/Spain.internal|Spain.internal]]'
@@ -742,8 +742,8 @@ dv_is_:
   - '[[/_secret/Earth/Continent/Europe/Europe~South/Spain.secret|Spain.secret]]'
 dv_has_:
   image_for_:
-    flag: '[[./Spain/Flag_of_Spain.svg|Flag_of_Spain.svg|200]]'
-    coat_of_arms: '[[./Spain/Escudo_de_España~mazonado.svg|Escudo_de_España~mazonado.svg|150]]'
+    flag: '[[Flag_of_Spain.svg|Flag_of_Spain.svg|200]]'
+    coat_of_arms: '[[Escudo_de_España~mazonado.svg|Escudo_de_España~mazonado.svg|150]]'
   name_:
     ab: Испаниа
     ace: Seupanyo
@@ -1098,7 +1098,7 @@ dv_has_:
     zh_tw: 西班牙
     zu: ISpeyini
   sound_of_:
-    anthem: '[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Spain-complete.mp3|Anthem-Spain-complete.mp3]]'
+    anthem: '[[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Spain-complete.mp3|Anthem-Spain-complete.mp3]]'
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-France
 dv_ISO4217-currency_alphabetic: EUR
@@ -1122,7 +1122,7 @@ dv_UNTERM_Chinese_Formal: 西班牙王国
 dv_UNTERM_French_Formal: le Royaume d'Espagne
 dv_UNTERM_Russian: Испания
 dv_UNTERM_Russian_Formal: Королевство Испания
-dv_Region_Name: '[[../../Europe|Europe]]'
+dv_Region_Name: '[[../../../Europe|Europe]]'
 dv_Intermediate_Region_Name: '[[Spain]]'
 dv_Sub-region_Name: '[[Southern Europe]]'
 dv_Region: 150
@@ -1145,15 +1145,15 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 724
 dv_Area-Total: 505990
 dv_Area-Land: 499440
-dv_has_place_continent: '[[../../Europe|Europe]]'
+dv_has_place_continent: '[[../../../Europe|Europe]]'
 dv_VehicleCode: E
 dv_Alcohol-l: 11.6
 dv_Language-Id: 492
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: -2.86673
 dv_has_place_latitude: 40.0911
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Spain,29|WD~Spain,29]]'
+- '[[../../../../../WikiData/WD~Spain,29|WD~Spain,29]]'
 - '[[/_Standards/Earth/Continent/Europe/Europe~South/Spain|Spain]]'
 - '[[/_public/Earth/Continent/Europe/Europe~South/Spain.public|Spain.public]]'
 - '[[/_internal/Earth/Continent/Europe/Europe~South/Spain.internal|Spain.internal]]'
@@ -1162,9 +1162,9 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/Europe/Europe~South/Spain.personal|Spain.personal]]'
 - '[[/_secret/Earth/Continent/Europe/Europe~South/Spain.secret|Spain.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-France
-dv_has_image_for_flag: '[[./Spain/Flag_of_Spain.svg|Flag_of_Spain.svg|200]]'
-dv_has_image_for_coat_of_arms: '[[./Spain/Escudo_de_España~mazonado.svg|Escudo_de_España~mazonado.svg|150]]'
-dv_has_sound_of_anthem: '[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Spain-complete.mp3|Anthem-Spain-complete.mp3]]'
+dv_has_image_for_flag: '[[Flag_of_Spain.svg|Flag_of_Spain.svg|200]]'
+dv_has_image_for_coat_of_arms: '[[Escudo_de_España~mazonado.svg|Escudo_de_España~mazonado.svg|150]]'
+dv_has_sound_of_anthem: '[[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Spain-complete.mp3|Anthem-Spain-complete.mp3]]'
 dv_developed_developing_countries: Developed
 Unicode_character: 🇪🇸
 ---
@@ -1190,7 +1190,7 @@ is_a = `=this.dv_is_a_`
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-France)
-into a Subfolder named `France`, so that this Link into the Sub-Repository works: [[France/ReadMe|ReadMe]] 
+into a Subfolder named `France`, so that this Link into the Sub-Repository works: [[../France/ReadMe|ReadMe]] 
 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
@@ -1202,25 +1202,25 @@ Numbers are of 2022-06
 
 | Community                                                        | Pop/M |    km² | GDP/G€ | GDPpP/k€ | HDI   | Notable Properties                                        |
 | ---------------------------------------------------------------- | ----: | -----: | -----: | -------: | ----- | --------------------------------------------------------- |
-| [[Spain/Provinces~Spain/Andalusia\|Andalusia]]                   | 8.631 | 87.268 |  160.0 |   23.218 | 0.853 | Rich cultural heritage; major agricultural producer       |
-| [[Spain/Provinces~Spain/Aragon\|Aragon]]                         | 1.351 | 47.719 |   46.9 |   34.658 | 0.889 | Diverse landscapes; significant renewable energy sector   |
-| [[Spain/Provinces~Spain/Asturias\|Asturias]]                     | 1.009 | 10.604 |   28.5 |   28.130 | 0.882 | Known for natural parks; aging population                 |
-| [[Spain/Provinces~Spain/Baleares\|Balearic Islands]]             | 1.231 |  4.992 |   42.4 |   34.381 | 0.853 | Tourism-driven economy; Mediterranean archipelago         |
-| [[Spain/Provinces~Spain/Basque_Country\|Basque Country]]         | 2.193 |  7.234 |   86.8 |   39.547 | 0.915 | Strong industrial base; high standard of living           |
-| [[Spain/Provinces~Spain/Canary-Islands\|Canary Islands]]         | 2.258 |  7.447 |   59.6 |   26.453 | 0.855 | Volcanic islands; significant tourism sector              |
-| [[Spain/Provinces~Spain/Cantabria\|Cantabria]]                   | 0.593 |  5.321 |   19.5 |   32.828 | 0.880 | Coastal region; rich in prehistoric sites                 |
-| [[Spain/Provinces~Spain/Castilla_y_León\|Castile and León]]      | 2.397 | 94.224 |   71.2 |   29.698 | 0.888 | Largest region by area; historical significance           |
-| [[Spain/Provinces~Spain/Castilla-La_Mancha\|Castilla-La Mancha]] | 2.120 | 79.461 |   55.4 |   26.453 | 0.852 | Agricultural heartland; famous for windmills              |
-| [[Spain/Provinces~Spain/Catalunya\|Catalonia]]                   | 8.119 | 32.114 |  286.3 |   35.325 | 0.897 | Economic powerhouse; distinct cultural identity           |
-| [[Spain/Provinces~Spain/Extremadura\|Extremadura]]               | 1.052 | 41.634 |   24.9 |   23.604 | 0.847 | Low population density; rich in natural resources         |
-| [[Spain/Provinces~Spain/Galicia\|Galicia]]                       | 2.705 | 29.574 |   77.5 |   28.644 | 0.880 | Atlantic coastline; strong fishing industry               |
-| [[Spain/Provinces~Spain/La_Rioja\|La Rioja]]                     | 0.324 |  5.045 |   10.6 |   32.828 | 0.899 | Renowned for wine production; small population            |
-| [[Spain/Provinces~Spain/Madrid,Region\|Madrid]]                  | 7.009 |  8.028 |  296.6 |   42.198 | 0.922 | Capital city; major financial and political center        |
-| [[Spain/Provinces~Spain/Murcia.Region/City/Murcia\|Murcia]]      | 1.568 | 11.313 |   40.6 |   25.887 | 0.863 | Agricultural economy; Mediterranean coastline             |
-| [[Spain/Provinces~Spain/Navarra\|Navarre]]                       | 0.678 | 10.391 |   25.2 |   37.088 | 0.905 | High-tech industries; strong fiscal autonomy              |
-| [[Spain/Provinces~Spain/Valencia,Region\|Valencian Community]]   | 5.319 | 23.255 |  140.8 |   26.453 | 0.875 | Popular tourist destination; diverse economy              |
-| [[Spain/Provinces~Spain/Andalusia/Ceuta\|Ceuta]]                 | 0.083 |   18.5 |    1.9 |   22.751 | 0.846 | Spanish enclave in North Africa; strategic port           |
-| [[Spain/Provinces~Spain/Andalusia/Melilla\|Melilla]]             | 0.085 |   12.3 |    1.8 |   20.479 | 0.827 | Spanish enclave in North Africa; multicultural population |
+| [[Provinces~Spain/Andalusia/|Andalusia]]                   | 8.631 | 87.268 |  160.0 |   23.218 | 0.853 | Rich cultural heritage; major agricultural producer       |
+| [[Provinces~Spain/Aragon/|Aragon]]                         | 1.351 | 47.719 |   46.9 |   34.658 | 0.889 | Diverse landscapes; significant renewable energy sector   |
+| [[Provinces~Spain/Asturias/|Asturias]]                     | 1.009 | 10.604 |   28.5 |   28.130 | 0.882 | Known for natural parks; aging population                 |
+| [[Provinces~Spain/Baleares/|Balearic Islands]]             | 1.231 |  4.992 |   42.4 |   34.381 | 0.853 | Tourism-driven economy; Mediterranean archipelago         |
+| [[Provinces~Spain/Basque_Country/|Basque Country]]         | 2.193 |  7.234 |   86.8 |   39.547 | 0.915 | Strong industrial base; high standard of living           |
+| [[Provinces~Spain/Canary-Islands/|Canary Islands]]         | 2.258 |  7.447 |   59.6 |   26.453 | 0.855 | Volcanic islands; significant tourism sector              |
+| [[Provinces~Spain/Cantabria/|Cantabria]]                   | 0.593 |  5.321 |   19.5 |   32.828 | 0.880 | Coastal region; rich in prehistoric sites                 |
+| [[Provinces~Spain/Castilla_y_León/|Castile and León]]      | 2.397 | 94.224 |   71.2 |   29.698 | 0.888 | Largest region by area; historical significance           |
+| [[Provinces~Spain/Castilla-La_Mancha/|Castilla-La Mancha]] | 2.120 | 79.461 |   55.4 |   26.453 | 0.852 | Agricultural heartland; famous for windmills              |
+| [[Provinces~Spain/Catalunya/|Catalonia]]                   | 8.119 | 32.114 |  286.3 |   35.325 | 0.897 | Economic powerhouse; distinct cultural identity           |
+| [[Provinces~Spain/Extremadura/|Extremadura]]               | 1.052 | 41.634 |   24.9 |   23.604 | 0.847 | Low population density; rich in natural resources         |
+| [[Provinces~Spain/Galicia/|Galicia]]                       | 2.705 | 29.574 |   77.5 |   28.644 | 0.880 | Atlantic coastline; strong fishing industry               |
+| [[Provinces~Spain/La_Rioja/|La Rioja]]                     | 0.324 |  5.045 |   10.6 |   32.828 | 0.899 | Renowned for wine production; small population            |
+| [[Provinces~Spain/Madrid,Region/|Madrid]]                  | 7.009 |  8.028 |  296.6 |   42.198 | 0.922 | Capital city; major financial and political center        |
+| [[Provinces~Spain/Murcia.Region/City/Murcia/|Murcia]]      | 1.568 | 11.313 |   40.6 |   25.887 | 0.863 | Agricultural economy; Mediterranean coastline             |
+| [[Provinces~Spain/Navarra/|Navarre]]                       | 0.678 | 10.391 |   25.2 |   37.088 | 0.905 | High-tech industries; strong fiscal autonomy              |
+| [[Provinces~Spain/Valencia,Region/|Valencian Community]]   | 5.319 | 23.255 |  140.8 |   26.453 | 0.875 | Popular tourist destination; diverse economy              |
+| [[Provinces~Spain/Andalusia/Ceuta/|Ceuta]]                 | 0.083 |   18.5 |    1.9 |   22.751 | 0.846 | Spanish enclave in North Africa; strategic port           |
+| [[Provinces~Spain/Andalusia/Melilla/|Melilla]]             | 0.085 |   12.3 |    1.8 |   20.479 | 0.827 | Spanish enclave in North Africa; multicultural population |
 
 ### #has_/image_for_/flag 
 
@@ -1233,15 +1233,15 @@ Population @2024 in 1000s.
 
 | City                                                                                                                       | Autonomous Community                                       |    Pop/k |
 | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | -------: |
-| [[Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/Madrid,City\|Madrid.City]]   | Community of Madrid                                        | 3422.416 |
-| [[Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona,Province/cities~Barcelona/Barcelona,City\|Barcelona-City]]   | [[Spain/Provinces~Spain/Catalunya\|Catalunya]]             | 1686.208 |
-| [[Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Valencia-county/cities~Valencia/Valencia,City\|Valencia-City]] | [[Spain/Provinces~Spain/Valencia,Region\|Valencia.Region]] |  824.340 |
-| [[Spain/Provinces~Spain/Aragon/counties~Aragón/Zaragoza,Province/City/Zaragoza\|Zaragoza]]                                                 | [[Spain/Provinces~Spain/Aragon\|Aragon]]                   |  691.037 |
-| [[Spain/Provinces~Spain/Andalusia/Sevilla.Province/City/Sevilla\|Sevilla]]                                                 | [[Spain/Provinces~Spain/Andalusia\|Andalusia]]             |  686.741 |
-| [[Spain/Provinces~Spain/Andalusia/Málaga.Province/City/Malaga\|Malaga]]                                                    | [[Spain/Provinces~Spain/Andalusia\|Andalusia]]             |  592.346 |
-| [[Spain/Provinces~Spain/Murcia.Region/City/Murcia\|Murcia]]                                                                | Region of Murcia                                           |  471.982 |
-| [[Spain/Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Palma~Mallorca\|Palma~Mallorca]]         | [[Spain/Provinces~Spain/Baleares\|Baleares]]               |  438.234 |
-| [[Spain/Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Las_Palmas\|Las_Palmas]]                                    | [[Spain/Provinces~Spain/Canary-Islands\|Canary-Islands]]   |  383.516 |
+| [[Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/Madrid,City/|Madrid.City]]   | Community of Madrid                                        | 3422.416 |
+| [[Provinces~Spain/Catalunya/counties~Cataluña/Barcelona,Province/cities~Barcelona/Barcelona,City/|Barcelona-City]]   | [[Provinces~Spain/Catalunya/|Catalunya]]             | 1686.208 |
+| [[Provinces~Spain/Valencia,Region/counties,Valenciana/Valencia-county/cities~Valencia/Valencia,City/|Valencia-City]] | [[Provinces~Spain/Valencia,Region/|Valencia.Region]] |  824.340 |
+| [[Provinces~Spain/Aragon/counties~Aragón/Zaragoza,Province/City/Zaragoza/|Zaragoza]]                                                 | [[Provinces~Spain/Aragon/|Aragon]]                   |  691.037 |
+| [[Provinces~Spain/Andalusia/Sevilla.Province/City/Sevilla/|Sevilla]]                                                 | [[Provinces~Spain/Andalusia/|Andalusia]]             |  686.741 |
+| [[Provinces~Spain/Andalusia/Málaga.Province/City/Malaga/|Malaga]]                                                    | [[Provinces~Spain/Andalusia/|Andalusia]]             |  592.346 |
+| [[Provinces~Spain/Murcia.Region/City/Murcia/|Murcia]]                                                                | Region of Murcia                                           |  471.982 |
+| [[Provinces~Spain/Baleares/counties~Islas_Baleares/Baleares/cities~Baleares/Palma~Mallorca/|Palma~Mallorca]]         | [[Provinces~Spain/Baleares/|Baleares]]               |  438.234 |
+| [[Provinces~Spain/Canary-Islands/counties~Islas_Canarias/Las_Palmas/|Las_Palmas]]                                    | [[Provinces~Spain/Canary-Islands/|Canary-Islands]]   |  383.516 |
 
 
 
@@ -1250,10 +1250,10 @@ Population @2024 in 1000s.
 
 > **Spain**, or the Kingdom of Spain, is a country located in Southwestern Europe, 
 > with parts of its territory in the Atlantic Ocean, the Mediterranean Sea and Africa. 
-> It is the largest country in [[../Europe~South|Southern Europe]] 
-> and the fourth-most populous [[../EU(European_Union)|European Union]] member state. 
+> It is the largest country in [[../../Europe~South|Southern Europe]] 
+> and the fourth-most populous [[../../EU(European_Union)|European Union]] member state. 
 > Spanning across the majority of the Iberian Peninsula, its territory also includes 
-> - the [[Spain/Provinces~Spain/Canary-Islands|Canary Islands]] in the Atlantic Ocean, 
+> - the [[Provinces~Spain/Canary-Islands|Canary Islands]] in the Atlantic Ocean, 
 > - the Balearic Islands in the Mediterranean Sea, 
 > - and the autonomous cities of Ceuta and Melilla in Africa. 
 > 
@@ -1365,7 +1365,7 @@ markerFile: [[Spain]]
 
 ```leaflet
 id: Spain_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1444,7 +1444,7 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[Spain/Provinces~Spain/Madrid,Region|Madrid,Region]] 
+Capital :: [[Provinces~Spain/Madrid,Region|Madrid,Region]] 
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
 
